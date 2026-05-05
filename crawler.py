@@ -39,7 +39,7 @@ from urllib.parse import urlencode
 
 OUTPUT_FILE = Path(__file__).with_name("data.json")
 MAX_ITEMS = 80
-DAYS_BACK = 2
+DAYS_BACK = 7
 TIMEOUT_SECONDS = 20
 
 # Stable public RSS / feed sources.
