@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-05-05T19:19:11+00:00",
-  "news": [],
+  "generatedAt": "2026-05-05T19:24:05+00:00",
+  "news": [
+    {
+      "title": "Hannover Re US Names Kelly Rabin Chief Actuary as Leadership Transition Continues - citybiz",
+      "source": "Google News: mortality longevity life insurance actuari",
+      "category": "Life",
+      "priority": "Medium",
+      "published": "2026-04-30 17:38",
+      "summary": "Hannover Re US Names Kelly Rabin Chief Actuary as Leadership Transition Continues citybiz",
+      "whyItMatters": "Relevant to mortality/longevity assumptions, experience studies, pricing, and reserves.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTIwNzJBbjdUYTV0QzhzcU44WjA5a2ktdVlFNGJYN1g4RGEtNDVfT1lJcENud3ZQWWZ4YjBGTHNCMnBwbWt4S0w5Z09PeURMd3o4eW5QazlwUkh1VncxN0JFbGdmNjNsZEtFYXRIeWNDV1doUDNOMi1FWVpwOUVFSy1BYmZPUlBlaWRlbVBzVlpkTjYwZGpSSlZOSGdYSzRoZnlwd2VCOUtPXzhwYjRFZzBKSmw4TG9wLU5XYQ?oc=5"
+    },
+    {
+      "title": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary - Business Wire",
+      "source": "Google News: American Academy of Actuaries life insuran",
+      "category": "Health",
+      "priority": "High",
+      "published": "2026-04-30 12:30",
+      "summary": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary Business Wire",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzFuVE9FNkl3bXdNbGJEYjRLUjJZSGljY1JVM3dIUnZEc1pNdEVVbk9MVzlhTjE1a2o0VUUtdmdtN29neHB0bVVxbGp2OXlJZXR5bkhwU3JaV3VpajB3UFNNNlJsc1hsN0gtSFhlZm1Sa084bkV6d2Y5ckp4X3ZJNzVkSW9XeW5qSGVaeTI5bEh4QUl3dkJ2STFLZTVSbFZ2OFJHa1ktUzd4SGpjS3NQaHFRUVh4YkhuY1AxVG1Xa29lcjA?oc=5"
+    },
+    {
+      "title": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary - StreetInsider",
+      "source": "Google News: American Academy of Actuaries life insuran",
+      "category": "Health",
+      "priority": "High",
+      "published": "2026-05-01 04:16",
+      "summary": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary StreetInsider",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WU1taERtWUY0V3c5bTQwR2JLSkhPY1RKTnM5ZWFISkc5TnkwNklWT3VXQlFMcF9CaWE0eW4tRDg3U1lYS3Y1cHBWX0V0bkpMM2xDbVpJTTNBZkRHSVhqa0c0Zw?oc=5"
+    }
+  ],
   "jobs": [
     {
       "role": "Actuarial Analyst - Health",
