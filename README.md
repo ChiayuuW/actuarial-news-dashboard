@@ -119,3 +119,41 @@ Then you can open the GitHub Pages URL on your phone every morning.
 ## Two-day news filter
 
 This version uses `DAYS_BACK = 2` in `crawler.py`. It only keeps RSS/news items with a reliable published or updated date within the last 2 days. Undated HTML-only page links are excluded from the New tab to avoid stale content.
+
+
+## Job opening crawler
+
+This version adds a real job-opening pipeline for the Job tab.
+
+### What it can do
+
+- Search U.S. actuarial-related jobs through the Adzuna API.
+- Filter jobs posted within:
+  - 1 day
+  - 1 week
+  - 2 weeks
+- Keep likely early-career / <=3 years experience roles.
+- Exclude many senior, manager, director, FSA/FCAS, and 4+ years roles.
+- Display direct job-posting links.
+
+### Important limitation
+
+No public crawler can truly guarantee **all** U.S. actuarial jobs. Indeed, LinkedIn, and many company sites block or restrict automated scraping. This project uses Adzuna because it provides a documented job-search API and aggregates postings from many job sources.
+
+### Required GitHub Secrets
+
+To enable real job openings, create a free Adzuna developer account and add these repository secrets:
+
+- `ADZUNA_APP_ID`
+- `ADZUNA_APP_KEY`
+
+GitHub path:
+
+`Repository → Settings → Secrets and variables → Actions → New repository secret`
+
+After adding both secrets, go to:
+
+`Actions → Daily Actuarial News Update → Run workflow`
+
+The workflow will update `data.json`, and your dashboard Job tab will show real openings.
+

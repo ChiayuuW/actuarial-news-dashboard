@@ -158,13 +158,33 @@
 
     <section id="jobs" class="panel" style="display:none;">
       <div class="card" style="margin-bottom:16px;">
-        <h2 style="margin-top:0;">Actuarial job-market watch</h2>
+        <h2 style="margin-top:0;">U.S. actuarial job openings</h2>
         <p class="body">
-          This section tracks job-search links and repeated skill themes for life, health, and actuarial data analyst roles.
-          Many job boards block direct scraping, so the crawler provides search links and keyword categories; you can add APIs later.
+          This section shows U.S. actuarial-related openings that are likely entry-level or ≤3 years of experience.
+          Use the posting-date filter to view jobs posted within 1 day, 1 week, or 2 weeks.
         </p>
+        <div class="controls" style="margin-bottom:0;">
+          <input id="jobSearchBox" type="search" placeholder="Search role, company, skill, location..." oninput="renderJobs()">
+          <select id="jobAgeFilter" onchange="renderJobs()">
+            <option value="14">Posted within 2 weeks</option>
+            <option value="7">Posted within 1 week</option>
+            <option value="1">Posted within 1 day</option>
+          </select>
+          <select id="jobMarketFilter" onchange="renderJobs()">
+            <option value="All">All markets</option>
+            <option value="Life">Life</option>
+            <option value="Health">Health</option>
+            <option value="Pricing/Reserving">Pricing/Reserving</option>
+            <option value="Actuarial">General Actuarial</option>
+          </select>
+        </div>
       </div>
       <div class="grid-2" id="jobsGrid"></div>
+      <div class="card" style="margin-top:16px;">
+        <h2 style="margin-top:0;">Backup search links</h2>
+        <p class="body">If an API is not configured or you want to search more broadly, use these links.</p>
+        <div class="grid-2" id="jobLinksGrid"></div>
+      </div>
     </section>
 
     <section id="sources" class="panel" style="display:none;">
@@ -202,18 +222,33 @@ const fallbackData = {
   ],
   jobs: [
     {
+      source: "Setup required",
+      role: "Adzuna API is not configured",
+      company: "",
+      location: "United States",
+      market: "Actuarial",
+      posted: "",
+      postedAgeDays: 999,
+      experienceFit: "Add ADZUNA_APP_ID and ADZUNA_APP_KEY in GitHub Actions Secrets to fetch real U.S. job openings.",
+      skills: ["GitHub Secrets", "Adzuna API"],
+      summary: "After secrets are added, GitHub Actions will fetch actuarial jobs daily and filter likely <=3 years experience.",
+      url: "https://developer.adzuna.com/"
+    }
+  ],
+  jobSearchLinks: [
+    {
       role: "Actuarial Analyst - Health",
       market: "Health",
-      searchUrl: "https://www.google.com/search?q=actuarial+analyst+health+insurance+SQL+Python",
-      keywords: ["SQL", "Excel", "Python/R", "Claims Data", "Rate Filing", "Power BI"],
-      whatToWatch: "Look for claims trend, pricing, rate filing, risk adjustment, and dashboard/reporting requirements."
+      searchUrl: "https://www.google.com/search?q=actuarial+analyst+health+insurance+SQL+Python+claims+rate+filing",
+      keywords: ["Excel", "SQL", "Python/R", "Claims Data", "Medical Cost Trend", "Rate Filing", "Power BI"],
+      whatToWatch: "Prioritize postings mentioning claims trend, pricing, rate filing, risk adjustment, ACA, Medicare Advantage, Medicaid, SQL, and dashboarding."
     },
     {
       role: "Actuarial Analyst - Life",
       market: "Life",
-      searchUrl: "https://www.google.com/search?q=actuarial+analyst+life+insurance+valuation+Python+SQL",
-      keywords: ["Excel", "Python", "SQL", "Valuation", "Assumptions", "Modeling"],
-      whatToWatch: "Look for valuation, reserves, annuity, reinsurance, assumption analysis, and model documentation requirements."
+      searchUrl: "https://www.google.com/search?q=actuarial+analyst+life+insurance+valuation+reserves+annuity+Python+SQL",
+      keywords: ["Excel", "Python", "SQL", "Valuation", "Reserves", "Annuities", "Assumption Analysis", "Model Documentation"],
+      whatToWatch: "Prioritize postings mentioning valuation, reserves, annuities, asset adequacy, reinsurance, mortality, assumption governance, and model validation."
     }
   ],
   sources: []
@@ -294,23 +329,66 @@ function renderNews() {
 
 function renderJobs() {
   const grid = document.getElementById("jobsGrid");
-  grid.innerHTML = "";
-  (data.jobs || []).forEach(j => {
+  const linksGrid = document.getElementById("jobLinksGrid");
+  const qEl = document.getElementById("jobSearchBox");
+  const ageEl = document.getElementById("jobAgeFilter");
+  const marketEl = document.getElementById("jobMarketFilter");
+  const q = (qEl?.value || "").toLowerCase();
+  const maxAge = Number(ageEl?.value || 14);
+  const market = marketEl?.value || "All";
+
+  const jobs = (data.jobs || []).filter(j => {
+    const text = `${j.role} ${j.company} ${j.location} ${j.market} ${(j.skills || []).join(" ")} ${j.summary}`.toLowerCase();
+    const age = Number(j.postedAgeDays ?? 999);
+    const ageMatch = age <= maxAge || j.source === "Setup required";
+    const marketMatch = market === "All" || j.market === market;
+    return text.includes(q) && ageMatch && marketMatch;
+  });
+
+  grid.innerHTML = jobs.length ? "" : `<div class="card empty">No matching job openings. Try 2 weeks or All markets.</div>`;
+
+  jobs.forEach(j => {
     const div = document.createElement("div");
     div.className = "card";
     div.innerHTML = `
-      <span class="badge ${categoryClass(j.market)}">${escapeHtml(j.market || "Actuarial")}</span>
-      <div class="title">${escapeHtml(j.role)}</div>
-      <p class="body">${escapeHtml(j.whatToWatch || "")}</p>
+      <div class="row">
+        <span class="badge">${escapeHtml(j.source || "Job source")}</span>
+        <span class="badge ${categoryClass(j.market)}">${escapeHtml(j.market || "Actuarial")}</span>
+        <span class="badge">${escapeHtml(j.posted ? "Posted " + j.posted : "Date unavailable")}</span>
+      </div>
+      <div class="title">${escapeHtml(j.role || "Untitled role")}</div>
+      <p class="small"><strong>${escapeHtml(j.company || "Company not shown")}</strong> · ${escapeHtml(j.location || "United States")}</p>
+      <p class="body">${escapeHtml(j.summary || "Open the job posting for full details.")}</p>
+      <p class="small"><strong>Experience filter:</strong> ${escapeHtml(j.experienceFit || "Likely <=3 years; verify in posting.")}</p>
       <div class="row job-keywords">
-        ${(j.keywords || []).map(k => `<span class="badge">${escapeHtml(k)}</span>`).join("")}
+        ${(j.skills || []).slice(0, 10).map(k => `<span class="badge">${escapeHtml(k)}</span>`).join("")}
       </div>
       <div class="meta">
-        <a class="link" href="${j.searchUrl}" target="_blank" rel="noreferrer">Open job search ↗</a>
+        <a class="link" href="${j.url}" target="_blank" rel="noreferrer">Open job posting ↗</a>
       </div>
     `;
     grid.appendChild(div);
   });
+
+  if (linksGrid) {
+    linksGrid.innerHTML = "";
+    (data.jobSearchLinks || []).forEach(j => {
+      const div = document.createElement("div");
+      div.className = "card";
+      div.innerHTML = `
+        <span class="badge ${categoryClass(j.market)}">${escapeHtml(j.market || "Actuarial")}</span>
+        <div class="title">${escapeHtml(j.role)}</div>
+        <p class="body">${escapeHtml(j.whatToWatch || "")}</p>
+        <div class="row job-keywords">
+          ${(j.keywords || []).map(k => `<span class="badge">${escapeHtml(k)}</span>`).join("")}
+        </div>
+        <div class="meta">
+          <a class="link" href="${j.searchUrl}" target="_blank" rel="noreferrer">Open backup search ↗</a>
+        </div>
+      `;
+      linksGrid.appendChild(div);
+    });
+  }
 }
 
 function renderSources() {

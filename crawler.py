@@ -34,10 +34,12 @@ from urllib.parse import quote_plus
 import feedparser
 from bs4 import BeautifulSoup
 import requests
+import os
+from urllib.parse import urlencode
 
 OUTPUT_FILE = Path(__file__).with_name("data.json")
 MAX_ITEMS = 80
-DAYS_BACK = 7
+DAYS_BACK = 2
 TIMEOUT_SECONDS = 20
 
 # Stable public RSS / feed sources.
@@ -338,6 +340,227 @@ def sort_items(items: list[NewsItem]) -> list[NewsItem]:
     category_rank = {"Life": 0, "Health": 1, "Regulation": 2, "Career": 3}
     return sorted(items, key=lambda x: (priority_rank.get(x.priority, 9), category_rank.get(x.category, 9), x.title.lower()))
 
+# -----------------------------
+# Job opening crawler
+# -----------------------------
+# This uses Adzuna if you provide GitHub Secrets:
+# ADZUNA_APP_ID and ADZUNA_APP_KEY.
+#
+# Why Adzuna:
+# - It aggregates listings from many job sites.
+# - It has a documented job-search API.
+# - It avoids brittle scraping of Indeed/LinkedIn, which often block bots.
+#
+# Limitation:
+# No job source can guarantee "all jobs in the U.S." without multiple licensed APIs.
+# This crawler collects broad U.S. actuarial openings available through configured APIs
+# and filters for likely <=3 years experience.
+
+JOB_SEARCH_QUERIES = [
+    "actuarial analyst",
+    "entry level actuarial analyst",
+    "actuarial data analyst",
+    "health actuarial analyst",
+    "life actuarial analyst",
+    "pricing actuarial analyst",
+    "reserving actuarial analyst",
+    "actuarial associate analyst",
+    "actuarial assistant",
+    "actuarial consultant analyst",
+]
+
+SENIOR_EXCLUDE_TERMS = [
+    "senior", "sr.", "sr ", "manager", "director", "vp", "vice president",
+    "principal", "lead", "head of", "chief", "fellow", "fsa", "fcas",
+    "credentialed actuary", "consulting actuary", "staff actuary", "valuation actuary",
+    "senior associate", "experienced actuary"
+]
+
+EARLY_CAREER_INCLUDE_TERMS = [
+    "entry level", "entry-level", "junior", "analyst", "assistant", "associate analyst",
+    "0-1", "0-2", "0-3", "1-2", "1-3", "2-3", "new grad", "recent graduate",
+    "early career", "student program", "development program"
+]
+
+THREE_YEAR_PATTERNS = [
+    r"0\s*[-–to]+\s*1\s+years?",
+    r"0\s*[-–to]+\s*2\s+years?",
+    r"0\s*[-–to]+\s*3\s+years?",
+    r"1\s*[-–to]+\s*2\s+years?",
+    r"1\s*[-–to]+\s*3\s+years?",
+    r"2\s*[-–to]+\s*3\s+years?",
+    r"up to\s*3\s+years?",
+    r"less than\s*3\s+years?",
+    r"fewer than\s*3\s+years?",
+    r"under\s*3\s+years?",
+    r"no more than\s*3\s+years?",
+    r"minimum of\s*0\s*[-–to]+\s*3\s+years?",
+    r"\b0\+?\s+years?",
+    r"\b1\+?\s+years?",
+    r"\b2\+?\s+years?",
+    r"\b3\+?\s+years?",
+]
+
+OVER_THREE_PATTERNS = [
+    r"\b4\+?\s+years?",
+    r"\b5\+?\s+years?",
+    r"\b6\+?\s+years?",
+    r"\b7\+?\s+years?",
+    r"\b8\+?\s+years?",
+    r"\b9\+?\s+years?",
+    r"\b10\+?\s+years?",
+    r"minimum of\s*[4-9]\s+years?",
+    r"at least\s*[4-9]\s+years?",
+    r"[4-9]\s*[-–to]+\s*\d+\s+years?",
+]
+
+def classify_job_market(text: str) -> str:
+    t = text.lower()
+    if any(x in t for x in ["health", "medical", "medicare", "medicaid", "aca", "claims", "provider"]):
+        return "Health"
+    if any(x in t for x in ["life", "annuity", "annuities", "mortality", "valuation", "reinsurance", "reserves"]):
+        return "Life"
+    if any(x in t for x in ["pricing", "reserving", "reserve"]):
+        return "Pricing/Reserving"
+    return "Actuarial"
+
+def infer_experience_fit(title: str, description: str) -> tuple[bool, str]:
+    text = f"{title} {description}".lower()
+
+    if any(term in text for term in SENIOR_EXCLUDE_TERMS):
+        return False, "Excluded: senior/manager/fellow-level wording"
+
+    for pattern in OVER_THREE_PATTERNS:
+        if re.search(pattern, text):
+            return False, "Excluded: appears to require more than 3 years"
+
+    for pattern in THREE_YEAR_PATTERNS:
+        if re.search(pattern, text):
+            return True, "Likely <=3 years based on description"
+
+    if any(term in text for term in EARLY_CAREER_INCLUDE_TERMS):
+        return True, "Likely early-career based on title/keywords"
+
+    # Keep analyst roles because many actuarial analyst jobs do not state exact years.
+    if "actuarial analyst" in text or "analyst, actuarial" in text:
+        return True, "Likely early-career analyst role; verify experience in posting"
+
+    return False, "Excluded: not clearly <=3 years"
+
+def extract_skills(text: str) -> list[str]:
+    skill_terms = [
+        "Excel", "SQL", "Python", "R", "Power BI", "Tableau", "SAS", "VBA",
+        "Access", "Prophet", "Moody", "AXIS", "MG-ALFA", "ResQ",
+        "Claims", "Pricing", "Reserving", "Valuation", "Rate Filing",
+        "Medicare", "Medicaid", "ACA", "Risk Adjustment", "Reinsurance",
+        "Annuity", "Mortality", "Experience Study", "Data Validation"
+    ]
+    lower = text.lower()
+    found = []
+    for s in skill_terms:
+        if s.lower() in lower:
+            found.append(s)
+    return found[:10]
+
+def parse_adzuna_date(created: str) -> tuple[str, int | None]:
+    if not created:
+        return "", None
+    try:
+        dt = datetime.fromisoformat(created.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        age = (datetime.now(timezone.utc) - dt.astimezone(timezone.utc)).days
+        return dt.astimezone().strftime("%Y-%m-%d"), max(age, 0)
+    except Exception:
+        return created[:10], None
+
+def fetch_adzuna_jobs(max_days_old: int = 14, max_pages: int = 4) -> list[dict]:
+    app_id = os.getenv("ADZUNA_APP_ID", "").strip()
+    app_key = os.getenv("ADZUNA_APP_KEY", "").strip()
+
+    if not app_id or not app_key:
+        return [{
+            "source": "Setup required",
+            "role": "Adzuna API is not configured",
+            "company": "",
+            "location": "United States",
+            "market": "Actuarial",
+            "posted": "",
+            "postedAgeDays": 999,
+            "experienceFit": "Add ADZUNA_APP_ID and ADZUNA_APP_KEY in GitHub Actions Secrets to fetch real job openings.",
+            "skills": ["GitHub Secrets", "Adzuna API"],
+            "summary": "The dashboard is ready, but real job openings require an API key. After secrets are added, GitHub Actions will fetch U.S. actuarial jobs daily.",
+            "url": "https://developer.adzuna.com/"
+        }]
+
+    collected = []
+    seen = set()
+
+    for query in JOB_SEARCH_QUERIES:
+        for page in range(1, max_pages + 1):
+            params = {
+                "app_id": app_id,
+                "app_key": app_key,
+                "what": query,
+                "where": "United States",
+                "content-type": "application/json",
+                "results_per_page": 50,
+                "max_days_old": max_days_old,
+                "sort_by": "date",
+            }
+            url = f"https://api.adzuna.com/v1/api/jobs/us/search/{page}?" + urlencode(params)
+
+            try:
+                response = requests.get(url, timeout=TIMEOUT_SECONDS)
+                if response.status_code != 200:
+                    continue
+                payload = response.json()
+            except Exception:
+                continue
+
+            for job in payload.get("results", []):
+                title = normalize_text(job.get("title", ""))
+                description = normalize_text(job.get("description", ""))
+                redirect_url = job.get("redirect_url", "")
+                company = (job.get("company") or {}).get("display_name", "")
+                location = (job.get("location") or {}).get("display_name", "United States")
+                posted, age_days = parse_adzuna_date(job.get("created", ""))
+
+                if not title or not redirect_url:
+                    continue
+                if age_days is not None and age_days > max_days_old:
+                    continue
+
+                key = redirect_url or f"{company}-{title}-{location}"
+                if key in seen:
+                    continue
+
+                keep, fit_reason = infer_experience_fit(title, description)
+                if not keep:
+                    continue
+
+                combined = f"{title} {description}"
+                market = classify_job_market(combined)
+                skills = extract_skills(combined)
+
+                collected.append({
+                    "source": "Adzuna",
+                    "role": title,
+                    "company": company,
+                    "location": location,
+                    "market": market,
+                    "posted": posted,
+                    "postedAgeDays": age_days if age_days is not None else 999,
+                    "experienceFit": fit_reason,
+                    "skills": skills,
+                    "summary": description[:500] if description else "Open the job posting for full details.",
+                    "url": redirect_url,
+                })
+                seen.add(key)
+
+    collected.sort(key=lambda j: (j.get("postedAgeDays", 999), j.get("market", ""), j.get("role", "")))
+    return collected[:200]
+
 def main() -> None:
     all_items: list[NewsItem] = []
 
@@ -378,7 +601,8 @@ def main() -> None:
     data = {
         "generatedAt": datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
         "news": [asdict(item) for item in items],
-        "jobs": JOB_LINKS,
+        "jobs": fetch_adzuna_jobs(max_days_old=14),
+        "jobSearchLinks": JOB_LINKS,
         "sources": CURATED_SOURCES,
     }
 
