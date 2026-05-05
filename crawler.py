@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup
 import requests
 
 OUTPUT_FILE = Path(__file__).with_name("data.json")
-MAX_ITEMS = 40
+MAX_ITEMS = 100
 TIMEOUT_SECONDS = 20
 
 # Stable public RSS / feed sources.
