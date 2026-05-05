@@ -1,25 +1,405 @@
 {
-  "generatedAt": "sample - run crawler.py to update",
+  "generatedAt": "2026-05-05T19:04:14+00:00",
   "news": [
     {
-      "title": "Sample: NAIC Life Actuarial Task Force",
-      "source": "NAIC",
-      "category": "Life",
-      "priority": "High",
-      "published": "",
-      "summary": "Run crawler.py to replace sample content with latest news.",
-      "whyItMatters": "Relevant to life valuation, reserves, product pricing, assumption setting, and regulatory reporting.",
-      "url": "https://content.naic.org/committees/a/life-actuarial-tf"
-    },
-    {
-      "title": "Sample: NAIC Health Actuarial Task Force",
-      "source": "NAIC",
+      "title": "2025-10-24 - CT.GOV-Connecticut's Official State Website (.gov)",
+      "source": "Google News: ACA premium rate review actuarial health i",
       "category": "Health",
       "priority": "High",
-      "published": "",
-      "summary": "Run crawler.py to replace sample content with latest news.",
+      "published": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "summary": "2025-10-24 CT.GOV-Connecticut's Official State Website (.gov)",
       "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
-      "url": "https://content.naic.org/committees/b/health-actuarial-tf"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qam9DeHZucFNZZkJzaUNVS0dJSFlPLXFPTk1qc0tFNUZkTjQySWUzWVp5aW16OHlhYzM5MFg1andhdE5tRTg4VThqUEhuTDZ0WTdHNUFBNUVjem96Y1BEbTBGRXNraURYTWo3X2xtd3o1N1EySlcwb2wzZw?oc=5"
+    },
+    {
+      "title": "A Current Snapshot of the Medicare Part D Prescription Drug Benefit - KFF",
+      "source": "Google News: health insurance claims trend actuary Medi",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 07 Oct 2025 07:00:00 GMT",
+      "summary": "A Current Snapshot of the Medicare Part D Prescription Drug Benefit KFF",
+      "whyItMatters": "Relevant to government health programs, bid/pricing assumptions, utilization, and reimbursement risk.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX09LS1ZRRjhFM0I2eDRjcjJaZlJmMWMtNUNqZDNRd2x3S2V4VlB2NmFvV0ZtZDk2TjJISlpGVHh4dmlhN1RqNDYtNTRYLWdXR1VMMFlDRzVXWkVfR3kxS2U5SVZqc1lFMWZBZEZ3Mmhua2trSVgxcXk3RGxFZ1ZBbndxU08wcUpkUGFCanNxSElmZklQSHZnS1Q5eHpDZw?oc=5"
+    },
+    {
+      "title": "A Legacy of Impact - UConn Today",
+      "source": "Google News: American Academy of Actuaries life insuran",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "summary": "A Legacy of Impact UConn Today",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEN2VPc0Y5NVFrMkpyVC1iMi1fY2MzUDNGempjYzJlcVdfdEZyZWdmdUlqNUNqTUFIZ081OW5EMzNMQ1B1c2J3c0x6R182QnpGWkR2dHdLbVFLeDRpdU0xUg?oc=5"
+    },
+    {
+      "title": "A Patients’ Bill of Rights To Lower Health Care Costs - Center for American Progress",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "summary": "A Patients’ Bill of Rights To Lower Health Care Costs Center for American Progress",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGd0TkpHWjJwU0JNWVB4aGJvMW1UYzI2X0VGOVFZQWpUN2lZSzYwMzduaEU3eWdSdW4yY0ZfTnVvdlVLMEpXWllvTVBlbGhLSFdtVkRHQmgyRFdLZWtwdzR6MlJ2Q0gxSVplSXdVeEVkanhrNnV1VFNNNGQtZi1sYnNCUnpaeko2RUxOTmYyb09BWnF2SkVYS2pB?oc=5"
+    },
+    {
+      "title": "Academy: Timely Congressional Action on Social Security's Financial Shortfall Needed to Avoid Sharper Reforms in Coming Years - PR Newswire",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "summary": "Academy: Timely Congressional Action on Social Security's Financial Shortfall Needed to Avoid Sharper Reforms in Coming Years PR Newswire",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZlhFTmI3LWszYmJFRzV3MWxWWURza0Q5YXk0VnJMbTlwd2V2d0ZaR1UxVmEzRlp2V3ZtQjhtX0NRUWkyQTAzTHlGYmFNb2RWbFRwR3cxeGdoZ1B3c3VvN19GRl9qNll2R0hMSW9FaGEtVXBzMGhQbmd2b3pFZm1TUnBXcnZaSV9lVXAzRkJRZ0hORmVnbDlXbnFrWjlpeWhBalBuOVBfeWZWNGt6dVZtai1WNkNjLTNyUTU1VTMwVnlwX3VyWjJjeGdUTWFVVFVtOWMxOG1UZFpjS3I2M2stQkRQOXJhYlJGbEdDRldpckdBZHNkS3Nva1VqZFNxbkNTTVpoUEUzekVmZkE?oc=5"
+    },
+    {
+      "title": "Actuarial Age: What It Means, How It Works - Investopedia",
+      "source": "Google News: American Academy of Actuaries life insuran",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 19 Sep 2023 07:00:00 GMT",
+      "summary": "Actuarial Age: What It Means, How It Works Investopedia",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vT1cyV0NDWU5MLVluMUppcy1WU0NXODB2VlFpeFM0bHpyYVk2UG9mS3h3Y3pBRUVHRF83am5XMjZpOEV0dUVQbFc4alZFOF81bF9JQmFiT0YtQldDa2M1R1RZSTU?oc=5"
+    },
+    {
+      "title": "Actuaries group looks at DEI in health benefits, AI - InsuranceNewsNet",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Mon, 18 Dec 2023 08:00:00 GMT",
+      "summary": "Actuaries group looks at DEI in health benefits, AI InsuranceNewsNet",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcURJUW02d29fX1I4cVBBMWJwZnJkVlhIUmppZTVFM2tuTjNPazM1cjBXZzJRLVp6VmVtMEFxWHVyQUVMOWFkeGNqUjZhX2EzMVIzc3pwZ3NkNmZOUFRSdmFBbV9jOXEzTXJLcG53MWlnOXU0bFNhNWFDeW5MLWtud3p2Qzcwd2hjcTdjWGdiZFE1aXZU?oc=5"
+    },
+    {
+      "title": "Address sustainability risks in health insurance funds: generational actuarial balance and intergenerational equity perspective - Frontiers",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 07 Aug 2025 07:00:00 GMT",
+      "summary": "Address sustainability risks in health insurance funds: generational actuarial balance and intergenerational equity perspective Frontiers",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEdoVExoMXpLRUVWNzFSel9DdVZ3NmtKMnJyWHd6a1BoQktfX0QxT2V3UUpUeVp2MjF2WHkxQjdGS2Y0NUZITlh2WVJ6RGxMdFhLT3BjSW03UFRvaHRUTUloR2dSVUJyYVVrUXBxUnZaLVJkRWtvS292WkNveTU1cWk1MkFVS0RhQXRocW1LSlgzTFRaTHc?oc=5"
+    },
+    {
+      "title": "AON Releases Recommended Rate Increases for State Health Benefits Plans for Plan Year 2026 - Insider NJ",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "summary": "AON Releases Recommended Rate Increases for State Health Benefits Plans for Plan Year 2026 Insider NJ",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUMtZEpKeU9XYnNmSnhVeTJzajlHWXk3ZF8yYVUwNEVKYy1VRWhCM2hfcENocXdCbWZzVldmNFpzaS1ITU00VklOTVI0c0tVTGdINEpMT21BV3FyR0RVY1hzNkl2N1p3LVFOUWpBREYyVXpQSkV6YU9ZREhuNUVRTjB1UzcwcEpzY1V5dnEyck52NWxEcTJuTl9NUVlMWW14VU0zRlhrSnEyd0RtQnk5QXBLa20xWUZsRWJIQ1NFTjZmRGEteHJ2NzBDaw?oc=5"
+    },
+    {
+      "title": "Bias Education Required For Actuaries Issuing Statements of Opinion - Carrier Management",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Fri, 03 Dec 2021 08:00:00 GMT",
+      "summary": "Bias Education Required For Actuaries Issuing Statements of Opinion Carrier Management",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZGhjMi1VM0RQWlpjVUgtNVB4d1E4UXlxeUJ3b09JN09uVlU0bTlpdG5jaTdUSmdEU3JhREVnUkJJSmdZdkRBenUxUWxGU2pLbngwZGRwMDlEWU5hWnhKak1qRnd2OHN5bTYwWQ?oc=5"
+    },
+    {
+      "title": "Building on the Affordable Care Act: Strategies to Address Marketplace Enrollees’ Cost Challenges - Center on Budget and Policy Priorities",
+      "source": "Google News: ACA premium rate review actuarial health i",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 10 Apr 2024 07:00:00 GMT",
+      "summary": "Building on the Affordable Care Act: Strategies to Address Marketplace Enrollees’ Cost Challenges Center on Budget and Policy Priorities",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSGhxVDRtU0VqeW1ONXlsaS1WXzBwSzZ0eDJZekdyZVQ5QlNNUWhRWnJUZGZqYTQ5TnNBMWdXNEltSWVoNkV1ejRiYi10S1N4VU9qalJ5cFBycjU1TE41VFZTQzZDb1pYUVVWR3dpd1FLUFZZUjFuUHhNWEE3OVI2MExSdW9hczZEbHdYS2RBakZhT1pCWXVLQUlxcFdodGZkX2lZTjFIY2N1Uk5qZ2FFcU1KbjNzZ28?oc=5"
+    },
+    {
+      "title": "Centene Corporation (CNC) Investors See Over $11 Billion Of Shareholder Value Wiped Out In 1 Day Amid Independent Actuary Data, Withdrawn 2025 Guidance- Hagens Berman - PR Newswire",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Mon, 07 Jul 2025 07:00:00 GMT",
+      "summary": "Centene Corporation (CNC) Investors See Over $11 Billion Of Shareholder Value Wiped Out In 1 Day Amid Independent Actuary Data, Withdrawn 2025 Guidance- Hagens Berman PR Newswire",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPbEdkUmV5ejc3NjJuZS1GU3h3aVVMaC1KeDdzMlJ5aFk3X0tqRzNXME9yQi1uOFNjOHB3eFZHSnYzY3ZlNFBPeXJMaC01MUd2b2Zkc2U0bVFiczV3Vno4V2NCU1BzUXZ2bFRwQzVOUEVrRTUwclQ2dHpfZGd0dXp6M3FEUzcySlppQU1vYWZGZ3pDRXJ1a0JCUTZHaTVDTXY3RDdxR2dVM3lJRm45cjZMaHpZMF85NU0zRzFpREt5TFF0cE8xQmdlbzVTRHBjVkk3WDlGNlRDY1dqMGVNNkRreGRBdXFHOXhtQk4tWUhSRWRMU2w2SkxULWFfXzRSWFd4RV8tMmo5dExNcndFdjFWdm9FZktqWC1rMjhIcTVFN3lHQ1R6a3VyMzgtLTN1aXVmMXd3aHhlc3FlY3RCWDQ0?oc=5"
+    },
+    {
+      "title": "Centene stock sinks as insurer withdraws 2025 guidance - Fierce Healthcare",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 02 Jul 2025 07:00:00 GMT",
+      "summary": "Centene stock sinks as insurer withdraws 2025 guidance Fierce Healthcare",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTDJQNVRvZTN5cENFR3V4QjNJcGdBY1ZuYjF1QXUxWGVQMEZiNGdvNkVpQm1mbG9xZkV4V29ETjhMQ3hqeU9JbVQyNDRMOXNkLWROX1Z0Z1VDLThFVk9NMWxlckpDTXZHeWE5LTUwdHFET0twYmVFWHRNcVFIdHNpdTJ0dXZUdy1FVm1uSGI0Um9udDl0UEE?oc=5"
+    },
+    {
+      "title": "Chubb Appoints Scott Henck Global Chief Actuary - Chubb Corporate Newsroom",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "summary": "Chubb Appoints Scott Henck Global Chief Actuary Chubb Corporate Newsroom",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOW9fdTFFYmZ3RmpCdkxCLUdtd1RKUERLMDNFUjRQWlRfUWh5QmFmajREQjlyMkFEdWlXenB3V3RVVHhHTDZlbG81eEZBZExCZEJBM1BuRFYxeWpGZjJlVUJiVmhNanBzVi1Fd09oWEJGUXdtcEpRSnJKREQyamd0dWJoSW50c0NC?oc=5"
+    },
+    {
+      "title": "Clover Health Celebrates Dr. Ian Duncan's Appointment as President-Elect of the Society of Actuaries - Quiver Quantitative",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "summary": "Clover Health Celebrates Dr. Ian Duncan's Appointment as President-Elect of the Society of Actuaries Quiver Quantitative",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0g1QktTVDdjM0tDYjRoZWlhT3Vqb0t3OWlPSmgyNHhaeDU3alJnXzFPTVVWVGh3TTNkRTBIMnZuODZzTWwxR01JTzluTmNQalFERWdlbTBQQ2VTR1RrdFR6SDNyM3Q5V243cEcxLVExNUI5OFdzelZNOFRYMXBnTnZWcXlnd19HbVIyNVRZOXZPdlFILUdkVWZncHdZUHM5aHM3ckN6VDFhM3dESlM3OEJEbmh6cnZDYjJWZkVtcUpYcEhFcXZVaDk0RGc0bFpX?oc=5"
+    },
+    {
+      "title": "Comments on the proposed 2027 Notice of Benefit and Payment Parameters - Brookings",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Mon, 16 Mar 2026 20:33:01 GMT",
+      "summary": "Comments on the proposed 2027 Notice of Benefit and Payment Parameters Brookings",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW5XaXZHaWVFckM2NWJzdVN4ZTY0UUxUTHhlTU5RcTBjVDBvVXFpQ3dCTXptYnRzcERDbXl6TzVxblVTQTF1OHhZV1RxS2toZUNGdWlRUnJ4V0hJRjBSU0pPNGdPODkxMmhaaThpOUNWeXV6MG52N1Z2Q29OcWV1ZVZfWEIzOFZqQTFSb2M4NW0wS2NpS1lHYzhLaThiWmlHMmNpVnNtWC1mUQ?oc=5"
+    },
+    {
+      "title": "Connecticut rejects insurer rate hike requests - Insurance Business",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "summary": "Connecticut rejects insurer rate hike requests Insurance Business",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0J0Zi1aU0pKRHRnTGZxTi1qVE4yRHBvcUlsd3Y5MGZOb2RzdFNtN0lEcWl1ZTFjVUo5V1hDMG5hb1A3X3hGU1MtUnU1blVianVQVHZzWlVxbG5DMVpnSEZINEZ0WlVJd0NBbmN2bUg4YjZSRWsyTjVLdWlEajFWam9zUDhfWnlDRjhfc1RLaG0wUGJfV215LTRWWEhOck84RF9ZR1dlREIyRU84VVFwMjl1NExQSmlwbkE?oc=5"
+    },
+    {
+      "title": "Curtis Huntington Obituary (2013) - Ann Arbor, MI - Ann Arbor News - MLive.com",
+      "source": "Google News: American Academy of Actuaries life insuran",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 07 Oct 2021 09:17:03 GMT",
+      "summary": "Curtis Huntington Obituary (2013) - Ann Arbor, MI - Ann Arbor News MLive.com",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3dnZUlWVkdNcHI5ak1fNThlVFh5eWRaZU4wejRXZDNFRTM2MHZINE42LUM2VFJwYWo4ZFhPeXMyTWZDWll4TkZ6aloxZFpyQzhpb2REZW5GVmNVNHl4Rkh4cGtHcFZLMUpJZ19MRFc1dzM5bTZaZFAyTnpmLW82bk11ZkJTNUZOQndYT3pqSTktVU5z?oc=5"
+    },
+    {
+      "title": "David Sandberg joins CRA's Insurance Economics practice - Consulting.us",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 27 Nov 2018 08:00:00 GMT",
+      "summary": "David Sandberg joins CRA's Insurance Economics practice Consulting.us",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjA3S1ZRWkowZTdtT3I0YkI1Y284Wk9tN2dSVHFsUXRWQ1AwRWx3MjBFaVAxQlg4c18yS0VfR1lwQV9nLXN5OEJXdUVidlpkSDJnbm1KOGZ3UWlfbGJOQm5neHFFbzdINzNtQ19SVUxlRGdOUDlJQ2hBc01fZDU4dTFybzVQSXhoS0RJcTNmbFpsSnFy0gGaAUFVX3lxTFBwcGt3WXdTWV82d1hOTnhjUnR5RlZ6djRza2tLdkhQVlpDaFJfRktjVG1NU0JTemk0aVl6dmNERzFEbHBUOGk0WVk1MDR5SG01X01HaWdtaDRfd3hiczUzdzhXTnFCZkNVV25wanFoSUNQNTJtTVZkdmVGU09WTnV5RWxVWU1hajZZTlRoNUhRdU12V0dIT3haZVE?oc=5"
+    },
+    {
+      "title": "Delaware ACA insurance premium increases approved for next year - Delawareonline.com",
+      "source": "Google News: ACA premium rate review actuarial health i",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "summary": "Delaware ACA insurance premium increases approved for next year Delawareonline.com",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUjJIUUNkZlQ5UEpocHdqMVFUZmZJeDFhVlFDemNOcUU2aEZJajdEVnBzeGhTRi1Nb0pYUl9nVm1ZTFB3MTRTVGhDeVFVblc5ZkRoUTJpUnBXOUxEbTRnT2RnclAtNGYyeWhFajRYb0xuSW9aVkk4WVo5dm13YXV3M19TS0ZuY2tRbmp4Qkw3ek8tLU5TUXBWNmxSS0E1eVBrbE5NTUUyRkhJcHlCNG05UGpMd1UtUlBpSUZkSVg2Zk9KSFNQTlQyY0VrRS14Z1laWGJiVm5Pa2o0cF8xQnI2aEtYdjhJeWRW?oc=5"
+    },
+    {
+      "title": "Elevated Medicare Advantage, ACA marketplace costs sting insurers in mixed Q2 - Fierce Healthcare",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Mon, 04 Aug 2025 07:00:00 GMT",
+      "summary": "Elevated Medicare Advantage, ACA marketplace costs sting insurers in mixed Q2 Fierce Healthcare",
+      "whyItMatters": "Relevant to government health programs, bid/pricing assumptions, utilization, and reimbursement risk.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmJNbkJIWURRdTVEZUhHLUV4NnJleXI0QVVoaXp2cFM3eXloVEhZemMxN0lmN3ZOZXl3dlhQMXdHdzZQYm9qcXFJdFBpQkVPWDM3YTl2c2RqcXB1cm9Xb3A0am1iQ0RDY3F3MF8wU2J5YjZVa1VxdjQyRUVaNmFGLXJkZmI4bEJ1SlhEdWs5OWZfVFBvTkpyMHFHanpaUQ?oc=5"
+    },
+    {
+      "title": "FAU's Charles Yang Honored for Article Analyzing Medicare Advantage - Florida Atlantic University",
+      "source": "Google News: Society of Actuaries health insurance actu",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 17 Jul 2019 07:00:00 GMT",
+      "summary": "FAU's Charles Yang Honored for Article Analyzing Medicare Advantage Florida Atlantic University",
+      "whyItMatters": "Relevant to government health programs, bid/pricing assumptions, utilization, and reimbursement risk.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzhoVkR0MGFidkU4dzdyYnZVOWp4QUdPNjFaUTZqM0JNOGg0LUlWUC1sMVNJVVFUZGZKbDZTOTQtblhwLWk2UzRaMW1EaE9TMHUzcXJVMVkxMGZheUlMaFd6Q2EwMXg2aEpUNWV5eDAyS1RraWg0c2twQi1VYXhBWTF0aklGdnRrMVViU0lrQ0YzcHNBamlXTzRLSERmc3Y2N2tCRW1mNkFsMXlv?oc=5"
+    },
+    {
+      "title": "Federal court tosses Medicare Advantage audit rule - Modern Healthcare",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "summary": "Federal court tosses Medicare Advantage audit rule Modern Healthcare",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWFBM1BBSkRoWVd3RjZKd1g5NUhzb1RBWnhIVEZTT0FlNDJtaFJJRzRIcHlFaWVGbkdwV0hoUUlqS3BZSXQweXlCUk80MHFhOTU0RDI0OXplR3I4Q3BiX3ZDQmZLYWp4YnNTSmJ2dm9XOWZBLTRDd2FsbWRlUFpqU29fYVlDWm5reldhNWtndXlCdw?oc=5"
+    },
+    {
+      "title": "Flat 2023 Medicare Advantage Use Raises Questions About 2025 Cost Pressures - Managed Healthcare Executive",
+      "source": "Google News: health insurance claims trend actuary Medi",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "summary": "Flat 2023 Medicare Advantage Use Raises Questions About 2025 Cost Pressures Managed Healthcare Executive",
+      "whyItMatters": "Relevant to government health programs, bid/pricing assumptions, utilization, and reimbursement risk.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHo3REMtWTR2R1I4NUFHS19aQjhEbkJzMzFWckw2Y2ExZDh6Ql9qNE1CNWZTZlFCX1NFYlFDS292b0VCVXd1NTdfZFNBVHI3Y21ULV90MjFaendrSnlVdXY2UndTWkZibDcybGlvX3ExVnphcVVfNldUeUJKbFVwZUktVFYzOTQtbVJEbVY4Q2xTT2czQlFCc2o4T0FnOUNIQVRyUDhxQld6Vzl2SHd5aE82LWVIcmxPVUJYdUIxOGw?oc=5"
+    },
+    {
+      "title": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary - Business Wire",
+      "source": "Google News: American Academy of Actuaries life insuran",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 30 Apr 2026 12:30:00 GMT",
+      "summary": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary Business Wire",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzFuVE9FNkl3bXdNbGJEYjRLUjJZSGljY1JVM3dIUnZEc1pNdEVVbk9MVzlhTjE1a2o0VUUtdmdtN29neHB0bVVxbGp2OXlJZXR5bkhwU3JaV3VpajB3UFNNNlJsc1hsN0gtSFhlZm1Sa084bkV6d2Y5ckp4X3ZJNzVkSW9XeW5qSGVaeTI5bEh4QUl3dkJ2STFLZTVSbFZ2OFJHa1ktUzd4SGpjS3NQaHFRUVh4YkhuY1AxVG1Xa29lcjA?oc=5"
+    },
+    {
+      "title": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary - StreetInsider",
+      "source": "Google News: American Academy of Actuaries life insuran",
+      "category": "Health",
+      "priority": "High",
+      "published": "Fri, 01 May 2026 04:16:17 GMT",
+      "summary": "Hannover Re US Announces Appointment of Kelly Rabin as Chief Actuary StreetInsider",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WU1taERtWUY0V3c5bTQwR2JLSkhPY1RKTnM5ZWFISkc5TnkwNklWT3VXQlFMcF9CaWE0eW4tRDg3U1lYS3Y1cHBWX0V0bkpMM2xDbVpJTTNBZkRHSVhqa0c0Zw?oc=5"
+    },
+    {
+      "title": "Harvard Pilgrim names chief actuary - Worcester Business Journal",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 14 Sep 2016 07:00:00 GMT",
+      "summary": "Harvard Pilgrim names chief actuary Worcester Business Journal",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50LUpTRlVaV1ZwX1pXX3FWdENySGw1WVBwUlhpZnJTb3hvX2N6VHBLVlpXcmFKa25KM2p2RDJ6LUlsSVpBeEtRdThLSGRVb0VWMzNRQU40OWNvUHgzeC1GNlBSc3NTWG5YNm5QWVB5NGcxS3FD?oc=5"
+    },
+    {
+      "title": "Health insurance carriers request raising ACA premiums by more than 20% on average in Texas - The Texas Tribune",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "summary": "Health insurance carriers request raising ACA premiums by more than 20% on average in Texas The Texas Tribune",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlpHOHJ6aXFfV2FHVTcyWHBkbWtSamtENk9DbkRzcldSaEZKWXBKR0d5RlJuY2VRUXNzUnE3Z0xnNkxHemsyYzhrOWdlOV81YTE0T1Z1Ymp1andKNk81ZlZtbGZiemMyNXplLVllbzlQNXc3bjFiNW5Yc1puM2VoLW5ISC01cE5PUXU1QzlCU2pSS0tSZ1hCeG1HcWhNTms?oc=5"
+    },
+    {
+      "title": "Health insurers in Texas seeking double-digit increases for ACA premiums - San Antonio Express-News",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "summary": "Health insurers in Texas seeking double-digit increases for ACA premiums San Antonio Express-News",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZy1icWxvdmFORVJ4QVNMbkZEQ1RVQWVYZWNnc0lLQjRzYVdISkJsQ21kM29CeklsX3FiQ201SFExajRCRFdzcmVUcmRoZlNabXgxUUtHeXBGM0IxRUdTVWIzVlVoR1VCUElyeV9QMnU2UUpucGl6UTB5Smd5T2JjT3RuU1lSMkpkaHFSYnI2NjVEcHNIb3hUT2ZPazVXaWUzRkptVQ?oc=5"
+    },
+    {
+      "title": "HHS Proposes Sweeping Changes For 2027 Marketplace Plans (Part 1) - Health Affairs",
+      "source": "Google News: ACA premium rate review actuarial health i",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "summary": "HHS Proposes Sweeping Changes For 2027 Marketplace Plans (Part 1) Health Affairs",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0xQYjZuOC1PeF8zQ205UEdsY1o0ZDRiWGl3OE11RW9WUkc2NDNuVmpySzBSUlFFSGE0TGx0bEJmdFotZXdVajNfLU9fY1hwOFZlQkd0a0VJcnBvZjNVdGRwVXBwYVZoWnlpRWVJdnlaeXdNZnZmWUEwLWRhaGxqUkxKWmJ5ejZuNW9fYkRyRGM5WDVkTW5KbEx5aFVvOXQwVzFfcTU0SllSZlk?oc=5"
+    },
+    {
+      "title": "How Health Plans Prevent Adverse Selection - Verywell Health",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "summary": "How Health Plans Prevent Adverse Selection Verywell Health",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHVuZDEzakFkUU8tUGFTajVXOGZJY2R4Y21iSUNoWVdNX3JOQWdpWnFWX2FXbm5xT2hoYlZIRFlGb3h5R1VYSzBseG5oVmlPbHBmSnBPZDZzNUtFdmU4UHItZnlkanlMbTZYempub2N1ZEtXeHdyVGJSNlBFSWdYWTZIMUVtV0Q2b2hRWlVwNDRtWnNGbWdrYg?oc=5"
+    },
+    {
+      "title": "How Medicare Pays Medicare Advantage Plans: Issues and Policy Options - KFF",
+      "source": "Google News: risk adjustment health insurance actuarial",
+      "category": "Health",
+      "priority": "High",
+      "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "summary": "How Medicare Pays Medicare Advantage Plans: Issues and Policy Options KFF",
+      "whyItMatters": "Relevant to health risk adjustment, pricing accuracy, premium adequacy, and plan performance measurement.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWpFX0VhVDZKcWY0Wk9hQmxyTC1zQ0c4TTB3VjFJbzl1S3IzLXNGNW14LXYxZm1YS0VTcjNnWW45LTRfUVB6M2dORHZWVWN6RW5IU0pWYzFvbkxGUG52Z2ZqcVFPVkZCODFLVmZLN09XV0l5UGY3Z0J2bWc5NExMUEphNnhjazFLZ1JEOTJ1UlpYTjZvYkk2NUZodmNqdVU?oc=5"
+    },
+    {
+      "title": "How much and why ACA Marketplace premiums are going up in 2026 - healthsystemtracker.org",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "summary": "How much and why ACA Marketplace premiums are going up in 2026 healthsystemtracker.org",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXBtUHp4VGVBaDVKTnlZWEdEQ3FCN2g0UFFWdFVrV3gxbXFmYWVQMjhqUFZvSlJHX0JndmlLV2JfNmNySDJHMDBNM0hFSDRNRnJMamZ3djNTN0MyaV9YV20yRU1abVRlU1VzdEJqYjNPTGJaMksxRnF5U2ZGc0E2SmpMNXc0V29NTGIwOGxEQWotalN6YURwWVVVTlpTSmNwV21zNThSVjA?oc=5"
+    },
+    {
+      "title": "How much and why premiums are going up for small businesses in 2026 - healthsystemtracker.org",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "How much and why premiums are going up for small businesses in 2026 healthsystemtracker.org",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlkcWlNNmptSmdzLUNlMmtpdDVhbV85ZndTR3B0ejVPWTR0djZZWnBiWEZ6NGRSa2dwd084RlBWWEZtRkN5VzUwWC1LZWlydnVKOFlUbXRrQVlxbkhtcjQ3eWw5ODJrcnFxOUFyNDNhUVp6U3Z6Ni1Td243WmJfNl9acF9maUtDQzlxTmZuUUtWR3pmeFdFZ2lZUkgyMWw3QWZ6R3FVNkExTnlpTk5B?oc=5"
+    },
+    {
+      "title": "How Much Do People Pay for Marketplace Plans and How are Subsidies Calculated? - The Affordable Care Act 101 - KFF",
+      "source": "Google News: ACA premium rate review actuarial health i",
+      "category": "Health",
+      "priority": "High",
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "How Much Do People Pay for Marketplace Plans and How are Subsidies Calculated? - The Affordable Care Act 101 KFF",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVFxTF9LeEQtaERSQno4eVdwT19laEJqTTN4SWlOVmJvLU01WnpNUzBSVmdxNE9BZnVkR0Z4Szd0eGFzYzA5S2dzYUUtQTdnYXBaQW11VThPV3FtOXo5Yl9RSEU5VE9aR291Y29vaU5WMmtHdTczbGx5eEVpZHdKcjRSQmJ4RXdPS0E?oc=5"
+    },
+    {
+      "title": "How to Lower Health Insurance Premiums? Not All Ideas Are Equal - The Century Foundation",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 02 May 2017 07:00:00 GMT",
+      "summary": "How to Lower Health Insurance Premiums? Not All Ideas Are Equal The Century Foundation",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQi1ERkFzMVRjdHQ3MG9WNjFTaUZGYVlMYzA2TzU0MDczanV6S3lSekhmSmY0WDBib3VzZEJtSFBONjFMWlFDUUxEcS0yTW91cDRpNk1PRVBYdFBVZEp5SUFEVjNoX256SFNFLTVOUng3d0g4M016b3MtYlMwYlJMT1YtRWZQQQ?oc=5"
+    },
+    {
+      "title": "It's Not Just the Prices: ACA Plans Have Declined in Quality Over the Past Decade - Paragon Health Institute",
+      "source": "Google News: ACA premium rate review actuarial health i",
+      "category": "Health",
+      "priority": "High",
+      "published": "Tue, 26 Sep 2023 07:00:00 GMT",
+      "summary": "It's Not Just the Prices: ACA Plans Have Declined in Quality Over the Past Decade Paragon Health Institute",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXVXRFpLbW1SNjRZMFdGdm1PTVlvU1NZM3FlS2IxNGpMSl80cW9zZWUxbnRLREx6SHd0Sm1NZldSYi1qZjRPU2U4ZlY4X1g2a3NlLVZBX2NaOXdDRmx0RWRLeGVodjVFUk80bDh0UlA1THRuRVhfM0w1eWpsX1p4YXdQOHZJVjUyNEIwNU4xVVhZRXNwVWFQRlBQYXZwc0VXczBuUlZjaTRLOC1fTXZIekpqUnJYMjYzT3djVjFPQzF2Zw?oc=5"
+    },
+    {
+      "title": "John Henriques Promoted to Senior Vice President and Chief Actuary of Crum & Forster Accident & Health - citybiz",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Mon, 22 Jan 2024 08:00:00 GMT",
+      "summary": "John Henriques Promoted to Senior Vice President and Chief Actuary of Crum & Forster Accident & Health citybiz",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOURVQVJHTHZWY243NHVlcGFoa1RSVEprLW9VNk16THZFRV81MGoxUmFFeTh2UzVfVHNiaFlkZy1vX08wWGlSamxLYkNEZ0VTMU9zY3BhUV92SDVsLTlLbTh6UTJjSjF1VmVSa2xtdEU5NHQ2MDdYUmxsV3ZxOTA0dnQwbHB1QWduSGl5aHMzOER3RDBJSEZWcjlRcEJsa1hxOGpydWg3UGgwdGstYXBJd3VTb1pha0tVSHZKUHVLWGk2S0dCelM5djRBelBWenQwWnpV?oc=5"
+    },
+    {
+      "title": "Ken Kent Becomes President Of The American Academy Of Actuaries - lifehealth.com",
+      "source": "Google News: American Academy of Actuaries health insur",
+      "category": "Health",
+      "priority": "High",
+      "published": "Fri, 04 Nov 2022 07:00:00 GMT",
+      "summary": "Ken Kent Becomes President Of The American Academy Of Actuaries lifehealth.com",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblo3T1p3Ri1WeG5hTDJGNXVKM1gybURiZENkN2hDYTBFYTdnb3B3dWdzSnNfeGdPaDZqNkxCN1NIQmFjcVZrWTRqNVBwWmliUVBxSFJqS3ZUVFEzM3FYTy1MaUZUUEdEUEo5UWx1bnFjcktrZEYzMmVNejlpZE4zbUVzUmNXWmE0MUVqenR6ZENWczlSQ2g5dVFoSHpqbVk?oc=5"
+    },
+    {
+      "title": "Marketplace Health Insurance Rates Return to Trump-Era Highs - State of Delaware News (.gov)",
+      "source": "Google News: ACA premium rate review actuarial health i",
+      "category": "Health",
+      "priority": "High",
+      "published": "Fri, 22 Aug 2025 07:00:00 GMT",
+      "summary": "Marketplace Health Insurance Rates Return to Trump-Era Highs State of Delaware News (.gov)",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXE2N3Uxc2NEVzcyRlVqNUZTdFYzMG1PZW9xOG0yNno0UWFpNUR2RWZxTXoxeEZrbXBCYTczSG92ZXFYREpEWHdiUHpic2xpc2RGZEpkeXVoRjhZLU4xVTUtcXIwazQtc2c0WHdKSlpFRE5mQmxVMTBRalhVcnFISDNGLWNRNTJ1NEwwNGJpVEZNYjVJYnJKZ09sSlJaRGc?oc=5"
     }
   ],
   "jobs": [
@@ -37,6 +417,51 @@
         "Power BI"
       ],
       "whatToWatch": "Prioritize postings mentioning claims trend, pricing, rate filing, risk adjustment, ACA, Medicare Advantage, Medicaid, SQL, and dashboarding."
+    },
+    {
+      "role": "Actuarial Analyst - Life",
+      "market": "Life",
+      "searchUrl": "https://www.google.com/search?q=actuarial+analyst+life+insurance+valuation+reserves+annuity+Python+SQL",
+      "keywords": [
+        "Excel",
+        "Python",
+        "SQL",
+        "Valuation",
+        "Reserves",
+        "Annuities",
+        "Assumption Analysis",
+        "Model Documentation"
+      ],
+      "whatToWatch": "Prioritize postings mentioning valuation, reserves, annuities, asset adequacy, reinsurance, mortality, assumption governance, and model validation."
+    },
+    {
+      "role": "Actuarial Data Analyst",
+      "market": "Career",
+      "searchUrl": "https://www.google.com/search?q=actuarial+data+analyst+insurance+SQL+Python+Power+BI",
+      "keywords": [
+        "SQL",
+        "Python",
+        "ETL",
+        "Data Validation",
+        "Power BI",
+        "Insurance Metrics",
+        "Automation"
+      ],
+      "whatToWatch": "This is likely the easiest transition title for a Python/SQL/data-science profile. Watch for insurance data, reporting automation, and model support tasks."
+    },
+    {
+      "role": "Pricing / Reserving Analyst",
+      "market": "Career",
+      "searchUrl": "https://www.google.com/search?q=pricing+reserving+analyst+actuarial+life+health+insurance",
+      "keywords": [
+        "Pricing",
+        "Reserving",
+        "Trend Analysis",
+        "Scenario Testing",
+        "Documentation",
+        "Excel Modeling"
+      ],
+      "whatToWatch": "Watch how job posts describe pricing support, reserve movement, loss ratio, experience study, and management reporting."
     }
   ],
   "sources": [
@@ -45,6 +470,54 @@
       "category": "Life",
       "use": "Life valuation, annuity assumptions, reinsurance, asset adequacy, complex assets, and regulatory development.",
       "url": "https://content.naic.org/committees/a/life-actuarial-tf"
+    },
+    {
+      "name": "NAIC Health Actuarial Task Force",
+      "category": "Health",
+      "use": "Health actuarial regulation, rate review, claims trend, Medicare/Medicaid, and risk adjustment issues.",
+      "url": "https://content.naic.org/committees/b/health-actuarial-tf"
+    },
+    {
+      "name": "American Academy of Actuaries Newsroom",
+      "category": "Regulation",
+      "use": "Policy-facing actuarial updates, public statements, and practice-area commentary.",
+      "url": "https://actuary.org/newsroom/"
+    },
+    {
+      "name": "American Academy of Actuaries - Health",
+      "category": "Health",
+      "use": "Health practice notes, issue briefs, and health insurance policy topics.",
+      "url": "https://actuary.org/practice-area/health/"
+    },
+    {
+      "name": "American Academy of Actuaries - Life",
+      "category": "Life",
+      "use": "Life insurance, annuity, longevity, valuation, and policy topics.",
+      "url": "https://actuary.org/practice-area/life/"
+    },
+    {
+      "name": "SOA Health Section",
+      "category": "Health",
+      "use": "Health actuarial articles, newsletters, terminology, and applied practice discussion.",
+      "url": "https://www.soa.org/sections/health/"
+    },
+    {
+      "name": "SOA Newsroom",
+      "category": "Career",
+      "use": "SOA research, profession updates, and actuarial industry announcements.",
+      "url": "https://www.soa.org/resources/newsroom/default/"
+    },
+    {
+      "name": "The Actuary Magazine",
+      "category": "Career",
+      "use": "General actuarial profession articles, technology, emerging risks, and practice trends.",
+      "url": "https://www.theactuarymagazine.org/"
+    },
+    {
+      "name": "ActuaryList",
+      "category": "Career",
+      "use": "Actuarial job postings and skill keyword scanning.",
+      "url": "https://www.actuarylist.com/"
     }
   ]
 }
