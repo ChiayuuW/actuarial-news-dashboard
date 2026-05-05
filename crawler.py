@@ -25,7 +25,8 @@ from __future__ import annotations
 import json
 import re
 from dataclasses import dataclass, asdict
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
 from urllib.parse import quote_plus
@@ -35,7 +36,8 @@ from bs4 import BeautifulSoup
 import requests
 
 OUTPUT_FILE = Path(__file__).with_name("data.json")
-MAX_ITEMS = 100
+MAX_ITEMS = 80
+DAYS_BACK = 2
 TIMEOUT_SECONDS = 20
 
 # Stable public RSS / feed sources.
@@ -188,6 +190,40 @@ CAREER_TERMS = [
     "fsa", "asa", "skills", "ai", "modeling", "python", "sql", "power bi"
 ]
 
+
+def parse_feed_date(entry) -> datetime | None:
+    """Return timezone-aware published/updated datetime, or None if unavailable."""
+    # feedparser structured date
+    for attr in ("published_parsed", "updated_parsed"):
+        value = getattr(entry, attr, None)
+        if value:
+            try:
+                return datetime(*value[:6], tzinfo=timezone.utc)
+            except Exception:
+                pass
+
+    # raw RFC date string
+    for attr in ("published", "updated", "created"):
+        value = getattr(entry, attr, None)
+        if value:
+            try:
+                dt = parsedate_to_datetime(value)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except Exception:
+                pass
+
+    return None
+
+
+def is_recent(dt: datetime | None, days_back: int = DAYS_BACK) -> bool:
+    """Keep only items with a reliable publish/update date within the last N days."""
+    if dt is None:
+        return False
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days_back)
+    return dt.astimezone(timezone.utc) >= cutoff
+
 @dataclass
 class NewsItem:
     title: str
@@ -265,7 +301,11 @@ def parse_rss(url: str, source_name: str) -> list[NewsItem]:
         title = normalize_text(getattr(entry, "title", ""))
         summary = normalize_text(getattr(entry, "summary", ""))
         link = getattr(entry, "link", "")
-        published = getattr(entry, "published", "") or getattr(entry, "updated", "")
+        published_dt = parse_feed_date(entry)
+        if not is_recent(published_dt):
+            continue
+
+        published = published_dt.astimezone().strftime("%Y-%m-%d %H:%M")
         if not title or not link:
             continue
         category, priority, why = classify(title, summary, source_name)
@@ -282,53 +322,8 @@ def parse_rss(url: str, source_name: str) -> list[NewsItem]:
     return items
 
 def parse_simple_html(url: str, source_name: str, category_hint: str = "Career") -> list[NewsItem]:
-    """Simple fallback for pages without RSS. Conservative: extracts links with news-like titles."""
-    headers = {"User-Agent": "Mozilla/5.0 actuarial-dashboard/1.0"}
-    try:
-        res = requests.get(url, headers=headers, timeout=TIMEOUT_SECONDS)
-        res.raise_for_status()
-    except Exception:
-        return []
-
-    soup = BeautifulSoup(res.text, "html.parser")
-    results: list[NewsItem] = []
-    seen = set()
-
-    for a in soup.select("a[href]"):
-        title = normalize_text(a.get_text(" "))
-        href = a.get("href")
-        if not title or len(title) < 18 or len(title) > 160:
-            continue
-        if href.startswith("/"):
-            from urllib.parse import urljoin
-            href = urljoin(url, href)
-        if not href.startswith("http"):
-            continue
-        key = (title.lower(), href)
-        if key in seen:
-            continue
-        seen.add(key)
-
-        # Keep items with actuarial/insurance relevance.
-        text = f"{title} {source_name}".lower()
-        if not any(k in text for k in LIFE_TERMS + HEALTH_TERMS + REG_TERMS + CAREER_TERMS):
-            continue
-
-        category, priority, why = classify(title, "", source_name)
-        results.append(NewsItem(
-            title=title,
-            source=source_name,
-            category=category if category else category_hint,
-            priority=priority,
-            published="",
-            summary="Click through to read the full update.",
-            whyItMatters=why,
-            url=href,
-        ))
-        if len(results) >= 8:
-            break
-
-    return results
+    """HTML pages usually do not expose reliable publish dates, so skip them for strict 2-day filtering."""
+    return []
 
 def dedupe(items: Iterable[NewsItem]) -> list[NewsItem]:
     unique = {}
@@ -340,7 +335,7 @@ def dedupe(items: Iterable[NewsItem]) -> list[NewsItem]:
 
 def sort_items(items: list[NewsItem]) -> list[NewsItem]:
     priority_rank = {"High": 0, "Medium": 1, "Low": 2}
-    category_rank = {"Health": 0, "Life": 1, "Regulation": 2, "Career": 3}
+    category_rank = {"Life": 0, "Health": 1, "Regulation": 2, "Career": 3}
     return sorted(items, key=lambda x: (priority_rank.get(x.priority, 9), category_rank.get(x.category, 9), x.title.lower()))
 
 def main() -> None:
@@ -357,7 +352,28 @@ def main() -> None:
         else:
             all_items.extend(parse_simple_html(source["url"], source["name"], source.get("category_hint", "Career")))
 
-    items = sort_items(dedupe(all_items))[:MAX_ITEMS]
+    deduped = sort_items(dedupe(all_items))
+
+    # Balanced selection so Health news does not crowd out Life / Regulation / Career.
+    balanced_items = []
+    category_limits = {
+        "Life": 20,
+        "Health": 20,
+        "Regulation": 20,
+        "Career": 20,
+    }
+
+    for category, limit in category_limits.items():
+        category_items = [item for item in deduped if item.category == category]
+        balanced_items.extend(category_items[:limit])
+
+    seen_urls = {item.url for item in balanced_items}
+    for item in deduped:
+        if item.url not in seen_urls and len(balanced_items) < MAX_ITEMS:
+            balanced_items.append(item)
+            seen_urls.add(item.url)
+
+    items = balanced_items[:MAX_ITEMS]
 
     data = {
         "generatedAt": datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
