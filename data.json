@@ -1,27 +1,6 @@
 {
-  "generatedAt": "sample - run crawler.py to update",
-  "news": [
-    {
-      "title": "Sample: NAIC Life Actuarial Task Force",
-      "source": "NAIC",
-      "category": "Life",
-      "priority": "High",
-      "published": "",
-      "summary": "Run crawler.py to replace sample content with latest news.",
-      "whyItMatters": "Relevant to life valuation, reserves, product pricing, assumption setting, and regulatory reporting.",
-      "url": "https://content.naic.org/committees/a/life-actuarial-tf"
-    },
-    {
-      "title": "Sample: NAIC Health Actuarial Task Force",
-      "source": "NAIC",
-      "category": "Health",
-      "priority": "High",
-      "published": "",
-      "summary": "Run crawler.py to replace sample content with latest news.",
-      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
-      "url": "https://content.naic.org/committees/b/health-actuarial-tf"
-    }
-  ],
+  "generatedAt": "2026-05-05T19:39:39+00:00",
+  "news": [],
   "jobs": [
     {
       "source": "Setup required",
@@ -31,21 +10,13 @@
       "market": "Actuarial",
       "posted": "",
       "postedAgeDays": 999,
-      "experienceFit": "Add ADZUNA_APP_ID and ADZUNA_APP_KEY in GitHub Actions Secrets to fetch real U.S. job openings.",
+      "experienceFit": "Add ADZUNA_APP_ID and ADZUNA_APP_KEY in GitHub Actions Secrets to fetch real job openings.",
       "skills": [
         "GitHub Secrets",
         "Adzuna API"
       ],
-      "summary": "After secrets are added, GitHub Actions will fetch actuarial jobs daily and filter likely <=3 years experience.",
+      "summary": "The dashboard is ready, but real job openings require an API key. After secrets are added, GitHub Actions will fetch U.S. actuarial jobs daily.",
       "url": "https://developer.adzuna.com/"
-    }
-  ],
-  "sources": [
-    {
-      "name": "NAIC Life Actuarial Task Force",
-      "category": "Life",
-      "use": "Life valuation, annuity assumptions, reinsurance, asset adequacy, complex assets, and regulatory development.",
-      "url": "https://content.naic.org/committees/a/life-actuarial-tf"
     }
   ],
   "jobSearchLinks": [
@@ -79,6 +50,91 @@
         "Model Documentation"
       ],
       "whatToWatch": "Prioritize postings mentioning valuation, reserves, annuities, asset adequacy, reinsurance, mortality, assumption governance, and model validation."
+    },
+    {
+      "role": "Actuarial Data Analyst",
+      "market": "Career",
+      "searchUrl": "https://www.google.com/search?q=actuarial+data+analyst+insurance+SQL+Python+Power+BI",
+      "keywords": [
+        "SQL",
+        "Python",
+        "ETL",
+        "Data Validation",
+        "Power BI",
+        "Insurance Metrics",
+        "Automation"
+      ],
+      "whatToWatch": "This is likely the easiest transition title for a Python/SQL/data-science profile. Watch for insurance data, reporting automation, and model support tasks."
+    },
+    {
+      "role": "Pricing / Reserving Analyst",
+      "market": "Career",
+      "searchUrl": "https://www.google.com/search?q=pricing+reserving+analyst+actuarial+life+health+insurance",
+      "keywords": [
+        "Pricing",
+        "Reserving",
+        "Trend Analysis",
+        "Scenario Testing",
+        "Documentation",
+        "Excel Modeling"
+      ],
+      "whatToWatch": "Watch how job posts describe pricing support, reserve movement, loss ratio, experience study, and management reporting."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NAIC Life Actuarial Task Force",
+      "category": "Life",
+      "use": "Life valuation, annuity assumptions, reinsurance, asset adequacy, complex assets, and regulatory development.",
+      "url": "https://content.naic.org/committees/a/life-actuarial-tf"
+    },
+    {
+      "name": "NAIC Health Actuarial Task Force",
+      "category": "Health",
+      "use": "Health actuarial regulation, rate review, claims trend, Medicare/Medicaid, and risk adjustment issues.",
+      "url": "https://content.naic.org/committees/b/health-actuarial-tf"
+    },
+    {
+      "name": "American Academy of Actuaries Newsroom",
+      "category": "Regulation",
+      "use": "Policy-facing actuarial updates, public statements, and practice-area commentary.",
+      "url": "https://actuary.org/newsroom/"
+    },
+    {
+      "name": "American Academy of Actuaries - Health",
+      "category": "Health",
+      "use": "Health practice notes, issue briefs, and health insurance policy topics.",
+      "url": "https://actuary.org/practice-area/health/"
+    },
+    {
+      "name": "American Academy of Actuaries - Life",
+      "category": "Life",
+      "use": "Life insurance, annuity, longevity, valuation, and policy topics.",
+      "url": "https://actuary.org/practice-area/life/"
+    },
+    {
+      "name": "SOA Health Section",
+      "category": "Health",
+      "use": "Health actuarial articles, newsletters, terminology, and applied practice discussion.",
+      "url": "https://www.soa.org/sections/health/"
+    },
+    {
+      "name": "SOA Newsroom",
+      "category": "Career",
+      "use": "SOA research, profession updates, and actuarial industry announcements.",
+      "url": "https://www.soa.org/resources/newsroom/default/"
+    },
+    {
+      "name": "The Actuary Magazine",
+      "category": "Career",
+      "use": "General actuarial profession articles, technology, emerging risks, and practice trends.",
+      "url": "https://www.theactuarymagazine.org/"
+    },
+    {
+      "name": "ActuaryList",
+      "category": "Career",
+      "use": "Actuarial job postings and skill keyword scanning.",
+      "url": "https://www.actuarylist.com/"
     }
   ]
 }
