@@ -3,7 +3,7 @@
 This is a simplified dashboard with only three sections:
 
 1. **New**
-   - Latest automatically collected life/health actuarial news from the last 2 days only.
+   - Latest automatically collected life/health actuarial news from the last 7 days.
    - Each card includes source, category, priority, summary, why it matters, and read-more link.
 
 2. **Job**
@@ -114,11 +114,6 @@ Then you can open the GitHub Pages URL on your phone every morning.
 - ASOP / actuarial standards
 - AI/model governance
 - SQL/Python/Power BI job-market requirements
-
-
-## Two-day news filter
-
-This version uses `DAYS_BACK = 2` in `crawler.py`. It only keeps RSS/news items with a reliable published or updated date within the last 2 days. Undated HTML-only page links are excluded from the New tab to avoid stale content.
 
 
 ## Job opening crawler
