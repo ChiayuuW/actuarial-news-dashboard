@@ -1,0 +1,50 @@
+{
+  "generatedAt": "sample - run crawler.py to update",
+  "news": [
+    {
+      "title": "Sample: NAIC Life Actuarial Task Force",
+      "source": "NAIC",
+      "category": "Life",
+      "priority": "High",
+      "published": "",
+      "summary": "Run crawler.py to replace sample content with latest news.",
+      "whyItMatters": "Relevant to life valuation, reserves, product pricing, assumption setting, and regulatory reporting.",
+      "url": "https://content.naic.org/committees/a/life-actuarial-tf"
+    },
+    {
+      "title": "Sample: NAIC Health Actuarial Task Force",
+      "source": "NAIC",
+      "category": "Health",
+      "priority": "High",
+      "published": "",
+      "summary": "Run crawler.py to replace sample content with latest news.",
+      "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
+      "url": "https://content.naic.org/committees/b/health-actuarial-tf"
+    }
+  ],
+  "jobs": [
+    {
+      "role": "Actuarial Analyst - Health",
+      "market": "Health",
+      "searchUrl": "https://www.google.com/search?q=actuarial+analyst+health+insurance+SQL+Python+claims+rate+filing",
+      "keywords": [
+        "Excel",
+        "SQL",
+        "Python/R",
+        "Claims Data",
+        "Medical Cost Trend",
+        "Rate Filing",
+        "Power BI"
+      ],
+      "whatToWatch": "Prioritize postings mentioning claims trend, pricing, rate filing, risk adjustment, ACA, Medicare Advantage, Medicaid, SQL, and dashboarding."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NAIC Life Actuarial Task Force",
+      "category": "Life",
+      "use": "Life valuation, annuity assumptions, reinsurance, asset adequacy, complex assets, and regulatory development.",
+      "url": "https://content.naic.org/committees/a/life-actuarial-tf"
+    }
+  ]
+}

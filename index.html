@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Actuarial Life & Health News Dashboard</title>
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --text: #111827;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --primary: #1f2937;
+      --blue: #2563eb;
+      --green-bg: #dcfce7;
+      --green-text: #166534;
+      --blue-bg: #e0f2fe;
+      --blue-text: #075985;
+      --amber-bg: #fef3c7;
+      --amber-text: #92400e;
+      --red-bg: #fee2e2;
+      --red-text: #991b1b;
+      --purple-bg: #f3e8ff;
+      --purple-text: #6b21a8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .container { max-width: 1180px; margin: 0 auto; padding: 18px; }
+    .hero {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      padding: 26px;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, .05);
+      margin-bottom: 16px;
+    }
+    h1 {
+      font-size: clamp(30px, 5vw, 52px);
+      letter-spacing: -0.04em;
+      line-height: 1;
+      margin: 14px 0 10px;
+    }
+    .subtitle { color: var(--muted); max-width: 850px; line-height: 1.6; font-size: 16px; }
+    .tabs {
+      display: flex; gap: 8px; background: white; border: 1px solid var(--line);
+      padding: 6px; border-radius: 18px; width: fit-content; margin-bottom: 16px;
+      max-width: 100%; overflow-x: auto;
+    }
+    .tab {
+      border: 0; background: transparent; border-radius: 13px; padding: 10px 16px;
+      cursor: pointer; font-weight: 800; color: var(--muted); white-space: nowrap;
+    }
+    .tab.active { background: var(--primary); color: white; }
+    .card {
+      background: white; border: 1px solid var(--line); border-radius: 22px;
+      padding: 20px; box-shadow: 0 8px 24px rgba(15, 23, 42, .05);
+    }
+    .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .between { display: flex; justify-content: space-between; gap: 12px; align-items: center; }
+    .badge {
+      display: inline-flex; align-items: center; border-radius: 999px; padding: 6px 10px;
+      background: #f3f4f6; color: #374151; font-size: 12px; font-weight: 750; white-space: nowrap;
+    }
+    .badge.life { background: var(--blue-bg); color: var(--blue-text); }
+    .badge.health { background: var(--green-bg); color: var(--green-text); }
+    .badge.regulation { background: var(--purple-bg); color: var(--purple-text); }
+    .badge.career { background: var(--amber-bg); color: var(--amber-text); }
+    .badge.high { background: var(--red-bg); color: var(--red-text); }
+    .badge.medium { background: var(--amber-bg); color: var(--amber-text); }
+    .title { font-size: 20px; line-height: 1.28; font-weight: 900; margin: 12px 0 8px; }
+    .body { color: #4b5563; line-height: 1.6; font-size: 14px; }
+    .small { color: var(--muted); font-size: 13px; line-height: 1.5; }
+    .link { color: var(--blue); text-decoration: none; font-weight: 800; }
+    .link:hover { text-decoration: underline; }
+    input, select {
+      border: 1px solid var(--line); border-radius: 14px; padding: 12px; font: inherit; background: white;
+    }
+    .controls { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; }
+    .controls input { min-width: min(430px, 100%); }
+    .button {
+      border: 0; background: var(--primary); color: white; border-radius: 14px;
+      padding: 11px 14px; font-weight: 800; cursor: pointer; text-decoration: none; display: inline-flex;
+      align-items: center; justify-content: center;
+    }
+    .button.secondary { background: white; color: var(--primary); border: 1px solid var(--line); }
+    .meta { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { padding: 12px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+    th { background: #f9fafb; color: #374151; }
+    .empty { text-align: center; padding: 34px; color: var(--muted); }
+    .source-card h3 { margin: 0 0 8px; }
+    .job-keywords { margin-top: 12px; }
+    .status {
+      margin: 12px 0 0; padding: 10px 12px; background: #f9fafb; border: 1px dashed #d1d5db;
+      border-radius: 14px; font-size: 13px; color: #4b5563;
+    }
+    @media (max-width: 850px) {
+      .container { padding: 12px; }
+      .hero, .card { border-radius: 18px; padding: 18px; }
+      .grid-2, .grid-3 { grid-template-columns: 1fr; }
+      .controls { display: grid; }
+      .controls input, .controls select, .controls .button { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <section class="hero">
+    <div class="row">
+      <span class="badge" id="today"></span>
+      <span class="badge">Auto News Crawler</span>
+      <span class="badge life">Life Insurance</span>
+      <span class="badge health">Health Insurance</span>
+    </div>
+    <h1>Actuarial Life & Health News Dashboard</h1>
+    <p class="subtitle">
+      Morning dashboard for a future life/health actuarial analyst: new insurance/regulatory news,
+      job-market signals, and curated source links. Click any item to read the original article.
+    </p>
+    <div class="status" id="dataStatus">Loading latest data...</div>
+  </section>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="news" onclick="showTab('news')">New</button>
+    <button class="tab" data-tab="jobs" onclick="showTab('jobs')">Job</button>
+    <button class="tab" data-tab="sources" onclick="showTab('sources')">Source</button>
+  </nav>
+
+  <main>
+    <section id="news" class="panel">
+      <div class="card controls">
+        <input id="searchBox" type="search" placeholder="Search title, source, topic..." oninput="renderNews()">
+        <select id="marketFilter" onchange="renderNews()">
+          <option value="All">All topics</option>
+          <option value="Life">Life</option>
+          <option value="Health">Health</option>
+          <option value="Regulation">Regulation</option>
+          <option value="Career">Career</option>
+        </select>
+        <select id="priorityFilter" onchange="renderNews()">
+          <option value="All">All priority</option>
+          <option value="High">High priority</option>
+          <option value="Medium">Medium priority</option>
+          <option value="Low">Low priority</option>
+        </select>
+        <button class="button secondary" onclick="loadLocalJson()">Load local data.json</button>
+      </div>
+      <div class="grid-2" id="newsGrid"></div>
+    </section>
+
+    <section id="jobs" class="panel" style="display:none;">
+      <div class="card" style="margin-bottom:16px;">
+        <h2 style="margin-top:0;">Actuarial job-market watch</h2>
+        <p class="body">
+          This section tracks job-search links and repeated skill themes for life, health, and actuarial data analyst roles.
+          Many job boards block direct scraping, so the crawler provides search links and keyword categories; you can add APIs later.
+        </p>
+      </div>
+      <div class="grid-2" id="jobsGrid"></div>
+    </section>
+
+    <section id="sources" class="panel" style="display:none;">
+      <div class="grid-2" id="sourcesGrid"></div>
+    </section>
+  </main>
+</div>
+
+<input id="localFile" type="file" accept=".json" style="display:none" onchange="importLocalJson(event)">
+
+<script>
+const fallbackData = {
+  generatedAt: "fallback",
+  news: [
+    {
+      title: "NAIC Life Actuarial Task Force",
+      source: "NAIC",
+      category: "Life",
+      priority: "High",
+      published: "",
+      summary: "Life insurance actuarial regulatory source. The crawler will replace this with latest items after you run crawler.py.",
+      whyItMatters: "Useful for valuation, annuity assumptions, reinsurance, reserve adequacy, and life regulatory awareness.",
+      url: "https://content.naic.org/committees/a/life-actuarial-tf"
+    },
+    {
+      title: "NAIC Health Actuarial Task Force",
+      source: "NAIC",
+      category: "Health",
+      priority: "High",
+      published: "",
+      summary: "Health insurance actuarial regulatory source. The crawler will replace this with latest items after you run crawler.py.",
+      whyItMatters: "Useful for rate review, claims trend, ACA, Medicare/Medicaid, and health risk adjustment awareness.",
+      url: "https://content.naic.org/committees/b/health-actuarial-tf"
+    }
+  ],
+  jobs: [
+    {
+      role: "Actuarial Analyst - Health",
+      market: "Health",
+      searchUrl: "https://www.google.com/search?q=actuarial+analyst+health+insurance+SQL+Python",
+      keywords: ["SQL", "Excel", "Python/R", "Claims Data", "Rate Filing", "Power BI"],
+      whatToWatch: "Look for claims trend, pricing, rate filing, risk adjustment, and dashboard/reporting requirements."
+    },
+    {
+      role: "Actuarial Analyst - Life",
+      market: "Life",
+      searchUrl: "https://www.google.com/search?q=actuarial+analyst+life+insurance+valuation+Python+SQL",
+      keywords: ["Excel", "Python", "SQL", "Valuation", "Assumptions", "Modeling"],
+      whatToWatch: "Look for valuation, reserves, annuity, reinsurance, assumption analysis, and model documentation requirements."
+    }
+  ],
+  sources: []
+};
+
+let data = fallbackData;
+
+document.getElementById("today").textContent = new Date().toLocaleDateString(undefined, {
+  weekday: "long", month: "short", day: "numeric", year: "numeric"
+});
+
+async function loadData() {
+  try {
+    const response = await fetch("./data.json?ts=" + Date.now());
+    if (!response.ok) throw new Error("data.json not found");
+    data = await response.json();
+    document.getElementById("dataStatus").textContent =
+      `Loaded ${data.news?.length || 0} news items. Last generated: ${data.generatedAt || "unknown"}`;
+  } catch (e) {
+    data = fallbackData;
+    document.getElementById("dataStatus").textContent =
+      "Using built-in fallback data. Run crawler.py to generate data.json, or click Load local data.json.";
+  }
+  renderAll();
+}
+
+function showTab(id) {
+  document.querySelectorAll(".panel").forEach(p => p.style.display = "none");
+  document.getElementById(id).style.display = "";
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.tab === id));
+  renderAll();
+}
+
+function categoryClass(cat) {
+  if (!cat) return "";
+  const c = cat.toLowerCase();
+  if (c.includes("life")) return "life";
+  if (c.includes("health")) return "health";
+  if (c.includes("regulation")) return "regulation";
+  if (c.includes("career")) return "career";
+  return "";
+}
+
+function renderNews() {
+  const q = (document.getElementById("searchBox").value || "").toLowerCase();
+  const market = document.getElementById("marketFilter").value;
+  const priority = document.getElementById("priorityFilter").value;
+  const grid = document.getElementById("newsGrid");
+  const items = (data.news || []).filter(n => {
+    const text = `${n.title} ${n.source} ${n.category} ${n.summary} ${n.whyItMatters}`.toLowerCase();
+    const marketMatch = market === "All" || n.category === market;
+    const priorityMatch = priority === "All" || n.priority === priority;
+    return text.includes(q) && marketMatch && priorityMatch;
+  });
+  grid.innerHTML = items.length ? "" : `<div class="card empty">No matching news.</div>`;
+  items.forEach(n => {
+    const div = document.createElement("article");
+    div.className = "card";
+    div.innerHTML = `
+      <div class="row">
+        <span class="badge">${escapeHtml(n.source || "Source")}</span>
+        <span class="badge ${categoryClass(n.category)}">${escapeHtml(n.category || "General")}</span>
+        <span class="badge ${(n.priority || "").toLowerCase()}">${escapeHtml(n.priority || "Low")}</span>
+      </div>
+      <div class="title">${escapeHtml(n.title || "Untitled")}</div>
+      <p class="body">${escapeHtml(n.summary || "")}</p>
+      <div class="meta">
+        <p class="small"><strong>Why it matters for actuaries:</strong> ${escapeHtml(n.whyItMatters || "Review the article and connect it to pricing, reserving, valuation, risk, or regulation.")}</p>
+        <div class="between small">
+          <span>${escapeHtml(n.published || "")}</span>
+          <a class="link" href="${n.url}" target="_blank" rel="noreferrer">Read more ↗</a>
+        </div>
+      </div>
+    `;
+    grid.appendChild(div);
+  });
+}
+
+function renderJobs() {
+  const grid = document.getElementById("jobsGrid");
+  grid.innerHTML = "";
+  (data.jobs || []).forEach(j => {
+    const div = document.createElement("div");
+    div.className = "card";
+    div.innerHTML = `
+      <span class="badge ${categoryClass(j.market)}">${escapeHtml(j.market || "Actuarial")}</span>
+      <div class="title">${escapeHtml(j.role)}</div>
+      <p class="body">${escapeHtml(j.whatToWatch || "")}</p>
+      <div class="row job-keywords">
+        ${(j.keywords || []).map(k => `<span class="badge">${escapeHtml(k)}</span>`).join("")}
+      </div>
+      <div class="meta">
+        <a class="link" href="${j.searchUrl}" target="_blank" rel="noreferrer">Open job search ↗</a>
+      </div>
+    `;
+    grid.appendChild(div);
+  });
+}
+
+function renderSources() {
+  const grid = document.getElementById("sourcesGrid");
+  grid.innerHTML = "";
+  const sources = data.sources && data.sources.length ? data.sources : [
+    { name: "NAIC Life Actuarial Task Force", category: "Life", use: "Life valuation, annuities, reinsurance, regulatory development", url: "https://content.naic.org/committees/a/life-actuarial-tf" },
+    { name: "NAIC Health Actuarial Task Force", category: "Health", use: "Health insurance regulation, rate review, risk adjustment, Medicare/Medicaid topics", url: "https://content.naic.org/committees/b/health-actuarial-tf" },
+    { name: "American Academy of Actuaries Newsroom", category: "Regulation", use: "Policy updates and professional actuarial news", url: "https://actuary.org/newsroom/" },
+    { name: "SOA Newsroom", category: "Career", use: "SOA and actuarial profession updates", url: "https://www.soa.org/resources/newsroom/default/" }
+  ];
+  sources.forEach(s => {
+    const div = document.createElement("div");
+    div.className = "card source-card";
+    div.innerHTML = `
+      <span class="badge ${categoryClass(s.category)}">${escapeHtml(s.category || "Source")}</span>
+      <h3>${escapeHtml(s.name)}</h3>
+      <p class="body">${escapeHtml(s.use || "")}</p>
+      <a class="link" href="${s.url}" target="_blank" rel="noreferrer">Open source ↗</a>
+    `;
+    grid.appendChild(div);
+  });
+}
+
+function renderAll() {
+  renderNews();
+  renderJobs();
+  renderSources();
+}
+
+function loadLocalJson() {
+  document.getElementById("localFile").click();
+}
+
+function importLocalJson(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      data = JSON.parse(reader.result);
+      document.getElementById("dataStatus").textContent =
+        `Loaded local JSON. Items: ${data.news?.length || 0}. Generated: ${data.generatedAt || "unknown"}`;
+      renderAll();
+    } catch (e) {
+      alert("Invalid JSON.");
+    }
+  };
+  reader.readAsText(file);
+}
+
+function escapeHtml(str) {
+  return String(str ?? "").replace(/[&<>"']/g, m => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;" }[m]));
+}
+
+loadData();
+</script>
+</body>
+</html>
