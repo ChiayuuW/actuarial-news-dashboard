@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T14:12:38+00:00",
+  "generatedAt": "2026-05-23T12:56:07+00:00",
   "news": [
     {
       "title": "Analysis: GLP-1s and Mortality Risk",
@@ -10,16 +10,6 @@
       "summary": "The intense interest surrounding glucagon-like peptide-1 (GLP-1) and other incretin-based medications is impossible to ignore. They have received significant public and media attention due to their potential implications for obesity and related conditions. Some commentators have touted them as “everything drugs” that will rewrite the trajectory of human mortality and reverse stagnating life expectancy trends. […] The",
       "whyItMatters": "Relevant to mortality/longevity assumptions, experience studies, pricing, and reserves.",
       "url": "https://www.theactuarymagazine.org/analysis-glp-1s-and-mortality-risk/"
-    },
-    {
-      "title": "Humana Inc stock (US4456581077): lawsuit over Medicare claims data adds pressure around managed-care - AD HOC NEWS",
-      "source": "Google News: health insurance claims trend actuary Medi",
-      "category": "Health",
-      "priority": "High",
-      "published": "2026-05-19 10:38",
-      "summary": "Humana Inc stock (US4456581077): lawsuit over Medicare claims data adds pressure around managed-care AD HOC NEWS",
-      "whyItMatters": "Relevant to government health programs, bid/pricing assumptions, utilization, and reimbursement risk.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0hORU1faXpXYkdhYnNWRG96S3g2N2NKZTZHVTFTV2RKRmZ4R0ZHMVUwN3BLX2hfTzRtM3R1eTNmQ3BxemVyRERiVVAzeVZHa3JoZUNXVVJPN1Y5aFBIOXhseGhnOUhHS0pEMGtJaFhuejlIVGFMQ3Z5Vi1ZS3F1NENGQUFBblc0N0g5dmNZU2hPV2xScV9Ca2lPNklkeXUtLW5DN3lTdWtub29xdUoxWnprQUNESjlncnVINmVvWGdtem1RYkE?oc=5"
     },
     {
       "title": "Texas Universities Show Sharp Differences in Health Insurance Premiums - Baker Institute",
@@ -65,18 +55,64 @@
   "jobs": [
     {
       "source": "Adzuna",
-      "role": "Oliver Wyman - Analyst, Talent Development",
-      "company": "Oliver Wyman Group",
-      "location": "Charlotte, Mecklenburg County",
-      "market": "Actuarial",
-      "posted": "2026-05-21",
+      "role": "Actuarial Analyst",
+      "company": "UnitedHealth Group",
+      "location": "Eden Prairie, Hennepin County",
+      "market": "Health",
+      "posted": "2026-05-22",
       "postedAgeDays": 0,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
+      "summary": "Requisition number: 2362279 Job category: Actuarial Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the …",
+      "url": "https://www.adzuna.com/land/ad/5738263907?se=2AoxxKZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=4C084B568C2D90777BAA665B34D096C6819A608B"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "UnitedHealth Group",
+      "location": "Eden Prairie, Hennepin County",
+      "market": "Health",
+      "posted": "2026-05-22",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Requisition number: 2362279 Job category: Actuarial Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the …",
+      "url": "https://www.adzuna.com/land/ad/5738263907?se=MNylxqZW8RGJxKyp5kHyhA&utm_medium=api&utm_source=75b5032a&v=4C084B568C2D90777BAA665B34D096C6819A608B"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Business Analyst",
+      "company": "AGILITYARC TECH SOLUTIONS INC.",
+      "location": "Maryland, Anne Arundel County",
+      "market": "Life",
+      "posted": "2026-05-22",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Valuation"
+      ],
+      "summary": "Actuarial Business Analyst_Frederick, MD Role Overview (Part of the Legal & General America family) is seeking a skilled Actuary to support actuarial modeling, valuation, and risk analysis across life insurance products. This role involves applying actuarial expertise to assess financial risks, support product development, and provide strategic insights to business stakeholders. The Actuary will play a key role in ensuring accuracy in actuarial models, supporting business decision-making, and e…",
+      "url": "https://www.adzuna.com/details/5738190695?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Oliver Wyman - Analyst, Talent Development",
+      "company": "Oliver Wyman Group",
+      "location": "Charlotte, Mecklenburg County",
+      "market": "Actuarial",
+      "posted": "2026-05-21",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
       "summary": "About Oliver Wyman Oliver Wyman, a Marsh (NYSE: MRSH) business, is a management consulting firm driven by deep industry insight, bold innovation, and a collaborative approach that cuts through complexity to help organizations navigate their most defining transformative moments. For more information, visit oliverwyman.com, or follow us on LinkedIn and X. Job Overview: The Actuarial Talent Development Analyst will play a critical role on the Human Capital team, supporting the global OW Actuarial …",
-      "url": "https://www.adzuna.com/land/ad/5737157260?se=NjbSSehV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=9DD7E11227A78E3453C4D758AE70D9161E59096F"
+      "url": "https://www.adzuna.com/land/ad/5737157260?se=2AoxxKZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=9DD7E11227A78E3453C4D758AE70D9161E59096F"
     },
     {
       "source": "Adzuna",
@@ -85,7 +121,7 @@
       "location": "Maryland, Anne Arundel County",
       "market": "Life",
       "posted": "2026-05-21",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -101,7 +137,7 @@
       "location": "Chicago, Cook County",
       "market": "Pricing/Reserving",
       "posted": "2026-05-22",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -118,13 +154,13 @@
       "location": "Madison, Dane County",
       "market": "Actuarial",
       "posted": "2026-05-21",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5736057977?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=A9740D466A9A3DB9B9657D7D6B68187438ED3E6E"
+      "url": "https://www.adzuna.com/land/ad/5736057977?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=A9740D466A9A3DB9B9657D7D6B68187438ED3E6E"
     },
     {
       "source": "Adzuna",
@@ -133,13 +169,13 @@
       "location": "Tumwater, Thurston County",
       "market": "Actuarial",
       "posted": "2026-05-21",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5736054668?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=6DF3EAD1A4022AE66E093F694426A8C88821903D"
+      "url": "https://www.adzuna.com/land/ad/5736054668?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=6DF3EAD1A4022AE66E093F694426A8C88821903D"
     },
     {
       "source": "Adzuna",
@@ -148,13 +184,13 @@
       "location": "Bonnie, Utah County",
       "market": "Actuarial",
       "posted": "2026-05-21",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5736052668?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=5485DD3D5E9470B58D24F91EA397F25D379562AE"
+      "url": "https://www.adzuna.com/land/ad/5736052668?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=5485DD3D5E9470B58D24F91EA397F25D379562AE"
     },
     {
       "source": "Adzuna",
@@ -163,7 +199,7 @@
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-05-21",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -178,13 +214,13 @@
       "location": "Charleston, Kanawha County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735929321?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=E2D32DAABCD691BF2CCA66F0CEDF9E79A47577B1"
+      "url": "https://www.adzuna.com/land/ad/5735929321?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=E2D32DAABCD691BF2CCA66F0CEDF9E79A47577B1"
     },
     {
       "source": "Adzuna",
@@ -193,13 +229,13 @@
       "location": "Montpelier, Washington County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735928877?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=53A7C3369FAC46E825DE36DEB0F0FD735E432F68"
+      "url": "https://www.adzuna.com/land/ad/5735928877?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=53A7C3369FAC46E825DE36DEB0F0FD735E432F68"
     },
     {
       "source": "Adzuna",
@@ -208,13 +244,13 @@
       "location": "Trenton, Mercer County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735882987?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=EE0DB8FA15053280399C5FC2CECE92DE630310FF"
+      "url": "https://www.adzuna.com/land/ad/5735882987?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=EE0DB8FA15053280399C5FC2CECE92DE630310FF"
     },
     {
       "source": "Adzuna",
@@ -223,13 +259,13 @@
       "location": "Carson Mall, Carson City",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735881964?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=66957A257EE0CAFB96B9810A4927440E2B705BF8"
+      "url": "https://www.adzuna.com/land/ad/5735881964?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=66957A257EE0CAFB96B9810A4927440E2B705BF8"
     },
     {
       "source": "Adzuna",
@@ -238,13 +274,13 @@
       "location": "State House, Lancaster County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735881473?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=A55151722C1D35A5D6D1B7F5329F88F1591BFE6E"
+      "url": "https://www.adzuna.com/land/ad/5735881473?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=A55151722C1D35A5D6D1B7F5329F88F1591BFE6E"
     },
     {
       "source": "Adzuna",
@@ -253,13 +289,13 @@
       "location": "Concord, Merrimack County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735881485?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=B8186CD2AA4E56A6C6A19242CC7F7DD79CDE69C8"
+      "url": "https://www.adzuna.com/land/ad/5735881485?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=B8186CD2AA4E56A6C6A19242CC7F7DD79CDE69C8"
     },
     {
       "source": "Adzuna",
@@ -268,13 +304,13 @@
       "location": "Cedar, Cole County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735878096?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=7F28399A9AFBA879973EE1E727B48637CEFCDB9B"
+      "url": "https://www.adzuna.com/land/ad/5735878096?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=7F28399A9AFBA879973EE1E727B48637CEFCDB9B"
     },
     {
       "source": "Adzuna",
@@ -283,13 +319,13 @@
       "location": "Frankfort, Franklin County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735877678?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=1532ACCF07D98955E90F1A76FD931BA81B30F19C"
+      "url": "https://www.adzuna.com/land/ad/5735877678?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=1532ACCF07D98955E90F1A76FD931BA81B30F19C"
     },
     {
       "source": "Adzuna",
@@ -298,13 +334,13 @@
       "location": "Jackson, Hinds County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735877619?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=83B7C7064F9A363BDCCB247E2D7FE4A783066396"
+      "url": "https://www.adzuna.com/land/ad/5735877619?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=83B7C7064F9A363BDCCB247E2D7FE4A783066396"
     },
     {
       "source": "Adzuna",
@@ -313,13 +349,13 @@
       "location": "Topeka, Shawnee County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735875834?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=B2D97209095A8038D0607CA7CA1BAF149588D410"
+      "url": "https://www.adzuna.com/land/ad/5735875834?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=B2D97209095A8038D0607CA7CA1BAF149588D410"
     },
     {
       "source": "Adzuna",
@@ -328,13 +364,13 @@
       "location": "Pierre, Hughes County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735864047?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=620E90125FA9B169D6EA145A12AD005AEDC05081"
+      "url": "https://www.adzuna.com/land/ad/5735864047?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=620E90125FA9B169D6EA145A12AD005AEDC05081"
     },
     {
       "source": "Adzuna",
@@ -343,13 +379,13 @@
       "location": "Providence, Providence County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735863844?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=510D32D5723B9D9D75316343C849BED26CD9282C"
+      "url": "https://www.adzuna.com/land/ad/5735863844?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=510D32D5723B9D9D75316343C849BED26CD9282C"
     },
     {
       "source": "Adzuna",
@@ -358,13 +394,13 @@
       "location": "Urbanización El Vedado, San Juan",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735848724?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=9377B8D71CAEFC3A4499F2523F2B6F254B49E048"
+      "url": "https://www.adzuna.com/land/ad/5735848724?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=9377B8D71CAEFC3A4499F2523F2B6F254B49E048"
     },
     {
       "source": "Adzuna",
@@ -373,13 +409,13 @@
       "location": "Bismarck, Burleigh County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735848701?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=4D9C1AC0EEAE33C0EDC349E6E0BDD51DE0095E98"
+      "url": "https://www.adzuna.com/land/ad/5735848701?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=4D9C1AC0EEAE33C0EDC349E6E0BDD51DE0095E98"
     },
     {
       "source": "Adzuna",
@@ -388,13 +424,13 @@
       "location": "Boise, Ada County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735846378?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=31CFC47B5A696FE5599D4086FB54B861C9F9C499"
+      "url": "https://www.adzuna.com/land/ad/5735846378?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=31CFC47B5A696FE5599D4086FB54B861C9F9C499"
     },
     {
       "source": "Adzuna",
@@ -403,13 +439,13 @@
       "location": "Washington, D.C., US",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735842218?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=2FEE732FFC7B43224BE194D9B370125BE7310F0F"
+      "url": "https://www.adzuna.com/land/ad/5735842218?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=2FEE732FFC7B43224BE194D9B370125BE7310F0F"
     },
     {
       "source": "Adzuna",
@@ -418,13 +454,13 @@
       "location": "Wyoming, Kent County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735842156?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=386C1652C69F5501F45096F9657E15DCCFD0664C"
+      "url": "https://www.adzuna.com/land/ad/5735842156?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=386C1652C69F5501F45096F9657E15DCCFD0664C"
     },
     {
       "source": "Adzuna",
@@ -433,7 +469,7 @@
       "location": "Douglas, Juneau",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -448,13 +484,13 @@
       "location": "Archer, Laramie County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735835588?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=6C49A29F9514CE848545CC7206C4C2D8D3D68A71"
+      "url": "https://www.adzuna.com/land/ad/5735835588?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=6C49A29F9514CE848545CC7206C4C2D8D3D68A71"
     },
     {
       "source": "Adzuna",
@@ -463,13 +499,13 @@
       "location": "Ny State Campus, Albany County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735791282?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=3529152C6AE0B1012911898675974C3D9445E255"
+      "url": "https://www.adzuna.com/land/ad/5735791282?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=3529152C6AE0B1012911898675974C3D9445E255"
     },
     {
       "source": "Adzuna",
@@ -478,13 +514,13 @@
       "location": "Grandview Heights, Franklin County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735750034?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=ABD599F6D7BE0555F62D27F59A799A7A99059987"
+      "url": "https://www.adzuna.com/land/ad/5735750034?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=ABD599F6D7BE0555F62D27F59A799A7A99059987"
     },
     {
       "source": "Adzuna",
@@ -493,13 +529,13 @@
       "location": "Five Points, Wake County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735746435?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=21A945C06FCE76344FA38702A6F7D7FCCA77E111"
+      "url": "https://www.adzuna.com/land/ad/5735746435?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=21A945C06FCE76344FA38702A6F7D7FCCA77E111"
     },
     {
       "source": "Adzuna",
@@ -508,13 +544,13 @@
       "location": "Boston, Suffolk County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735744015?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=BBA626D71488B523587AC3CCEFBEEE9C098D8038"
+      "url": "https://www.adzuna.com/land/ad/5735744015?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=BBA626D71488B523587AC3CCEFBEEE9C098D8038"
     },
     {
       "source": "Adzuna",
@@ -523,13 +559,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735743889?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=7C8F98F4DF332C4B856584A34D19CF2F4A191813"
+      "url": "https://www.adzuna.com/land/ad/5735743889?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=7C8F98F4DF332C4B856584A34D19CF2F4A191813"
     },
     {
       "source": "Adzuna",
@@ -538,13 +574,13 @@
       "location": "Nashville, Davidson County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735743639?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=D322444C723B94170580FB8CD57D17631412840C"
+      "url": "https://www.adzuna.com/land/ad/5735743639?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=D322444C723B94170580FB8CD57D17631412840C"
     },
     {
       "source": "Adzuna",
@@ -553,13 +589,13 @@
       "location": "Oklahoma City, Oklahoma County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735742640?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=9F6E0025C2BF4A6633E2BACFF9EA1B433B323EF5"
+      "url": "https://www.adzuna.com/land/ad/5735742640?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=9F6E0025C2BF4A6633E2BACFF9EA1B433B323EF5"
     },
     {
       "source": "Adzuna",
@@ -568,13 +604,13 @@
       "location": "Phoenix, Maricopa County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735742650?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=D8670DE677E9712C80FEBBE964BA5DA2E31F07A2"
+      "url": "https://www.adzuna.com/land/ad/5735742650?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=D8670DE677E9712C80FEBBE964BA5DA2E31F07A2"
     },
     {
       "source": "Adzuna",
@@ -583,13 +619,13 @@
       "location": "Glendale, Denver",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735742368?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=D2D72B3BEEC266D0528C6508AAB79C2A2BC49563"
+      "url": "https://www.adzuna.com/land/ad/5735742368?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=D2D72B3BEEC266D0528C6508AAB79C2A2BC49563"
     },
     {
       "source": "Adzuna",
@@ -598,13 +634,13 @@
       "location": "Lansing, Ingham County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735742168?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=553B024802ECE13AD4C57C2096FD8708EB32C2E5"
+      "url": "https://www.adzuna.com/land/ad/5735742168?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=553B024802ECE13AD4C57C2096FD8708EB32C2E5"
     },
     {
       "source": "Adzuna",
@@ -613,13 +649,13 @@
       "location": "Saint Paul, Ramsey County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735741827?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=85BF6F4B9D7810B48B839FC378500E0CC7B3B7CB"
+      "url": "https://www.adzuna.com/land/ad/5735741827?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=85BF6F4B9D7810B48B839FC378500E0CC7B3B7CB"
     },
     {
       "source": "Adzuna",
@@ -628,13 +664,13 @@
       "location": "Salem, Marion County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735741745?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=0B687CBFD74165244D7E089F35034D065A60CCD3"
+      "url": "https://www.adzuna.com/land/ad/5735741745?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=0B687CBFD74165244D7E089F35034D065A60CCD3"
     },
     {
       "source": "Adzuna",
@@ -643,13 +679,13 @@
       "location": "Chisolm, Montgomery County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735741360?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=152E727A0A63637E82AB069F8656388C71AD717E"
+      "url": "https://www.adzuna.com/land/ad/5735741360?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=152E727A0A63637E82AB069F8656388C71AD717E"
     },
     {
       "source": "Adzuna",
@@ -658,13 +694,13 @@
       "location": "Baton Rouge, East Baton Rouge Parish",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735740625?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=0803566C29ADEE5396581654081305A71CCE168F"
+      "url": "https://www.adzuna.com/land/ad/5735740625?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=0803566C29ADEE5396581654081305A71CCE168F"
     },
     {
       "source": "Adzuna",
@@ -673,13 +709,13 @@
       "location": "Cammack Village, Pulaski County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735740095?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=AC2A6D901D763995FD3567A4ADA08234917ECF94"
+      "url": "https://www.adzuna.com/land/ad/5735740095?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=AC2A6D901D763995FD3567A4ADA08234917ECF94"
     },
     {
       "source": "Adzuna",
@@ -688,13 +724,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735739928?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=8FC6DD81379A2197C38CFEA7BAA9DD29BF2F9807"
+      "url": "https://www.adzuna.com/land/ad/5735739928?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=8FC6DD81379A2197C38CFEA7BAA9DD29BF2F9807"
     },
     {
       "source": "Adzuna",
@@ -703,13 +739,13 @@
       "location": "Uptown, Marion County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735733675?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=8ABFE22EDAE6DC1A61AC54970C80BC36DD2F22CA"
+      "url": "https://www.adzuna.com/land/ad/5735733675?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=8ABFE22EDAE6DC1A61AC54970C80BC36DD2F22CA"
     },
     {
       "source": "Adzuna",
@@ -718,13 +754,13 @@
       "location": "Edgewood, Richland County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735717426?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=60331F1D86B82A89059E864A222ED4B4489563EC"
+      "url": "https://www.adzuna.com/land/ad/5735717426?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=60331F1D86B82A89059E864A222ED4B4489563EC"
     },
     {
       "source": "Adzuna",
@@ -733,13 +769,13 @@
       "location": "Des Moines, Polk County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735717176?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=55A0750B7F29E0C403AA08B604B9CB1C1CB34EC2"
+      "url": "https://www.adzuna.com/land/ad/5735717176?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=55A0750B7F29E0C403AA08B604B9CB1C1CB34EC2"
     },
     {
       "source": "Adzuna",
@@ -748,13 +784,13 @@
       "location": "Wake Island, Honolulu",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735715292?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=02F2664052E13946D2B3268660A963269BC80F2E"
+      "url": "https://www.adzuna.com/land/ad/5735715292?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=02F2664052E13946D2B3268660A963269BC80F2E"
     },
     {
       "source": "Adzuna",
@@ -763,13 +799,13 @@
       "location": "Helena, Lewis and Clark County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735715175?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=35C29AEB9EA523ACB90FF089F9114D1AD18B1487"
+      "url": "https://www.adzuna.com/land/ad/5735715175?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=35C29AEB9EA523ACB90FF089F9114D1AD18B1487"
     },
     {
       "source": "Adzuna",
@@ -778,13 +814,13 @@
       "location": "Augusta, Kennebec County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735715127?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=012C0309EB5ACD24E210AA401CD12AF554B1BE82"
+      "url": "https://www.adzuna.com/land/ad/5735715127?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=012C0309EB5ACD24E210AA401CD12AF554B1BE82"
     },
     {
       "source": "Adzuna",
@@ -793,7 +829,7 @@
       "location": "Penbrook, Dauphin County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -808,7 +844,7 @@
       "location": "Tallahassee, Leon County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -823,7 +859,7 @@
       "location": "Capitol, Richmond",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -838,7 +874,7 @@
       "location": "Springfield, Sangamon County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -853,13 +889,13 @@
       "location": "Annapolis, Anne Arundel County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735642431?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=8BE7DA8242AC240E295FF0B22D8E0660E6C573FA"
+      "url": "https://www.adzuna.com/land/ad/5735642431?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=8BE7DA8242AC240E295FF0B22D8E0660E6C573FA"
     },
     {
       "source": "Adzuna",
@@ -868,13 +904,13 @@
       "location": "La Cienga, Santa Fe County",
       "market": "Actuarial",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5735641288?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=FA80217C38C817CCD42DAA350B0E4B7212DC12B2"
+      "url": "https://www.adzuna.com/land/ad/5735641288?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=FA80217C38C817CCD42DAA350B0E4B7212DC12B2"
     },
     {
       "source": "Adzuna",
@@ -883,7 +919,7 @@
       "location": "Melbourne, Brevard County",
       "market": "Health",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -898,7 +934,7 @@
       "location": "US",
       "market": "Health",
       "posted": "2026-05-21",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -914,7 +950,7 @@
       "location": "US",
       "market": "Life",
       "posted": "2026-05-21",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -934,7 +970,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -949,14 +985,14 @@
       "location": "Tyler Park, Hudson County",
       "market": "Life",
       "posted": "2026-05-20",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Reinsurance"
       ],
       "summary": "We are seeking a skilled Business Analyst with expertise in actuarial reporting to support the modernization of the reporting environment by transitioning actuarial measures and reports into our Segment Data Warehouse. The ideal candidate will combine technical acumen with actuarial knowledge to ensure accuracy, consistency, and compliance throughout the process. Work Location: Remote but willing and able to primarily work east coast business hours Duration: 6 months, likely to extend Pay Rate …",
-      "url": "https://www.adzuna.com/land/ad/5735885196?se=OBBfSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=3562738F54CFD5162481FC0434ACEF13C96BF499"
+      "url": "https://www.adzuna.com/land/ad/5735885196?se=8pDHxKZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=3562738F54CFD5162481FC0434ACEF13C96BF499"
     },
     {
       "source": "Adzuna",
@@ -972,7 +1008,7 @@
         "Pricing"
       ],
       "summary": "Description Key Responsibilities Perform product development and maintenance activities, including: Experience analysis Assumption setting Developing projections of future product performance Support pricing strategy and profitability of insurance products Prepare actuarial models, rate justifications, and regulatory filings/exhibits Provide actuarial support for operational, administrative, and customer service systems Work closely with underwriting on product design, pricing, and implementati…",
-      "url": "https://www.adzuna.com/land/ad/5735318184?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=46A1435AE429DDEF5D2C92A4CE637A2BC3C1394E"
+      "url": "https://www.adzuna.com/land/ad/5735318184?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=46A1435AE429DDEF5D2C92A4CE637A2BC3C1394E"
     },
     {
       "source": "Adzuna",
@@ -981,14 +1017,14 @@
       "location": "Oklahoma City, Oklahoma County",
       "market": "Pricing/Reserving",
       "posted": "2026-05-19",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Pricing"
       ],
       "summary": "Description Key Responsibilities Perform product development and maintenance activities, including: Experience analysis Assumption setting Developing projections of future product performance Support pricing strategy and profitability of insurance products Prepare actuarial models, rate justifications, and regulatory filings/exhibits Provide actuarial support for operational, administrative, and customer service systems Work closely with underwriting on product design, pricing, and implementati…",
-      "url": "https://www.adzuna.com/land/ad/5734643623?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=688E3BA780CE2BF8AEA3CB24863E38E036425C09"
+      "url": "https://www.adzuna.com/land/ad/5734643623?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=688E3BA780CE2BF8AEA3CB24863E38E036425C09"
     },
     {
       "source": "Adzuna",
@@ -997,13 +1033,13 @@
       "location": "Eden Prairie, Hennepin County",
       "market": "Health",
       "posted": "2026-05-18",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Requisition number: 2362887 Job category: Actuarial Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the …",
-      "url": "https://www.adzuna.com/land/ad/5733618171?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=DBC89FE92F41508AEA2AF668BA92938904918D53"
+      "url": "https://www.adzuna.com/land/ad/5733618171?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=DBC89FE92F41508AEA2AF668BA92938904918D53"
     },
     {
       "source": "Adzuna",
@@ -1012,7 +1048,7 @@
       "location": "Dallas, Texas",
       "market": "Actuarial",
       "posted": "2026-05-17",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -1023,28 +1059,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Public Benefits Coordinator - Community Justice Support Center",
-      "company": "Commonwealth of Massachusetts",
-      "location": "US",
-      "market": "Actuarial",
-      "posted": "2026-05-17",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely <=3 years based on description",
-      "skills": [
-        "Excel",
-        "R"
-      ],
-      "summary": "1. Education\\: Bachelor’s degree 2. Experience\\: 1 year of experience engaging in case management activities such as enrolling customers in public benefits programs. 3. Skills\\: Mastery of basic technology including MS Office\\: Word, Excel, Outlook, and Teams. The Public Benefits Coordinator (PBC) will be part of the multi-disciplinary team at the Community Justice Support Center (Support Center). Support Centers provide treatment, education, career counseling, and case management support to pe…",
-      "url": "https://www.adzuna.com/details/5732157422?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst",
       "company": "Howden",
       "location": "US",
       "market": "Life",
       "posted": "2026-05-17",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1060,13 +1080,13 @@
       "location": "Waukesha, Waukesha County",
       "market": "Life",
       "posted": "2026-05-17",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5732166550?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=34A5B989EB285145D38634044A2DA8E9B2067427"
+      "url": "https://www.adzuna.com/land/ad/5732166550?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=34A5B989EB285145D38634044A2DA8E9B2067427"
     },
     {
       "source": "Adzuna",
@@ -1075,13 +1095,13 @@
       "location": "Wellston, Saint Louis County",
       "market": "Life",
       "posted": "2026-05-16",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5732077736?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=75110EC7964FA194C2226531CC1A6CE13E161ECF"
+      "url": "https://www.adzuna.com/land/ad/5732077736?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=75110EC7964FA194C2226531CC1A6CE13E161ECF"
     },
     {
       "source": "Adzuna",
@@ -1090,13 +1110,13 @@
       "location": "Strathmoor Manor, Jefferson County",
       "market": "Life",
       "posted": "2026-05-16",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5732076881?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=DD3F4A1AF6751ED12EC0BCC8BB10F4E162700333"
+      "url": "https://www.adzuna.com/land/ad/5732076881?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=DD3F4A1AF6751ED12EC0BCC8BB10F4E162700333"
     },
     {
       "source": "Adzuna",
@@ -1105,13 +1125,13 @@
       "location": "Mason, Warren County",
       "market": "Life",
       "posted": "2026-05-16",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5732048733?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=DDA030C1B3BF1B54E45EE43FB93AF7CF63146B05"
+      "url": "https://www.adzuna.com/land/ad/5732048733?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=DDA030C1B3BF1B54E45EE43FB93AF7CF63146B05"
     },
     {
       "source": "Adzuna",
@@ -1120,13 +1140,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-05-16",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5732027857?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=11FBC6DDC17447522886627894A1984595213FFB"
+      "url": "https://www.adzuna.com/land/ad/5732027857?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=11FBC6DDC17447522886627894A1984595213FFB"
     },
     {
       "source": "Adzuna",
@@ -1135,13 +1155,13 @@
       "location": "Uptown, Marion County",
       "market": "Life",
       "posted": "2026-05-16",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5731977510?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=2ED7CAA86D6FF6954703A3ECEF01D6C77E3AE682"
+      "url": "https://www.adzuna.com/land/ad/5731977510?se=QBNMxaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=2ED7CAA86D6FF6954703A3ECEF01D6C77E3AE682"
     },
     {
       "source": "Adzuna",
@@ -1150,13 +1170,13 @@
       "location": "Wilmington, New Castle County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5730975515?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=F80171019B235FD061DB6C568A2F421B0CDBA748"
+      "url": "https://www.adzuna.com/land/ad/5730975515?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=F80171019B235FD061DB6C568A2F421B0CDBA748"
     },
     {
       "source": "Adzuna",
@@ -1165,13 +1185,13 @@
       "location": "Saint Bernard, Hamilton County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5730967798?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=9593BA5CE2FADC91BF7F6F590C426E6A244FB170"
+      "url": "https://www.adzuna.com/land/ad/5730967798?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=9593BA5CE2FADC91BF7F6F590C426E6A244FB170"
     },
     {
       "source": "Adzuna",
@@ -1180,13 +1200,13 @@
       "location": "Mason, Warren County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5730967799?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=B967BFD69FA60E2AE54261D64350A0199DABF462"
+      "url": "https://www.adzuna.com/land/ad/5730967799?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=B967BFD69FA60E2AE54261D64350A0199DABF462"
     },
     {
       "source": "Adzuna",
@@ -1195,13 +1215,13 @@
       "location": "Uptown, Marion County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5730949845?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=2ED29CAC48DEAC875C2E87B197FCA171E3409CC3"
+      "url": "https://www.adzuna.com/land/ad/5730949845?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=2ED29CAC48DEAC875C2E87B197FCA171E3409CC3"
     },
     {
       "source": "Adzuna",
@@ -1210,7 +1230,7 @@
       "location": "West Miami, Miami-Dade County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1225,7 +1245,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1240,7 +1260,7 @@
       "location": "Atlanta, Hamilton County",
       "market": "Life",
       "posted": "2026-05-16",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1255,13 +1275,13 @@
       "location": "Woodbridge, Middlesex County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730992082?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=2734D58252B4F251E2408084AC8A8F01DDBBC074"
+      "url": "https://www.adzuna.com/land/ad/5730992082?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=2734D58252B4F251E2408084AC8A8F01DDBBC074"
     },
     {
       "source": "Adzuna",
@@ -1270,13 +1290,13 @@
       "location": "Wilmington, New Castle County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730975516?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=6BC67C43CCFFF8ABAE07D1FD3BA90AC050BE48FA"
+      "url": "https://www.adzuna.com/land/ad/5730975516?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=6BC67C43CCFFF8ABAE07D1FD3BA90AC050BE48FA"
     },
     {
       "source": "Adzuna",
@@ -1285,13 +1305,13 @@
       "location": "Grand Central, Manhattan",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730971284?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=BF9489BE8C33D54162BBEDF5D5120D53BE5B11B5"
+      "url": "https://www.adzuna.com/land/ad/5730971284?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=BF9489BE8C33D54162BBEDF5D5120D53BE5B11B5"
     },
     {
       "source": "Adzuna",
@@ -1300,13 +1320,13 @@
       "location": "Lakeville Estates, Nassau County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730971283?se=LlbSSuhV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=E961EDAF4D43B30DDA9DB5B98AE490361E70887B"
+      "url": "https://www.adzuna.com/land/ad/5730971283?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=E961EDAF4D43B30DDA9DB5B98AE490361E70887B"
     },
     {
       "source": "Adzuna",
@@ -1315,13 +1335,13 @@
       "location": "Mason, Warren County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730967800?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=721255B0F512F38372180A0912BF9344E218E48F"
+      "url": "https://www.adzuna.com/land/ad/5730967800?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=721255B0F512F38372180A0912BF9344E218E48F"
     },
     {
       "source": "Adzuna",
@@ -1330,13 +1350,13 @@
       "location": "Saint Bernard, Hamilton County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730967797?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=6A6104B54EBB4D55362BE9CC7781054F7AE7BC66"
+      "url": "https://www.adzuna.com/land/ad/5730967797?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=6A6104B54EBB4D55362BE9CC7781054F7AE7BC66"
     },
     {
       "source": "Adzuna",
@@ -1345,13 +1365,13 @@
       "location": "Reading, Middlesex County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730955093?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=C2B67207BB396AC160508A54A41CA3CB0C956D4C"
+      "url": "https://www.adzuna.com/land/ad/5730955093?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=C2B67207BB396AC160508A54A41CA3CB0C956D4C"
     },
     {
       "source": "Adzuna",
@@ -1360,13 +1380,13 @@
       "location": "West Saint Paul, Dakota County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730955090?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=4ACF8405A8DB9DB46CE7561C9090D0BE950013E2"
+      "url": "https://www.adzuna.com/land/ad/5730955090?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=4ACF8405A8DB9DB46CE7561C9090D0BE950013E2"
     },
     {
       "source": "Adzuna",
@@ -1375,13 +1395,13 @@
       "location": "Glendale, Denver",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730953907?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=3B210E456A458D9DE44959880692012BF8B80280"
+      "url": "https://www.adzuna.com/land/ad/5730953907?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=3B210E456A458D9DE44959880692012BF8B80280"
     },
     {
       "source": "Adzuna",
@@ -1390,28 +1410,13 @@
       "location": "Uptown, Marion County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730949841?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=A1CA4E6FB04BB540070D20753CF32064258E2608"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst III",
-      "company": "Elevance Health",
-      "location": "Indianapolis, Marion County",
-      "market": "Life",
-      "posted": "2026-05-15",
-      "postedAgeDays": 6,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/details/5730935518?utm_medium=api&utm_source=75b5032a"
+      "url": "https://www.adzuna.com/land/ad/5730949841?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=A1CA4E6FB04BB540070D20753CF32064258E2608"
     },
     {
       "source": "Adzuna",
@@ -1420,7 +1425,7 @@
       "location": "West Miami, Miami-Dade County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1435,7 +1440,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1450,7 +1455,7 @@
       "location": "Ashburn, Loudoun County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1465,7 +1470,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1480,13 +1485,13 @@
       "location": "Woodbridge, Middlesex County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730992082?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=2734D58252B4F251E2408084AC8A8F01DDBBC074"
+      "url": "https://www.adzuna.com/land/ad/5730992082?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=2734D58252B4F251E2408084AC8A8F01DDBBC074"
     },
     {
       "source": "Adzuna",
@@ -1495,13 +1500,13 @@
       "location": "Wilmington, New Castle County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730975516?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=6BC67C43CCFFF8ABAE07D1FD3BA90AC050BE48FA"
+      "url": "https://www.adzuna.com/land/ad/5730975516?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=6BC67C43CCFFF8ABAE07D1FD3BA90AC050BE48FA"
     },
     {
       "source": "Adzuna",
@@ -1510,13 +1515,13 @@
       "location": "Grand Central, Manhattan",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730971284?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=BF9489BE8C33D54162BBEDF5D5120D53BE5B11B5"
+      "url": "https://www.adzuna.com/land/ad/5730971284?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=BF9489BE8C33D54162BBEDF5D5120D53BE5B11B5"
     },
     {
       "source": "Adzuna",
@@ -1525,13 +1530,13 @@
       "location": "Lakeville Estates, Nassau County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730971283?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=E961EDAF4D43B30DDA9DB5B98AE490361E70887B"
+      "url": "https://www.adzuna.com/land/ad/5730971283?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=E961EDAF4D43B30DDA9DB5B98AE490361E70887B"
     },
     {
       "source": "Adzuna",
@@ -1540,13 +1545,13 @@
       "location": "Mason, Warren County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730967800?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=721255B0F512F38372180A0912BF9344E218E48F"
+      "url": "https://www.adzuna.com/land/ad/5730967800?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=721255B0F512F38372180A0912BF9344E218E48F"
     },
     {
       "source": "Adzuna",
@@ -1555,13 +1560,13 @@
       "location": "Saint Bernard, Hamilton County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730967797?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=6A6104B54EBB4D55362BE9CC7781054F7AE7BC66"
+      "url": "https://www.adzuna.com/land/ad/5730967797?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=6A6104B54EBB4D55362BE9CC7781054F7AE7BC66"
     },
     {
       "source": "Adzuna",
@@ -1570,13 +1575,13 @@
       "location": "Reading, Middlesex County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730955093?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=C2B67207BB396AC160508A54A41CA3CB0C956D4C"
+      "url": "https://www.adzuna.com/land/ad/5730955093?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=C2B67207BB396AC160508A54A41CA3CB0C956D4C"
     },
     {
       "source": "Adzuna",
@@ -1585,13 +1590,13 @@
       "location": "West Saint Paul, Dakota County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730955090?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=4ACF8405A8DB9DB46CE7561C9090D0BE950013E2"
+      "url": "https://www.adzuna.com/land/ad/5730955090?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=4ACF8405A8DB9DB46CE7561C9090D0BE950013E2"
     },
     {
       "source": "Adzuna",
@@ -1600,13 +1605,13 @@
       "location": "Glendale, Denver",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730953907?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=3B210E456A458D9DE44959880692012BF8B80280"
+      "url": "https://www.adzuna.com/land/ad/5730953907?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=3B210E456A458D9DE44959880692012BF8B80280"
     },
     {
       "source": "Adzuna",
@@ -1615,13 +1620,13 @@
       "location": "Uptown, Marion County",
       "market": "Life",
       "posted": "2026-05-15",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/land/ad/5730949841?se=BL4rT-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=A1CA4E6FB04BB540070D20753CF32064258E2608"
+      "url": "https://www.adzuna.com/land/ad/5730949841?se=Vo9ey6ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=A1CA4E6FB04BB540070D20753CF32064258E2608"
     },
     {
       "source": "Adzuna",
@@ -1630,13 +1635,13 @@
       "location": "Stratmoor Hills, El Paso County",
       "market": "Actuarial",
       "posted": "2026-05-15",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity We have multiple exciting opportunities …",
-      "url": "https://www.adzuna.com/land/ad/5730444201?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=228708000B9F44E9F017D7847EDE327E24948C0B"
+      "url": "https://www.adzuna.com/land/ad/5730444201?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=228708000B9F44E9F017D7847EDE327E24948C0B"
     },
     {
       "source": "Adzuna",
@@ -1645,13 +1650,13 @@
       "location": "Stratmoor Hills, El Paso County",
       "market": "Actuarial",
       "posted": "2026-05-15",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity We have multiple exciting opportunities …",
-      "url": "https://www.adzuna.com/land/ad/5730444201?se=XD42TuhV8RGqi8F6fKrASg&utm_medium=api&utm_source=75b5032a&v=228708000B9F44E9F017D7847EDE327E24948C0B"
+      "url": "https://www.adzuna.com/land/ad/5730444201?se=aMzyyaZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=75b5032a&v=228708000B9F44E9F017D7847EDE327E24948C0B"
     },
     {
       "source": "Adzuna",
@@ -1660,13 +1665,13 @@
       "location": "Stratmoor Hills, El Paso County",
       "market": "Actuarial",
       "posted": "2026-05-15",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity We offer a flexible work environment tha…",
-      "url": "https://www.adzuna.com/land/ad/5730443991?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=48BBAB490130CFE880BA19EFA9E94F4C00EE62BE"
+      "url": "https://www.adzuna.com/land/ad/5730443991?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=48BBAB490130CFE880BA19EFA9E94F4C00EE62BE"
     },
     {
       "source": "Adzuna",
@@ -1675,58 +1680,13 @@
       "location": "Stratmoor Hills, El Paso County",
       "market": "Actuarial",
       "posted": "2026-05-15",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity This posting is for multiple P&C Actuari…",
-      "url": "https://www.adzuna.com/land/ad/5730444054?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=28710B5DB9A06EA90C269FB67DD211E0C4E66408"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst II",
-      "company": "Elevance Health",
-      "location": "Indianapolis, Marion County",
-      "market": "Life",
-      "posted": "2026-05-14",
-      "postedAgeDays": 7,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/details/5729896707?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst III",
-      "company": "Elevance Health",
-      "location": "Denver, Colorado",
-      "market": "Life",
-      "posted": "2026-05-14",
-      "postedAgeDays": 7,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/details/5729896708?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst III",
-      "company": "Elevance Health",
-      "location": "Indianapolis, Marion County",
-      "market": "Life",
-      "posted": "2026-05-14",
-      "postedAgeDays": 7,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual …",
-      "url": "https://www.adzuna.com/details/5729896706?utm_medium=api&utm_source=75b5032a"
+      "url": "https://www.adzuna.com/land/ad/5730444054?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=28710B5DB9A06EA90C269FB67DD211E0C4E66408"
     },
     {
       "source": "Adzuna",
@@ -1735,7 +1695,7 @@
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-05-13",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1750,7 +1710,7 @@
       "location": "US",
       "market": "Life",
       "posted": "2026-05-14",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1766,14 +1726,14 @@
       "location": "Morristown, Morris County",
       "market": "Pricing/Reserving",
       "posted": "2026-05-14",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Reserving"
       ],
       "summary": "With a company culture rooted in collaboration, expertise and innovation, we aim to promote progress and inspire our clients, employees, investors and communities to achieve their greatest potential. Our work is the catalyst that helps others achieve their goals. In short, We Enable Possibility℠. The position is in the Actuarial Reserving department. The employee would assist in reserving all lines of business, financial reporting, and special projects. Special projects include pattern reviews,…",
-      "url": "https://www.adzuna.com/land/ad/5728958510?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=5651B19C4288568577397F0B33BB621BF8876615"
+      "url": "https://www.adzuna.com/land/ad/5728958510?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=5651B19C4288568577397F0B33BB621BF8876615"
     },
     {
       "source": "Adzuna",
@@ -1782,7 +1742,7 @@
       "location": "Omaha, Douglas County",
       "market": "Pricing/Reserving",
       "posted": "2026-05-13",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1798,14 +1758,14 @@
       "location": "Morristown, Morris County",
       "market": "Pricing/Reserving",
       "posted": "2026-05-14",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Reserving"
       ],
       "summary": "With a company culture rooted in collaboration, expertise and innovation, we aim to promote progress and inspire our clients, employees, investors and communities to achieve their greatest potential. Our work is the catalyst that helps others achieve their goals. In short, We Enable Possibility℠. The position is in the Actuarial Reserving department. The employee would assist in reserving all lines of business, financial reporting, and special projects. Special projects include pattern reviews,…",
-      "url": "https://www.adzuna.com/land/ad/5728958510?se=bGOWT-hV8RGuXID0N1L6vA&utm_medium=api&utm_source=75b5032a&v=5651B19C4288568577397F0B33BB621BF8876615"
+      "url": "https://www.adzuna.com/land/ad/5728958510?se=aIDny6ZW8RGJxKyp5kHyhA&utm_medium=api&utm_source=75b5032a&v=5651B19C4288568577397F0B33BB621BF8876615"
     },
     {
       "source": "Adzuna",
@@ -1814,7 +1774,7 @@
       "location": "Boston, Suffolk County",
       "market": "Pricing/Reserving",
       "posted": "2026-05-14",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1830,13 +1790,13 @@
       "location": "Brookfield, Waukesha County",
       "market": "Actuarial",
       "posted": "2026-05-13",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "What We Do Milliman IntelliScript is a group of a few hundred experts in fields ranging from actuarial science to information technology to clinical practice. Together, we develop and deploy category-defining, data-driven, software-as-a-service (SaaS) products for a broad spectrum of insurance clients. We are a business unit within Milliman, Inc., a respected consultancy with offices around the world. Candidates who have their pick of jobs are drawn to IntelliScript's entrepreneurial and collab…",
-      "url": "https://www.adzuna.com/land/ad/5727894241?se=CKxHS-hV8RGUifme8P4dLA&utm_medium=api&utm_source=75b5032a&v=2A540AC913A217D179A37CBFFCC98C78EA1536A7"
+      "url": "https://www.adzuna.com/land/ad/5727894241?se=GIDoxaZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=75b5032a&v=2A540AC913A217D179A37CBFFCC98C78EA1536A7"
     },
     {
       "source": "Adzuna",
@@ -1845,7 +1805,7 @@
       "location": "Madison, Dane County",
       "market": "Actuarial",
       "posted": "2026-05-13",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1860,7 +1820,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Actuarial",
       "posted": "2026-05-13",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1875,7 +1835,7 @@
       "location": "Murray, Salt Lake County",
       "market": "Health",
       "posted": "2026-05-13",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1890,7 +1850,7 @@
       "location": "US",
       "market": "Life",
       "posted": "2026-05-13",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1906,7 +1866,7 @@
       "location": "US",
       "market": "Life",
       "posted": "2026-05-13",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1922,7 +1882,7 @@
       "location": "New York City, New York",
       "market": "Health",
       "posted": "2026-05-10",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
