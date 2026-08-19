@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-18T12:20:42+00:00",
+  "generatedAt": "2026-08-19T12:20:00+00:00",
   "news": [
     {
-      "title": "Dentons Secures Dismissal of False Claims Act Case Concerning Affordable Care Act Premium Rates - Dentons",
+      "title": "Dentons Secures Dismissal of False Claims Act Case Concerning Affordable Care Act Premium Rates - dentons.com",
       "source": "Google News: ACA premium rate review actuarial health i",
       "category": "Health",
       "priority": "High",
       "published": "2026-08-17 17:14",
-      "summary": "Dentons Secures Dismissal of False Claims Act Case Concerning Affordable Care Act Premium Rates Dentons",
+      "summary": "Dentons Secures Dismissal of False Claims Act Case Concerning Affordable Care Act Premium Rates dentons.com",
       "whyItMatters": "Relevant to claims trend, pricing, reserving, loss ratio analysis, and forecast assumptions.",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMmFodGZ1eDRyNDJGQTcxT2lsc21QUjdhOUU0SE9oRDlKSGtYZlgwYzBRR09PTU5TdTB4eFdBLXhPM1YxTWJZVGFNSGZSREZLYTlNWEwwTE9EWUw4MkZFZmphREFwMDlTVW5PSEg1WE1uelJTQ3NsRTFJOFB6QzUwaFA0T0ZiN1pSLXZST0pReTRFdWxXeGpCdUQ0TmNsUFNCa3Ric2VKT0lONWJYZnZiaTF4SzREZENZZTRFYWFqVzZFRFFGR180RjlGRVd1eGFBblB6RnNtQkxtUHkxcUFmT2dtNk45bTNO?oc=5"
     },
@@ -26,11 +26,520 @@
     {
       "source": "Adzuna",
       "role": "Actuarial Analyst",
+      "company": "CRC Insurance Services, Inc.",
+      "location": "Alpharetta, Fulton County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "The position is described below. If you want to apply, click the Apply button at the top or bottom of this page. You'll be required to create an account or sign in to an existing one. _If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to_ Accessibility (careers@crcgroup.com?subject=Accommodation%20request) _(accommodation requests only; other inquiries won't receive a response)._ Regular or Temporary: Regular Language Fl…",
+      "url": "https://www.adzuna.com/land/ad/5847733722?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=4ECDDED7E2BB7D4C1537D7F85F3E83F545EE28DB"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion Only: Actuarial Delivery Group Analyst- 2027",
+      "company": "WTW",
+      "location": "Lathrup Village, Oakland County",
+      "market": "Actuarial",
+      "posted": "2026-08-19",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "Excel",
+        "R"
+      ],
+      "summary": "Description Calling all mathematics and statistics majors and seeking candidates who are not interested in writing future actuarial exams Do you want to be part of a strategic team focused on innovation and excellence? Are you looking to develop your skills with opportunities for career growth? Do you want to be part of a diverse team where everyone is heard, respected, and valued? Look no further…WTW is the place for you! Employment-based non-immigrant visa sponsorship and/or assistance is not…",
+      "url": "https://www.adzuna.com/details/5847958738?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion Only: Actuarial Delivery Group Analyst- 2027",
+      "company": "WTW",
+      "location": "Detroit, Wayne County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "Excel",
+        "R"
+      ],
+      "summary": "Description Calling all mathematics and statistics majors and seeking candidates who are not interested in writing future actuarial exams Do you want to be part of a strategic team focused on innovation and excellence? Are you looking to develop your skills with opportunities for career growth? Do you want to be part of a diverse team where everyone is heard, respected, and valued? Look no furtherWTW is the place for you! Employment-based non-immigrant visa sponsorship and/or assistance is not …",
+      "url": "https://www.adzuna.com/land/ad/5847749297?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=BA101465FAD7F5432B27ED53D549AF921177A40B"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion Only: Actuarial Delivery Group Analyst- 2027",
+      "company": "WTW",
+      "location": "William Penn Annex East, Philadelphia County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "Excel",
+        "R"
+      ],
+      "summary": "Description Calling all mathematics and statistics majors and seeking candidates who are not interested in writing future actuarial exams Do you want to be part of a strategic team focused on innovation and excellence? Are you looking to develop your skills with opportunities for career growth? Do you want to be part of a diverse team where everyone is heard, respected, and valued? Look no furtherWTW is the place for you! Employment-based non-immigrant visa sponsorship and/or assistance is not …",
+      "url": "https://www.adzuna.com/details/5847663549?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Bowling Green, Manhattan",
+      "market": "Actuarial",
+      "posted": "2026-08-19",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/details/5848119071?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "International, King County",
+      "market": "Actuarial",
+      "posted": "2026-08-19",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847862954?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=7E222572058AC46C7F30CD586B4A876C0B457471"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Short Hills, Essex County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847767119?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=236FA7E4F56818E17A1C0880D43D446C37DD800B"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Wellston, Saint Louis County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847766873?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=F382C2AA5FBD57CB1850394D58ABC5986203C717"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Newburgh Heights, Cuyahoga County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847751724?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=6DB46229D50B76283B25DA922F487D6A216DF166"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Atlanta, Fulton County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847750989?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=36C951F06780A8788B1B874582FB8024CFCEB91A"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Detroit, Wayne County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847749298?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=2080BE9392F9FA7E3B88907F85AF77A6B9F53E04"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Boston, Suffolk County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847748943?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=B384304014AA70AD563CF42EF8DEFE091699354A"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Glendale, Denver",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847748713?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=BF07361EA5404229804DCF6588EA268465F1B270"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Minneapolis, Hennepin County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847747902?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=75307C073861823FBF9F9D4BC7E4AE2C65DC7ACF"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Grand Central, Manhattan",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847746975?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=631A1A113F749D2AF1C4B6C9CB59562216C8E946"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Stamford, Fairfield County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847739951?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=361CC92776801B52C4849CBC530B61893E13E531"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "William Penn Annex East, Philadelphia County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/details/5847663548?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Pittsburgh, Allegheny County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/details/5847663552?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Fort Myer, Arlington County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/details/5847660570?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Illinois Medical District, Chicago",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/details/5847659852?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "SoMa, San Francisco",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847463024?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=F08C9F5313AF9B274278E475AD5AAD957C352106"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Pico Heights, Los Angeles County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847463008?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=E4A3779840DAE27C76B7339F04EE959DFC8FD0B1"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Centene Corporation",
+      "location": "Wisconsin, US",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
+      "url": "https://www.adzuna.com/land/ad/5847228260?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=A93B1D2F6A7C3E58FCB6D1E5F95B6BD1577A43F7"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Centene Corporation",
+      "location": "Michigan, US",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
+      "url": "https://www.adzuna.com/land/ad/5847227529?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=3A8BCE39ABA04D65269CA6217CE23A1D80A764A8"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Centene Corporation",
+      "location": "Utah, US",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
+      "url": "https://www.adzuna.com/land/ad/5847203208?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=59CCCE326478150D77562195E1D14718D4E01ADA"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Centene Corporation",
+      "location": "Iowa, Johnson County",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
+      "url": "https://www.adzuna.com/land/ad/5847194505?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=F17F5F9EB079FABEC714A4FCEADE2D984B8F4FE9"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Centene Corporation",
+      "location": "Minnesota, US",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
+      "url": "https://www.adzuna.com/land/ad/5847158380?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=B7D132300AE3369B0C288B4596C56D7FAE3CB0B8"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst - Pension",
+      "company": "Centene Corporation",
+      "location": "Mississippi, US",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
+      "url": "https://www.adzuna.com/land/ad/5847158973?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=64451CCBEE13EF5EC73121B3CEC3169921679E7A"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Pension Actuarial Consultant",
+      "company": "Centene Corporation",
+      "location": "Mississippi, US",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access"
+      ],
+      "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you’ll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
+      "url": "https://www.adzuna.com/land/ad/5847205636?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=5983FCAED155304093A3BF9461045681DD8CBA20"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst II",
+      "company": "Elevance Health",
+      "location": "Manchester, Hillsborough County",
+      "market": "Life",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Anticipated End Date: 2026-08-19 Position Title: Actuarial Analyst II Job Description: Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a…",
+      "url": "https://www.adzuna.com/land/ad/5847194655?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=0EC1276F73FE20BCFFAE5732010A592C960578B4"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst II",
+      "company": "Elevance Health",
+      "location": "Indianapolis, Marion County",
+      "market": "Life",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Anticipated End Date: 2026-08-19 Position Title: Actuarial Analyst II Job Description: Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a…",
+      "url": "https://www.adzuna.com/land/ad/5847194382?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=55504CC7B090BC6C55A21CF71CD6848003595F85"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst II",
+      "company": "Elevance Health",
+      "location": "Ny State Campus, Albany County",
+      "market": "Life",
+      "posted": "2026-08-18",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Anticipated End Date: 2026-08-19 Position Title: Actuarial Analyst II Job Description: Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a…",
+      "url": "https://www.adzuna.com/land/ad/5847172771?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=3EC6A4AF27B0A708FFEFE67AC4EA6182069C2300"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
       "company": "Auto Club Group",
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -45,7 +554,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -55,18 +564,79 @@
     },
     {
       "source": "Adzuna",
+      "role": "Actuarial Data Science Analyst (Insurance Hybrid role)",
+      "company": "PA Compensation Rating Bureau.",
+      "location": "Philadelphia, Philadelphia County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Job Description Job Description Job Summary : This position supports actuarial research, business intelligence, and data analytics initiatives through statistical analysis, data engineering, and analytical model development. The employee is responsible for designing and maintaining data pipelines, performing actuarial and statistical analyses, developing analytical tools and dashboards, and communicating research findings and recommendations to technical and non-technical audiences. The positio…",
+      "url": "https://www.adzuna.com/land/ad/5846987921?se=koadTMib8RG6QpMobORtmg&utm_medium=api&utm_source=75b5032a&v=5CB8D53BAD34812FA45E26EE52020A8C476C4383"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Data Science Analyst (Insurance Hybrid role)",
+      "company": "PA Compensation Rating Bureau.",
+      "location": "Philadelphia, Philadelphia County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Job Description Job Description Job Summary : This position supports actuarial research, business intelligence, and data analytics initiatives through statistical analysis, data engineering, and analytical model development. The employee is responsible for designing and maintaining data pipelines, performing actuarial and statistical analyses, developing analytical tools and dashboards, and communicating research findings and recommendations to technical and non-technical audiences. The positio…",
+      "url": "https://www.adzuna.com/land/ad/5846987921?se=IEPcT8ib8RGQUL6gNVV-Pg&utm_medium=api&utm_source=75b5032a&v=5CB8D53BAD34812FA45E26EE52020A8C476C4383"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Intern (hybrid opportunity)",
+      "company": "Grange Insurance Careers",
+      "location": "Columbus, Franklin County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Location: Columbus, OH Work Schedule: 38.75hrs/week, 2 days in office (Tuesday & Wednesday) and 3 days remote Duration: 14 weeks A Great Place to Intern Grange provides a unique internship experience through the Grange Intern Development Program. The 14-week program is designed to expose students to the insurance industry through networking, mentoring, hands-on work experience, and community service. The interns will work day-to-day in their respective departments while also working as a group …",
+      "url": "https://www.adzuna.com/details/5846711641?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
       "role": "Ratabase Developer",
       "company": "Saicon Consultants Inc.",
       "location": "Rosemont, Cook County",
       "market": "Actuarial",
       "posted": "2026-08-17",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Key Responsibilities Design, configure, and maintain insurance rating products within the CGI Ratabase platform. Develop and implement rating algorithms, underwriting rules, discounts, surcharges, and product configurations. Collaborate with actuaries and business analysts to translate business requirements into rating solutions. Support new product launches, state expansions, and regulatory filing implementations. Develop and maintain integrations between Ratabase and policy administration sys…",
-      "url": "https://www.adzuna.com/land/ad/5845332337?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=CF3FF33E2CE3934549798B4A4FA5F8F21630166C"
+      "url": "https://www.adzuna.com/land/ad/5845332337?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=CF3FF33E2CE3934549798B4A4FA5F8F21630166C"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Clover Health",
+      "location": "US",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Medicare"
+      ],
+      "summary": "We don't just provide health insurance—we deliver the kind of healthcare that people deserve. The Actuarial team at Clover combines rigorous analytics with innovative technology to solve complex healthcare challenges and improve outcomes for our members. Our actuaries play a critical role in driving financial performance, evaluating business strategies, and helping shape the future of Medicare Advantage. We're looking for a highly analytical and intellectually curious Actuarial Analyst to join …",
+      "url": "https://www.adzuna.com/details/5846741021?utm_medium=api&utm_source=75b5032a"
     },
     {
       "source": "Adzuna",
@@ -75,7 +645,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Health",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -93,7 +663,7 @@
       "location": "US",
       "market": "Health",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -109,7 +679,7 @@
       "location": "Clawson, Oakland County",
       "market": "Health",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -119,12 +689,29 @@
     },
     {
       "source": "Adzuna",
+      "role": "Junior Actuary",
+      "company": "Curative HR",
+      "location": "Austin, Travis County",
+      "market": "Health",
+      "posted": "2026-08-18",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Access",
+        "Valuation"
+      ],
+      "summary": "About Curative Curative is building the future of health insurance with a first-of-its-kind employer-based plan designed to remove financial barriers and make care truly accessible: one monthly premium with $0 copays and $0 deductibles*. Backed by our recent $150M in Series B funding and valuation at $1.275B , Curative is scaling rapidly and investing in AI-powered service, deeper member engagement, and a smart network designed for today’s workforce. Our north star guides everything we do: heal…",
+      "url": "https://www.adzuna.com/details/5846211246?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
       "role": "Actuarial Analyst",
       "company": "National Life Insurance",
       "location": "Addison, Dallas",
       "market": "Life",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -139,7 +726,7 @@
       "location": "Birmingham, Jefferson County",
       "market": "Life",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -155,14 +742,14 @@
       "location": "Houston, Harris County",
       "market": "Life",
       "posted": "2026-08-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Pricing"
       ],
       "summary": "Who We Are At Corebridge Financial, we believe action is everything. That’s why every day we partner with financial professionals and institutions to make it possible for more people to take action in their financial lives, for today and tomorrow. We align to a set of Values that are the core pillars that define our culture and help bring our brand purpose to life: We are stronger as one: We collaborate across the enterprise, scale what works and act decisively for our customers and partners. W…",
-      "url": "https://www.adzuna.com/land/ad/5846536325?se=ZOXDQf-a8RGot5pZEVeolg&utm_medium=api&utm_source=75b5032a&v=2906711E838322290CBE2325F4074B2DA3D61BC9"
+      "url": "https://www.adzuna.com/land/ad/5846536325?se=sPnXU8ib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=2906711E838322290CBE2325F4074B2DA3D61BC9"
     },
     {
       "source": "Adzuna",
@@ -171,7 +758,7 @@
       "location": "Southaven, DeSoto County",
       "market": "Pricing/Reserving",
       "posted": "2026-08-17",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -187,7 +774,7 @@
       "location": "Stratmoor Hills, El Paso County",
       "market": "Actuarial",
       "posted": "2026-08-16",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -202,13 +789,13 @@
       "location": "Nichols Hills, Oklahoma County",
       "market": "Actuarial",
       "posted": "2026-08-16",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "* Plan, implement and execute data mining and predictive modeling related projects to which they are assigned to deliver intended business value propositions, on time and within scope according to agreed upon priorities. The Data Analyst is accountable for working collaboratively with Data Navigators and for the successful delivery of all projects under their supervision. * Assist the Research & Development team, Executive Management, and AFA through the production and maintenance of data and m…",
-      "url": "https://www.adzuna.com/land/ad/5844788112?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=F4B89677CF8EA412F1D089A7B888E06222389B14"
+      "url": "https://www.adzuna.com/land/ad/5844788112?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=F4B89677CF8EA412F1D089A7B888E06222389B14"
     },
     {
       "source": "Adzuna",
@@ -217,13 +804,13 @@
       "location": "Nichols Hills, Oklahoma County",
       "market": "Actuarial",
       "posted": "2026-08-16",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "* Plan, implement and execute data mining and predictive modeling related projects to which they are assigned to deliver intended business value propositions, on time and within scope according to agreed upon priorities. The Data Analyst is accountable for working collaboratively with Data Navigators and for the successful delivery of all projects under their supervision. * Assist the Research & Development team, Executive Management, and AFA through the production and maintenance of data and m…",
-      "url": "https://www.adzuna.com/land/ad/5844788112?se=ujG3Pf-a8RGot5pZEVeolg&utm_medium=api&utm_source=75b5032a&v=F4B89677CF8EA412F1D089A7B888E06222389B14"
+      "url": "https://www.adzuna.com/land/ad/5844788112?se=IEPcT8ib8RGQUL6gNVV-Pg&utm_medium=api&utm_source=75b5032a&v=F4B89677CF8EA412F1D089A7B888E06222389B14"
     },
     {
       "source": "Adzuna",
@@ -232,7 +819,7 @@
       "location": "Richmond, Richmond County",
       "market": "Actuarial",
       "posted": "2026-08-17",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -247,44 +834,14 @@
       "location": "Archer, Laramie County",
       "market": "Health",
       "posted": "2026-08-16",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Access"
       ],
       "summary": "You could be the one who changes everything for our 28 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you'll have access to competitive benefits including a fresh perspective on workplace flexibility. By applying to this requisition, you acknowledge and understand that you may be considered for other job opportunities for which Centene believes you may be qualified. We're hiring Actuarial Analysts - Remote T…",
-      "url": "https://www.adzuna.com/land/ad/5844855076?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=D92A76CCD0CDC9E9CF94FD5273D6E4C6C51B5427"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Consulting Analyst - Actuarial Consulting, State Health - Campus 2027",
-      "company": "Guidehouse",
-      "location": "Atlanta, Fulton County",
-      "market": "Health",
-      "posted": "2026-08-16",
-      "postedAgeDays": 1,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Job Family : Management Consulting, Strategy & Transformation Consulting Travel Required : Up to 10% Clearance Required : None What You Will Do : Guidehouse's State Health Actuarial team strives for a more resilient and sustainable community health infrastructure by guiding state decision makers in program implementation. We help state-run programs with infrastructure and regulatory compliance, waiver and state policy, monitoring, and operational effectiveness. Our experts assist clients in fin…",
-      "url": "https://www.adzuna.com/land/ad/5844850172?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=869DF9273505C959F9C46134279E6458DF5CB5A8"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Consulting Analyst - Actuarial Consulting, State Health - Campus 2027",
-      "company": "Guidehouse",
-      "location": "Atlanta, Fulton County",
-      "market": "Health",
-      "posted": "2026-08-16",
-      "postedAgeDays": 1,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Job Family : Management Consulting, Strategy & Transformation Consulting Travel Required : Up to 10% Clearance Required : None What You Will Do : Guidehouse's State Health Actuarial team strives for a more resilient and sustainable community health infrastructure by guiding state decision makers in program implementation. We help state-run programs with infrastructure and regulatory compliance, waiver and state policy, monitoring, and operational effectiveness. Our experts assist clients in fin…",
-      "url": "https://www.adzuna.com/land/ad/5844850172?se=9kacQ_-a8RGwu5GXH5X5Og&utm_medium=api&utm_source=75b5032a&v=869DF9273505C959F9C46134279E6458DF5CB5A8"
+      "url": "https://www.adzuna.com/land/ad/5844855076?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=D92A76CCD0CDC9E9CF94FD5273D6E4C6C51B5427"
     },
     {
       "source": "Adzuna",
@@ -293,7 +850,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Actuarial",
       "posted": "2026-08-15",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -308,13 +865,13 @@
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-08-16",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Symetra has an exciting opportunity to join our growing team as an Analytics Engineer ! About the role The Analytics Engineer is responsible for modeling data to provide clean, accurate datasets and dashboards for use across the organization. They understand how data influences and empowers business processes, products, and services. They enable their partners such as actuaries, data scientists, data analysts, engineers, and others by building and maintaining high-quality, reliable data marts. …",
-      "url": "https://www.adzuna.com/land/ad/5844207202?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=B7B662D715A3DFC55D7D9ADFC096ACFE87B6D5EB"
+      "url": "https://www.adzuna.com/land/ad/5844207202?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=B7B662D715A3DFC55D7D9ADFC096ACFE87B6D5EB"
     },
     {
       "source": "Adzuna",
@@ -323,13 +880,13 @@
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-08-16",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Symetra has an exciting opportunity to join our growing team as an Analytics Engineer ! About the role The Analytics Engineer is responsible for modeling data to provide clean, accurate datasets and dashboards for use across the organization. They understand how data influences and empowers business processes, products, and services. They enable their partners such as actuaries, data scientists, data analysts, engineers, and others by building and maintaining high-quality, reliable data marts. …",
-      "url": "https://www.adzuna.com/land/ad/5844207202?se=ujG3Pf-a8RGot5pZEVeolg&utm_medium=api&utm_source=75b5032a&v=B7B662D715A3DFC55D7D9ADFC096ACFE87B6D5EB"
+      "url": "https://www.adzuna.com/land/ad/5844207202?se=IEPcT8ib8RGQUL6gNVV-Pg&utm_medium=api&utm_source=75b5032a&v=B7B662D715A3DFC55D7D9ADFC096ACFE87B6D5EB"
     },
     {
       "source": "Adzuna",
@@ -338,7 +895,7 @@
       "location": "Tallahassee, Leon County",
       "market": "Actuarial",
       "posted": "2026-08-13",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -353,14 +910,14 @@
       "location": "US",
       "market": "Life",
       "posted": "2026-08-14",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Annuity"
       ],
       "summary": "About the Role We are seeking a strong C#/.NET Software Engineer to design, develop, and maintain the business calculation layer powering our insurance illustration and sales platforms. This role focuses on translating complex product rules, financial calculations, and business formulas into scalable, high-performance software solutions. The engineer will work closely with product, actuarial, and engineering teams in both India and the US to implement calculation logic for life and annuity insu…",
-      "url": "https://www.adzuna.com/land/ad/5841825113?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=65B3D6BB5A49BD16493B8D3E7092489D94C295A8"
+      "url": "https://www.adzuna.com/land/ad/5841825113?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=65B3D6BB5A49BD16493B8D3E7092489D94C295A8"
     },
     {
       "source": "Adzuna",
@@ -369,7 +926,7 @@
       "location": "Wallingford, New Haven County",
       "market": "Life",
       "posted": "2026-08-13",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -384,13 +941,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Actuarial",
       "posted": "2026-08-12",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Join Deloitte's Government & Public Services practice as an Analyst and help organizations address complex challenges that matter. In this role, you will work alongside teams supporting transformation initiatives, improving performance, and helping clients generate measurable value. You will have opportunities to build consulting skills through hands-on experience, collaboration, and exposure across client environments. Recruiting for this role ends on 9/23/2026. Work you'll do As an Analyst in…",
-      "url": "https://www.adzuna.com/land/ad/5839294131?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=5B310085E480A9C17789B9E5A22AEB594A3230DD"
+      "url": "https://www.adzuna.com/land/ad/5839294131?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=5B310085E480A9C17789B9E5A22AEB594A3230DD"
     },
     {
       "source": "Adzuna",
@@ -399,13 +956,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-08-12",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Join Deloitte's Government & Public Services practice as an Analyst and help organizations address complex challenges that matter. In this role, you will work alongside teams supporting transformation initiatives, improving performance, and helping clients generate measurable value. You will have opportunities to build consulting skills through hands-on experience, collaboration, and exposure across client environments. Recruiting for this role ends on 9/23/2026. Work you'll do As an Analyst in…",
-      "url": "https://www.adzuna.com/land/ad/5839290258?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=EFA78C76A211EA4BCAE8EF83EB18F68339E899E6"
+      "url": "https://www.adzuna.com/land/ad/5839290258?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=EFA78C76A211EA4BCAE8EF83EB18F68339E899E6"
     },
     {
       "source": "Adzuna",
@@ -414,7 +971,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-08-12",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -429,14 +986,14 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-08-12",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Valuation"
       ],
       "summary": "Job Summary: This individual contributor is primarily responsible for assisting in researching and determining the likelihood of financial risk to the organization, supporting actuarial documentation, product line evaluation, and actuarial modeling, and assisting in financial risk and opportunity analyses. Essential Responsibilities: Pursues self-development and effective relationships with others by sharing information with coworkers and customers; listening and responding to performance feed…",
-      "url": "https://www.adzuna.com/land/ad/5839303503?se=4haTO_-a8RGzjIpb3TK8Kg&utm_medium=api&utm_source=75b5032a&v=6669B2CA66B0FB0DE123F86511DA0CAF7F30FDFC"
+      "url": "https://www.adzuna.com/land/ad/5839303503?se=FDBJTcib8RGcDpWkpdd9-w&utm_medium=api&utm_source=75b5032a&v=6669B2CA66B0FB0DE123F86511DA0CAF7F30FDFC"
     },
     {
       "source": "Adzuna",
@@ -445,14 +1002,14 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-08-12",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Valuation"
       ],
       "summary": "Job Summary: This individual contributor is primarily responsible for assisting in researching and determining the likelihood of financial risk to the organization, supporting actuarial documentation, product line evaluation, and actuarial modeling, and assisting in financial risk and opportunity analyses. Essential Responsibilities: Pursues self-development and effective relationships with others by sharing information with coworkers and customers; listening and responding to performance feed…",
-      "url": "https://www.adzuna.com/land/ad/5839303503?se=ZOXDQf-a8RGot5pZEVeolg&utm_medium=api&utm_source=75b5032a&v=6669B2CA66B0FB0DE123F86511DA0CAF7F30FDFC"
+      "url": "https://www.adzuna.com/land/ad/5839303503?se=sPnXU8ib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=6669B2CA66B0FB0DE123F86511DA0CAF7F30FDFC"
     },
     {
       "source": "Adzuna",
@@ -461,7 +1018,7 @@
       "location": "Long Beach, Nassau County",
       "market": "Actuarial",
       "posted": "2026-08-12",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -476,12 +1033,12 @@
       "location": "Hartford, Hartford County",
       "market": "Actuarial",
       "posted": "2026-08-11",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
-      "summary": "Join Deloitte's Government & Public Services practice as an Analyst and help organizations address complex challenges that matter. In this role, you will work alongside teams supporting transformation initiatives, improving performance, and helping clients generate measurable value. You will have opportunities to build consulting skills through hands-on experience, collaboration, and exposure across client environments. Recruiting for this role ends on 9/23/2026. Work you'll do As an Analyst in…",
+      "summary": "Join Deloitte's Government & Public Services practice as an Analyst and help organizations address complex challenges that matter. In this role, you will work alongside teams supporting transformation initiatives, improving performance, and helping clients generate measurable value. You will have opportunities to build consulting skills through hands-on experience, collaboration, and exposure across client environments. Recruiting for this role ends on 9/27/2026. Work you'll do As an Analyst in…",
       "url": "https://www.adzuna.com/details/5837256909?utm_medium=api&utm_source=75b5032a"
     },
     {
@@ -491,7 +1048,7 @@
       "location": "Hopkins, Hennepin County",
       "market": "Health",
       "posted": "2026-08-12",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -506,7 +1063,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-08-11",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -522,7 +1079,7 @@
       "location": "Alameda Pt, Alameda County",
       "market": "Health",
       "posted": "2026-08-09",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -532,7 +1089,7 @@
         "Medicare"
       ],
       "summary": "This role supports the build and maintenance of tools used to file Medicare Advantage bids. The role additionally supports tools that help drive bid strategy within Kaiser. Most day to day work occurs in excel but proficiency in SQL or VBA allows deeper study of the data supporting the tools and creating efficiencies. A strong background in the Medicare Advantage bid process and the CMS regulations supporting bid is required for this role. Job Summary: This individual contributor is primarily r…",
-      "url": "https://www.adzuna.com/land/ad/5835047428?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=08651685BF2FF4065B89E18E5089D82725E5C97A"
+      "url": "https://www.adzuna.com/land/ad/5835047428?se=YGSGTsib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=08651685BF2FF4065B89E18E5089D82725E5C97A"
     },
     {
       "source": "Adzuna",
@@ -541,7 +1098,7 @@
       "location": "US",
       "market": "Health",
       "posted": "2026-08-09",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -556,7 +1113,7 @@
       "location": "Indianapolis, Marion County",
       "market": "Health",
       "posted": "2026-08-09",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -571,7 +1128,7 @@
       "location": "US",
       "market": "Life",
       "posted": "2026-08-09",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -587,7 +1144,7 @@
       "location": "US",
       "market": "Health",
       "posted": "2026-08-07",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -604,7 +1161,7 @@
       "location": "Oakland, Alameda County",
       "market": "Health",
       "posted": "2026-08-08",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -623,7 +1180,7 @@
       "location": "Hartford, Hartford County",
       "market": "Health",
       "posted": "2026-08-08",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -638,14 +1195,14 @@
       "location": "Renton, King County",
       "market": "Life",
       "posted": "2026-08-08",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Valuation"
       ],
       "summary": "Job Summary: This individual contributor is primarily responsible for providing support for researching and determining the likelihood of financial risk to the organization, reviewing actuarial documentation for accuracy, supporting product line evaluation and actuarial modeling, and supporting financial risk and opportunity analyses. Essential Responsibilities: Pursues self-development and effective relationships with others by sharing resources, information, and knowledge with coworkers and …",
-      "url": "https://www.adzuna.com/land/ad/5833043163?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=4D6DAA2385132D6E34399A94AC564835A00A3B6C"
+      "url": "https://www.adzuna.com/land/ad/5833043163?se=YGSGTsib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=4D6DAA2385132D6E34399A94AC564835A00A3B6C"
     },
     {
       "source": "Adzuna",
@@ -654,14 +1211,14 @@
       "location": "Renton, King County",
       "market": "Life",
       "posted": "2026-08-08",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Valuation"
       ],
       "summary": "Job Summary: This individual contributor is primarily responsible for providing support for researching and determining the likelihood of financial risk to the organization, reviewing actuarial documentation for accuracy, supporting product line evaluation and actuarial modeling, and supporting financial risk and opportunity analyses. Essential Responsibilities: Pursues self-development and effective relationships with others by sharing resources, information, and knowledge with coworkers and …",
-      "url": "https://www.adzuna.com/land/ad/5833043163?se=mj56Qv-a8RGwu5GXH5X5Og&utm_medium=api&utm_source=75b5032a&v=4D6DAA2385132D6E34399A94AC564835A00A3B6C"
+      "url": "https://www.adzuna.com/land/ad/5833043163?se=TjVxVMib8RGYprQUPVQOLw&utm_medium=api&utm_source=75b5032a&v=4D6DAA2385132D6E34399A94AC564835A00A3B6C"
     },
     {
       "source": "Adzuna",
@@ -670,7 +1227,7 @@
       "location": "Grand Central, Manhattan",
       "market": "Life",
       "posted": "2026-08-07",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "SQL",
@@ -679,7 +1236,7 @@
         "Data Validation"
       ],
       "summary": "A client of Innova Solutions is immediately hiring for a “ Financial Data Modeling Analyst \" Position type: Full-Time Contract (W2) Role: “ Financial Data Modeling Analyst ” Duration: 6 Months Contract Location : Remote - USA Must have required skills – Actuarial Data, Finance, LifeComm administration, SQL Primary Skill Required for the Role: Experience working with life or annuity actuarial model input data, including source-to-target data mapping, SQL-based data validation, and reconciliatio…",
-      "url": "https://www.adzuna.com/land/ad/5832273708?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=FFA1D0754DD8764AE777AF081EA140D7327C9FD2"
+      "url": "https://www.adzuna.com/land/ad/5832273708?se=YGSGTsib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=FFA1D0754DD8764AE777AF081EA140D7327C9FD2"
     },
     {
       "source": "Adzuna",
@@ -688,7 +1245,7 @@
       "location": "Grand Central, Manhattan",
       "market": "Life",
       "posted": "2026-08-07",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "SQL",
@@ -697,22 +1254,7 @@
         "Data Validation"
       ],
       "summary": "A client of Innova Solutions is immediately hiring for a “ Financial Data Modeling Analyst \" Position type: Full-Time Contract (W2) Role: “ Financial Data Modeling Analyst ” Duration: 6 Months Contract Location : Remote - USA Must have required skills – Actuarial Data, Finance, LifeComm administration, SQL Primary Skill Required for the Role: Experience working with life or annuity actuarial model input data, including source-to-target data mapping, SQL-based data validation, and reconciliatio…",
-      "url": "https://www.adzuna.com/land/ad/5832273708?se=ujG3Pf-a8RGot5pZEVeolg&utm_medium=api&utm_source=75b5032a&v=FFA1D0754DD8764AE777AF081EA140D7327C9FD2"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "The Hartford",
-      "location": "Hartford, Hartford County",
-      "market": "Pricing/Reserving",
-      "posted": "2026-08-08",
-      "postedAgeDays": 10,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst - AS08CE Actuarial Analyst - AC08DE We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future. Actuarial Students are key members of the Actuarial community as the perform a variety of Actuarial projects including reserve reviews, price monitoring, enhancing pr…",
-      "url": "https://www.adzuna.com/details/5833178146?utm_medium=api&utm_source=75b5032a"
+      "url": "https://www.adzuna.com/land/ad/5832273708?se=IEPcT8ib8RGQUL6gNVV-Pg&utm_medium=api&utm_source=75b5032a&v=FFA1D0754DD8764AE777AF081EA140D7327C9FD2"
     },
     {
       "source": "Adzuna",
@@ -721,7 +1263,7 @@
       "location": "US",
       "market": "Pricing/Reserving",
       "posted": "2026-08-08",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -737,13 +1279,13 @@
       "location": "Oakwood, Montgomery County",
       "market": "Actuarial",
       "posted": "2026-08-06",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
-      "summary": "Actuarial Analyst I remote type Remote locations Remote time type Full time posted on Posted 12 Days Ago job requisition id R13357 Job Summary: The Actuarial Analyst I is responsible for providing timely, accurate, and actionable data and analysis supporting the department, area, and corporate key initiatives. Essential Functions: Develops actionable recommendations to management relative to all analysis Calculates profitability reports on appropriate business segments Performs regular and a…",
-      "url": "https://www.adzuna.com/land/ad/5831453563?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=D4CDD643CF6C7B26EFC9E7F12B571954615EF48A"
+      "summary": "Actuarial Analyst I remote type Remote locations Remote time type Full time posted on Posted 13 Days Ago job requisition id R13357 Job Summary: The Actuarial Analyst I is responsible for providing timely, accurate, and actionable data and analysis supporting the department, area, and corporate key initiatives. Essential Functions: Develops actionable recommendations to management relative to all analysis Calculates profitability reports on appropriate business segments Performs regular and a…",
+      "url": "https://www.adzuna.com/land/ad/5831453563?se=YGSGTsib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=D4CDD643CF6C7B26EFC9E7F12B571954615EF48A"
     },
     {
       "source": "Adzuna",
@@ -752,7 +1294,7 @@
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-08-06",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -767,7 +1309,7 @@
       "location": "Renton, King County",
       "market": "Life",
       "posted": "2026-08-06",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -783,14 +1325,14 @@
       "location": "US",
       "market": "Pricing/Reserving",
       "posted": "2026-08-05",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Pricing"
       ],
       "summary": "Actuarial Analyst (Personal Lines Pricing – Virginia Market Launch) Location: Remote role Schedule: Monday – Friday | 30 Hours/Week Contract Duration: September 14, 2026 – January 29, 2027 (Estimated) Interview Process: Phone Screen → Microsoft Teams Interview Position Overview We are seeking an experienced Actuarial Analyst to support the development and implementation of pricing strategies for Encova's expansion into the Virginia Personal Lines insurance market. This consultant will play a ke…",
-      "url": "https://www.adzuna.com/land/ad/5829393851?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=CBADBB6E6219F33FBB7702A3E8E8F1E6C282A840"
+      "url": "https://www.adzuna.com/land/ad/5829393851?se=YGSGTsib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=CBADBB6E6219F33FBB7702A3E8E8F1E6C282A840"
     },
     {
       "source": "Adzuna",
@@ -799,14 +1341,14 @@
       "location": "US",
       "market": "Pricing/Reserving",
       "posted": "2026-08-05",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Pricing"
       ],
       "summary": "Actuarial Analyst (Personal Lines Pricing – Virginia Market Launch) Location: Remote role Schedule: Monday – Friday | 30 Hours/Week Contract Duration: September 14, 2026 – January 29, 2027 (Estimated) Interview Process: Phone Screen → Microsoft Teams Interview Position Overview We are seeking an experienced Actuarial Analyst to support the development and implementation of pricing strategies for Encova's expansion into the Virginia Personal Lines insurance market. This consultant will play a ke…",
-      "url": "https://www.adzuna.com/land/ad/5829393851?se=LiHoP_-a8RGYpc0vDKed3A&utm_medium=api&utm_source=75b5032a&v=CBADBB6E6219F33FBB7702A3E8E8F1E6C282A840"
+      "url": "https://www.adzuna.com/land/ad/5829393851?se=zNsIUsib8RGJlOSIAyUCLQ&utm_medium=api&utm_source=75b5032a&v=CBADBB6E6219F33FBB7702A3E8E8F1E6C282A840"
     },
     {
       "source": "Adzuna",
@@ -815,7 +1357,7 @@
       "location": "Wellesley, Norfolk County",
       "market": "Health",
       "posted": "2026-08-05",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -827,76 +1369,16 @@
       "source": "Adzuna",
       "role": "Actuarial Analyst II",
       "company": "Elevance Health",
-      "location": "Indianapolis, Marion County",
-      "market": "Life",
-      "posted": "2026-08-05",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Anticipated End Date: 2026-08-17 Position Title: Actuarial Analyst II Job Description: Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within…",
-      "url": "https://www.adzuna.com/details/5828753331?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst II",
-      "company": "Elevance Health",
       "location": "New York City, New York",
       "market": "Life",
       "posted": "2026-08-05",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
-      "summary": "Anticipated End Date: 2026-08-10 Position Title: Actuarial Analyst II Job Description: Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a…",
+      "summary": "Anticipated End Date: 2026-08-19 Position Title: Actuarial Analyst II Job Description: Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a…",
       "url": "https://www.adzuna.com/details/5828702923?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst II",
-      "company": "Elevance Health",
-      "location": "Mason, Warren County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
-      "url": "https://www.adzuna.com/land/ad/5828656458?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=18895A02C027A2AAB009B27F32E63AB5DB9C96BB"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst II",
-      "company": "Elevance Health",
-      "location": "Atlanta, Fulton County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
-      "url": "https://www.adzuna.com/land/ad/5828650832?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=87730911795E35BACBC5FDBA709F2E23B8A6718D"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst II",
-      "company": "Elevance Health",
-      "location": "Uptown, Marion County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
-      "url": "https://www.adzuna.com/land/ad/5828616283?se=4qbAPP-a8RGwu5GXH5X5Og&utm_medium=api&utm_source=75b5032a&v=BEDDD0081E2ECF598EB67408EC0321B2FB47D6E8"
     },
     {
       "source": "Adzuna",
@@ -905,13 +1387,13 @@
       "location": "Waukesha, Waukesha County",
       "market": "Life",
       "posted": "2026-08-05",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/land/ad/5828774073?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=94CCB8E456251F6ACA2939628BEEB73DCCDF5689"
+      "url": "https://www.adzuna.com/land/ad/5828774073?se=YGSGTsib8RGk1JnOPlO_fg&utm_medium=api&utm_source=75b5032a&v=94CCB8E456251F6ACA2939628BEEB73DCCDF5689"
     },
     {
       "source": "Adzuna",
@@ -920,7 +1402,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-08-05",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -932,121 +1414,16 @@
       "source": "Adzuna",
       "role": "Actuarial Business Analyst III",
       "company": "Elevance Health",
-      "location": "Atlanta, Fulton County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/land/ad/5828650829?se=7hcwPP-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=B6759F6845E330FD693F2EDA18FBFD578FCBAF11"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst III",
-      "company": "Elevance Health",
-      "location": "Uptown, Marion County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/land/ad/5828616276?se=4qbAPP-a8RGwu5GXH5X5Og&utm_medium=api&utm_source=75b5032a&v=3C26B85E0BD614A88EF174134418C40DE1D71930"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst III",
-      "company": "Elevance Health",
-      "location": "Tampa, Hillsborough County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/details/5828564115?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst III",
-      "company": "Elevance Health",
-      "location": "Norfolk, Norfolk City",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/details/5828563482?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst III",
-      "company": "Elevance Health",
-      "location": "Capitol, Richmond",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/details/5828563460?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst III",
-      "company": "Elevance Health",
       "location": "Waukesha, Waukesha County",
       "market": "Life",
       "posted": "2026-08-05",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/land/ad/5828774073?se=mj56Qv-a8RGwu5GXH5X5Og&utm_medium=api&utm_source=75b5032a&v=94CCB8E456251F6ACA2939628BEEB73DCCDF5689"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst III",
-      "company": "Elevance Health",
-      "location": "Atlanta, Fulton County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/land/ad/5828650829?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=B6759F6845E330FD693F2EDA18FBFD578FCBAF11"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst III",
-      "company": "Elevance Health",
-      "location": "Uptown, Marion County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Business Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybr…",
-      "url": "https://www.adzuna.com/land/ad/5828616276?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=3C26B85E0BD614A88EF174134418C40DE1D71930"
+      "url": "https://www.adzuna.com/land/ad/5828774073?se=7BYKVcib8RGYprQUPVQOLw&utm_medium=api&utm_source=75b5032a&v=94CCB8E456251F6ACA2939628BEEB73DCCDF5689"
     },
     {
       "source": "Adzuna",
@@ -1055,118 +1432,13 @@
       "location": "Wallingford, New Haven County",
       "market": "Life",
       "posted": "2026-08-05",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Anticipated End Date: 2026-08-22 Position Title: Associate Actuary Job Description: Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commu…",
       "url": "https://www.adzuna.com/details/5828933825?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Associate Actuary",
-      "company": "Elevance Health",
-      "location": "Wellston, Saint Louis County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual work,…",
-      "url": "https://www.adzuna.com/land/ad/5828673342?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=436D6E0C2E88B937125EA35852ACF6E5462BE9EA"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Associate Actuary",
-      "company": "Elevance Health",
-      "location": "Strathmoor Manor, Jefferson County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual work,…",
-      "url": "https://www.adzuna.com/land/ad/5828672872?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=C0E53AF10E90D177965D1C4921C82544D7CAD8FE"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Associate Actuary",
-      "company": "Elevance Health",
-      "location": "Manchester, Hillsborough County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual work,…",
-      "url": "https://www.adzuna.com/land/ad/5828671785?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=E32D603040D413F850AC609CDAB8F9676D79F314"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Associate Actuary",
-      "company": "Elevance Health",
-      "location": "Mason, Warren County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual work,…",
-      "url": "https://www.adzuna.com/land/ad/5828656471?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=7BB7F6CAD93EE1B101954410A1BFD64859A01999"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Associate Actuary",
-      "company": "Elevance Health",
-      "location": "Wallingford, New Haven County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual work,…",
-      "url": "https://www.adzuna.com/land/ad/5828645859?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=AA34556A649766C90DD207CA23DBB669D7639AF2"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Associate Actuary",
-      "company": "Elevance Health",
-      "location": "Uptown, Marion County",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual work,…",
-      "url": "https://www.adzuna.com/land/ad/5828616273?se=8DAsQ_-a8RGLXOy3jHjydA&utm_medium=api&utm_source=75b5032a&v=FAD15CD94556F9EC5907D530F2BF3C4D0649A293"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Associate Actuary",
-      "company": "Elevance Health",
-      "location": "Illinois Medical District, Chicago",
-      "market": "Life",
-      "posted": "2026-08-04",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Associate Actuary Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual work,…",
-      "url": "https://www.adzuna.com/details/5828562699?utm_medium=api&utm_source=75b5032a"
     }
   ],
   "jobSearchLinks": [
