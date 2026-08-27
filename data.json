@@ -1,15 +1,25 @@
 {
-  "generatedAt": "2026-08-26T12:25:08+00:00",
+  "generatedAt": "2026-08-27T21:23:10+00:00",
   "news": [
     {
-      "title": "MTSU Actuarial Science Earns Global Recognition and Expands Student Pathways - WGNS Radio",
-      "source": "Google News: Society of Actuaries health insurance actu",
+      "title": "Health Community: Health Insurance Programs and the Actuarial Voice in Health Policy",
+      "source": "SOA Podcasts RSS",
       "category": "Health",
-      "priority": "Low",
-      "published": "2026-08-26 02:51",
-      "summary": "MTSU Actuarial Science Earns Global Recognition and Expands Student Pathways WGNS Radio",
+      "priority": "High",
+      "published": "2026-08-27 11:00",
+      "summary": "Cori Uccello, FSA, MAAA, FCA, MPP joins host Ankit Nanda, FSA, MAAA, FCA for a tour of the U.S. health insurance coverage landscape, including Medicare, Medicaid, and the ACA marketplaces. Drawing on a career as the senior health fellow at the American Academy of Actuaries, MedPAC commissioner, and Congressional Budget Office panel of health advisers member, she discusses how actuarial analysis enters policy debates,",
+      "whyItMatters": "Relevant to government health programs, bid/pricing assumptions, utilization, and reimbursement risk.",
+      "url": "https://soapodcasts.libsyn.com/health-community-health-insurance-programs-and-the-actuarial-voice-in-health-policy"
+    },
+    {
+      "title": "Neronha Objects to 2027 Health Premium Hikes - Uprise RI",
+      "source": "Google News: health insurance actuarial rate filing med",
+      "category": "Health",
+      "priority": "High",
+      "published": "2026-08-26 20:28",
+      "summary": "Neronha Objects to 2027 Health Premium Hikes Uprise RI",
       "whyItMatters": "Relevant to health pricing, claims trend, rate filing, reserving, and utilization monitoring.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHpsRmxTZ3N0TldZTm1RMjZ2bG5idFk2SkhNcDNqa0piQmw2NzRFV1FJM2R6bUZvcS1sT2NvamtxZzhqb1Mxb0FQZDNMWmFfYjQ0NmtMdDBxRzJadEU5My1BZ0gtdVV4ZGI0Z3VQMGxURnA3VmtsZkV2c01YQndPb0xLbEU1OWdnQVVIcl9taUsxRExkVl9BVWk2ZUpoQlJNaElwcV9jUUpLQTZzVnRLN1lsNFZZYjlXbXNLS3pR0gG-AUFVX3lxTFBoemxGbFNnc3ROV1lObVEyNnZsbmJ0WTZKSE1wM2prSmJCbDY3NEVXUUkzZHptRm9xLWxPY29qa3FnOGpvUzFvQVBkM0xaYV9iNDQ2a0x0MHFHMlp0RTkzLUFnSC11VXhkYjRndVAwbFRGcDdWa2xmRXZzTVhCd09vTEtsRTU5Z2dBVUhyX21pSzFETGRWX0FVaTZlSmhCUk1oSXBxX2NRSktBNnNWdEs3WWw0VlliOVdtc0tLelE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TakxUeVQ1TDdyaVNUT200X0pRVnlTQWlXMlJtbXB4bjFkQ2lVWEVXbHY5U2ZxRDFIR18xZHpTZzEzbENlUzBjZ3d6REx2LThnaks1UHVtZWVmeTY1WkZvZ1NTVTcwTndDcENEcUJIa1hoWHA3Tm0tU0R1X21DUTg?oc=5"
     },
     {
       "title": "MTSU actuarial science program earns international attention while expanding student opportunities - MTSU News",
@@ -25,12 +35,258 @@
   "jobs": [
     {
       "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "Grand Central, Manhattan",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/land/ad/5857833160?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=3B969C0E5E31C1FEA071DBB1B8EC752106FC1C53"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "Boston, Suffolk County",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/land/ad/5857814617?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=20DFFAC228C093CBA94278A3349E00BB4B0406FD"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "Minneapolis, Hennepin County",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/land/ad/5857811696?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=A04309B0CA3826D6FB798B9543A2B30B4BE24034"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "Grand Central, Manhattan",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/land/ad/5857833160?se=lAmSh12i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=3B969C0E5E31C1FEA071DBB1B8EC752106FC1C53"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "Boston, Suffolk County",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/land/ad/5857814617?se=lAmSh12i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=20DFFAC228C093CBA94278A3349E00BB4B0406FD"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "Minneapolis, Hennepin County",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/land/ad/5857811696?se=lAmSh12i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=A04309B0CA3826D6FB798B9543A2B30B4BE24034"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Healthcare Trend & Analytics Consultant",
+      "company": "Elevance Health",
+      "location": "Uptown, Marion County",
+      "market": "Health",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Trend & Analytics Business Analyst III (Actuarial Business Analyst III) Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office…",
+      "url": "https://www.adzuna.com/land/ad/5857765457?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=79E9AD41911EA35FFE495A7E946754450380951E"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Healthcare Trend & Analytics Consultant",
+      "company": "Elevance Health",
+      "location": "Uptown, Marion County",
+      "market": "Health",
+      "posted": "2026-08-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Trend & Analytics Business Analyst III (Actuarial Business Analyst III) Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office…",
+      "url": "https://www.adzuna.com/land/ad/5857765457?se=8Li0hl2i8RGhLffPfv7Txw&utm_medium=api&utm_source=75b5032a&v=79E9AD41911EA35FFE495A7E946754450380951E"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Annuity & PRT Valuation - Actuarial Analyst III",
+      "company": "American National",
+      "location": "League City, Galveston County",
+      "market": "Life",
+      "posted": "2026-08-27",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Valuation",
+        "Annuity"
+      ],
+      "summary": "We are seeking an Actuarial Analyst III to join our Annuity Valuation team. In this role, you will gain hands-on experience supporting the valuation and financial reporting of deferred annuity products, including Variable Annuities (VA), Fixed Deferred Annuities (FDA), and Fixed Indexed Annuities (FIA). You will also be eligible to participate in our Actuarial Student Rotation Program, where you can further your actuarial studies and pass exams while building your career. What You'll Do: Perfor…",
+      "url": "https://www.adzuna.com/details/5858081586?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst I, Reserving",
+      "company": "AmTrust Financial Services, Inc.",
+      "location": "Peck Slip, Manhattan",
+      "market": "Pricing/Reserving",
+      "posted": "2026-08-27",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "Excel",
+        "R",
+        "Reserving"
+      ],
+      "summary": "AmTrust is seeking a motivated and analytical Actuarial Analyst to join our Reserving team. This is an excellent opportunity for recent graduates or early-career professionals looking to gain hands-on actuarial experience within a growing insurance organization. In this role, you will work alongside experienced actuaries and contribute to reserve analyses, financial reporting, and reserving model development across multiple lines of business. Assist in the preparation of actuarial reserve analy…",
+      "url": "https://www.adzuna.com/details/5858314027?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst I, Reserving",
+      "company": "AmTrust Financial Services, Inc.",
+      "location": "North Branch, Dallas",
+      "market": "Pricing/Reserving",
+      "posted": "2026-08-27",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "Excel",
+        "R",
+        "Reserving"
+      ],
+      "summary": "AmTrust is seeking a motivated and analytical Actuarial Analyst to join our Reserving team. This is an excellent opportunity for recent graduates or early-career professionals looking to gain hands-on actuarial experience within a growing insurance organization. In this role, you will work alongside experienced actuaries and contribute to reserve analyses, financial reporting, and reserving model development across multiple lines of business. Assist in the preparation of actuarial reserve analy…",
+      "url": "https://www.adzuna.com/details/5858314028?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Commercial Lines Product Analyst",
+      "company": "Frank Winston Crum Insurance",
+      "location": "Clearwater, Pinellas County",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "FrankCrum is a Top Workplace! Frank Winston Crum Insurance (FWCI) issues Workers’ Compensation and General Liability policies by offering flexible coverage and payment options to meet the varied needs of businesses. Over the years, FWCI has grown from a single-state insurance carrier to one that is licensed in 37 states and continues to expand. In addition to regional and product line growth, FWCI has enhanced its value-added services. What has not changed though is the firm’s commitment – echo…",
+      "url": "https://www.adzuna.com/details/5857179038?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "Illinois Medical District, Chicago",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/details/5857654802?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Consultative Offerings - Analyst - Actuarial",
+      "company": "Deloitte",
+      "location": "The Gap, Chicago",
+      "market": "Actuarial",
+      "posted": "2026-08-26",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
+      "url": "https://www.adzuna.com/details/5857352201?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Healthcare Trend & Analytics Consultant",
+      "company": "Elevance Health",
+      "location": "Tampa, Hillsborough County",
+      "market": "Health",
+      "posted": "2026-08-26",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Trend & Analytics Business Analyst III (Actuarial Business Analyst III) Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office…",
+      "url": "https://www.adzuna.com/details/5857667148?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
       "role": "Healthcare Trend & Analytics Consultant",
       "company": "Elevance Health",
       "location": "Norfolk, Norfolk City",
       "market": "Health",
       "posted": "2026-08-26",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Trend & Analytics Business Analyst III (Actuarial Business Analyst III) Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office…",
+      "url": "https://www.adzuna.com/details/5857659041?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Healthcare Trend & Analytics Consultant",
+      "company": "Elevance Health",
+      "location": "Norfolk, Norfolk City",
+      "market": "Health",
+      "posted": "2026-08-26",
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -40,18 +296,18 @@
     },
     {
       "source": "Adzuna",
-      "role": "Actuarial Analyst II (Intermediate) – Forecasting Analytics",
-      "company": "USAA",
-      "location": "Stratmoor Hills, El Paso County",
+      "role": "Data Analyst III/II/I",
+      "company": "American Fidelity",
+      "location": "Oklahoma, US",
       "market": "Actuarial",
       "posted": "2026-08-24",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
-      "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/details/5854530842?utm_medium=api&utm_source=75b5032a"
+      "summary": "‎ * Plan, implement and execute data mining and predictive modeling related projects to which they are assigned to deliver intended business value propositions, on time and within scope according to agreed upon priorities. The Data Analyst is accountable for working collaboratively with Data Navigators and for the successful delivery of all projects under their supervision. * Assist the Research & Development team, Executive Management, and AFA through the production and maintenance of data and…",
+      "url": "https://www.adzuna.com/land/ad/5854854747?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=D954BD5AE2B9E983E58376FE3E874B694721190C"
     },
     {
       "source": "Adzuna",
@@ -60,45 +316,13 @@
       "location": "Oklahoma, US",
       "market": "Actuarial",
       "posted": "2026-08-24",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "‎ * Plan, implement and execute data mining and predictive modeling related projects to which they are assigned to deliver intended business value propositions, on time and within scope according to agreed upon priorities. The Data Analyst is accountable for working collaboratively with Data Navigators and for the successful delivery of all projects under their supervision. * Assist the Research & Development team, Executive Management, and AFA through the production and maintenance of data and…",
-      "url": "https://www.adzuna.com/land/ad/5854854747?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=D954BD5AE2B9E983E58376FE3E874B694721190C"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Data Analyst III/II/I",
-      "company": "American Fidelity",
-      "location": "Oklahoma, US",
-      "market": "Actuarial",
-      "posted": "2026-08-24",
-      "postedAgeDays": 1,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "‎ * Plan, implement and execute data mining and predictive modeling related projects to which they are assigned to deliver intended business value propositions, on time and within scope according to agreed upon priorities. The Data Analyst is accountable for working collaboratively with Data Navigators and for the successful delivery of all projects under their supervision. * Assist the Research & Development team, Executive Management, and AFA through the production and maintenance of data and…",
-      "url": "https://www.adzuna.com/land/ad/5854854747?se=ijsxMEmh8RGgo6RzkAQImQ&utm_medium=api&utm_source=75b5032a&v=D954BD5AE2B9E983E58376FE3E874B694721190C"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Business Analyst",
-      "company": "Algo Soft Solutions LLC",
-      "location": "Hood College, Frederick County",
-      "market": "Life",
-      "posted": "2026-08-24",
-      "postedAgeDays": 1,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "Pricing",
-        "Valuation"
-      ],
-      "summary": "Role Overview Key Responsibilities Actuarial Analysis & Modeling • Perform actuarial analyses related to life insurance products, including: o Term Life o Universal Life o Pension Risk Transfer (PRT) • Develop, maintain, and validate actuarial models for pricing, valuation, and forecasting • Analyze experience data and trends to support business insights and decision-making Product & Risk Management • Support product design, pricing, and profitability analysis • Assess and quantify risks associ…",
-      "url": "https://www.adzuna.com/land/ad/5854712581?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=7DAD7B4CB4ECB933505530E1F498C2AE63C19429"
+      "url": "https://www.adzuna.com/land/ad/5854854747?se=jAOkg12i8RGRQuEASXEi3g&utm_medium=api&utm_source=75b5032a&v=D954BD5AE2B9E983E58376FE3E874B694721190C"
     },
     {
       "source": "Adzuna",
@@ -107,7 +331,7 @@
       "location": "Warren, Somerset County",
       "market": "Actuarial",
       "posted": "2026-08-24",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -117,49 +341,20 @@
     },
     {
       "source": "Adzuna",
-      "role": "Actuary Analyst I, Sutter Health Plan",
-      "company": "Sutter Health",
-      "location": "Sacramento, Sacramento County",
-      "market": "Health",
-      "posted": "2026-08-22",
-      "postedAgeDays": 3,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "We are so glad you are interested in joining Sutter Health! Organization: SHSO-Sutter Health System Office-Valley Position Overview: Responsible for conducting moderately complex actuarial and statistical analyses to support financial forecasting and decision-making. This role applies advanced knowledge of mathematics, probability, statistics, and business principles to perform health-related calculations and modeling. Independently manages assigned tasks, ensuring accuracy, timeliness, and ali…",
-      "url": "https://www.adzuna.com/land/ad/5853041762?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=63401FBD24EC85263501FF25F10C69FACFEC443D"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuary Analyst I, Sutter Health Plan",
-      "company": "Sutter Health",
-      "location": "Sacramento, Sacramento County",
-      "market": "Health",
-      "posted": "2026-08-22",
-      "postedAgeDays": 3,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "We are so glad you are interested in joining Sutter Health! Organization: SHSO-Sutter Health System Office-Valley Position Overview: Responsible for conducting moderately complex actuarial and statistical analyses to support financial forecasting and decision-making. This role applies advanced knowledge of mathematics, probability, statistics, and business principles to perform health-related calculations and modeling. Independently manages assigned tasks, ensuring accuracy, timeliness, and ali…",
-      "url": "https://www.adzuna.com/land/ad/5853041762?se=FB33MEmh8RG8AawPaMncfg&utm_medium=api&utm_source=75b5032a&v=63401FBD24EC85263501FF25F10C69FACFEC443D"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Government Health Consulting Actuarial Analyst - College Program 2027",
-      "company": "Marsh McLennan",
-      "location": "Phoenix, Maricopa County",
-      "market": "Health",
-      "posted": "2026-08-23",
+      "role": "Actuarial Business Analyst",
+      "company": "Algo Soft Solutions LLC",
+      "location": "Hood College, Frederick County",
+      "market": "Life",
+      "posted": "2026-08-24",
       "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
-        "Medicaid"
+        "Pricing",
+        "Valuation"
       ],
-      "summary": "Company: Mercer Description: We are seeking a talented individual to join our Government Human Services Consulting (GHSC) team at Mercer. This role will be based in Phoenix, AZ, Seattle, WA, or Minneapolis, MN. This is a hybrid role that has a requirement of working at least three days a week in the office. Medicaid is a government-sponsored health insurance program in the United States designed to provide healthcare coverage to low-income individuals and families. As a consulting firm speciali…",
-      "url": "https://www.adzuna.com/details/5853596747?utm_medium=api&utm_source=75b5032a"
+      "summary": "Role Overview Key Responsibilities Actuarial Analysis & Modeling • Perform actuarial analyses related to life insurance products, including: o Term Life o Universal Life o Pension Risk Transfer (PRT) • Develop, maintain, and validate actuarial models for pricing, valuation, and forecasting • Analyze experience data and trends to support business insights and decision-making Product & Risk Management • Support product design, pricing, and profitability analysis • Assess and quantify risks associ…",
+      "url": "https://www.adzuna.com/land/ad/5854712581?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=7DAD7B4CB4ECB933505530E1F498C2AE63C19429"
     },
     {
       "source": "Adzuna",
@@ -168,7 +363,7 @@
       "location": "US",
       "market": "Pricing/Reserving",
       "posted": "2026-08-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -185,14 +380,14 @@
       "location": "Jersey City, Hudson County",
       "market": "Pricing/Reserving",
       "posted": "2026-08-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Pricing"
       ],
       "summary": "hackajob is collaborating with Verisk to connect them with exceptional professionals for this role. Description Verisk is seeking an actuarial professional to join our Actuarial Initiatives team within Personal Lines, where you’ll help shape the products, insights, and analytics insurers rely on to make smarter pricing, underwriting, and risk decisions. This team supports a diverse portfolio spanning Personal Auto, Motorcycles, Personal Umbrella, Homeowners, Dwelling Property, and Pet Insurance…",
-      "url": "https://www.adzuna.com/land/ad/5853604543?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=DD3B69763B57891E329A7D1D8A56E678DBEC3C8C"
+      "url": "https://www.adzuna.com/land/ad/5853604543?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=DD3B69763B57891E329A7D1D8A56E678DBEC3C8C"
     },
     {
       "source": "Adzuna",
@@ -201,7 +396,7 @@
       "location": "New York City, New York",
       "market": "Actuarial",
       "posted": "2026-08-22",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -216,7 +411,7 @@
       "location": "Worcester, Worcester County",
       "market": "Actuarial",
       "posted": "2026-08-22",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -226,12 +421,42 @@
     },
     {
       "source": "Adzuna",
+      "role": "Actuary Analyst I, Sutter Health Plan",
+      "company": "Sutter Health",
+      "location": "Sacramento, Sacramento County",
+      "market": "Health",
+      "posted": "2026-08-22",
+      "postedAgeDays": 5,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "We are so glad you are interested in joining Sutter Health! Organization: SHSO-Sutter Health System Office-Valley Position Overview: Responsible for conducting moderately complex actuarial and statistical analyses to support financial forecasting and decision-making. This role applies advanced knowledge of mathematics, probability, statistics, and business principles to perform health-related calculations and modeling. Independently manages assigned tasks, ensuring accuracy, timeliness, and ali…",
+      "url": "https://www.adzuna.com/land/ad/5853041762?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=63401FBD24EC85263501FF25F10C69FACFEC443D"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuary Analyst I, Sutter Health Plan",
+      "company": "Sutter Health",
+      "location": "Sacramento, Sacramento County",
+      "market": "Health",
+      "posted": "2026-08-22",
+      "postedAgeDays": 5,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "We are so glad you are interested in joining Sutter Health! Organization: SHSO-Sutter Health System Office-Valley Position Overview: Responsible for conducting moderately complex actuarial and statistical analyses to support financial forecasting and decision-making. This role applies advanced knowledge of mathematics, probability, statistics, and business principles to perform health-related calculations and modeling. Independently manages assigned tasks, ensuring accuracy, timeliness, and ali…",
+      "url": "https://www.adzuna.com/land/ad/5853041762?se=8MwvhF2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=63401FBD24EC85263501FF25F10C69FACFEC443D"
+    },
+    {
+      "source": "Adzuna",
       "role": "Analyst, Actuarial (ADP)",
       "company": "CVS Health",
       "location": "Blue Bell, Montgomery County",
       "market": "Health",
       "posted": "2026-08-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -246,7 +471,7 @@
       "location": "Indianapolis, Marion County",
       "market": "Life",
       "posted": "2026-08-22",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -261,13 +486,13 @@
       "location": "Mason, Warren County",
       "market": "Life",
       "posted": "2026-08-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
-      "url": "https://www.adzuna.com/land/ad/5851925618?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=5700F9BB1AB1B122866250987682BC868AAAB825"
+      "url": "https://www.adzuna.com/land/ad/5851925618?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=5700F9BB1AB1B122866250987682BC868AAAB825"
     },
     {
       "source": "Adzuna",
@@ -276,13 +501,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-08-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
-      "url": "https://www.adzuna.com/land/ad/5851920021?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=BE562E26135D3D5659A478875F2509861DF3A3FD"
+      "url": "https://www.adzuna.com/land/ad/5851920021?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=BE562E26135D3D5659A478875F2509861DF3A3FD"
     },
     {
       "source": "Adzuna",
@@ -291,13 +516,13 @@
       "location": "Uptown, Marion County",
       "market": "Life",
       "posted": "2026-08-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
-      "url": "https://www.adzuna.com/land/ad/5851876590?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=209FD0A89199972E9541325E375F99A4644902C2"
+      "url": "https://www.adzuna.com/land/ad/5851876590?se=6MhDgV2i8RG9Pc28-W9g6w&utm_medium=api&utm_source=75b5032a&v=209FD0A89199972E9541325E375F99A4644902C2"
     },
     {
       "source": "Adzuna",
@@ -306,7 +531,7 @@
       "location": "Indianapolis, Marion County",
       "market": "Life",
       "posted": "2026-08-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -316,27 +541,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Actuarial Analyst II",
-      "company": "Elevance Health",
-      "location": "Tampa, Hillsborough County",
-      "market": "Life",
-      "posted": "2026-08-21",
-      "postedAgeDays": 4,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
-      "url": "https://www.adzuna.com/details/5851821074?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst III",
       "company": "Elevance Health",
       "location": "Indianapolis, Marion County",
       "market": "Life",
       "posted": "2026-08-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -351,7 +561,7 @@
       "location": "Alpharetta, Fulton County",
       "market": "Actuarial",
       "posted": "2026-08-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -367,7 +577,7 @@
       "location": "Boston, Suffolk County",
       "market": "Health",
       "posted": "2026-08-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -383,7 +593,7 @@
       "location": "Hartford, Hartford County",
       "market": "Health",
       "posted": "2026-08-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -398,13 +608,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Health",
       "posted": "2026-08-20",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Bring your heart to CVS Health. Every one of us at CVS H…",
-      "url": "https://www.adzuna.com/land/ad/5850431268?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=B826BC58B66132133E82D2B0E0FC74D5B537B053"
+      "url": "https://www.adzuna.com/land/ad/5850431268?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=B826BC58B66132133E82D2B0E0FC74D5B537B053"
     },
     {
       "source": "Adzuna",
@@ -413,13 +623,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Health",
       "posted": "2026-08-20",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health®, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Bring your heart to CVS Health. Every one of us at CVS H…",
-      "url": "https://www.adzuna.com/land/ad/5850427285?se=EMCSLUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=7FC68E6A6CF6C68D72DB75B643284086550C8389"
+      "url": "https://www.adzuna.com/land/ad/5850427285?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=7FC68E6A6CF6C68D72DB75B643284086550C8389"
     },
     {
       "source": "Adzuna",
@@ -428,7 +638,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Health",
       "posted": "2026-08-20",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -438,33 +648,18 @@
     },
     {
       "source": "Adzuna",
-      "role": "Health Consulting Actuarial Analyst- Atlanta- College Program 2027",
-      "company": "Marsh McLennan",
-      "location": "Atlanta, Fulton County",
-      "market": "Health",
+      "role": "Actuarial Analyst II",
+      "company": "Elevance Health",
+      "location": "Tampa, Hillsborough County",
+      "market": "Life",
       "posted": "2026-08-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
-      "summary": "Company: Mercer Description: Mercer a Marsh business – we believe in building brighter futures by redefining the world of work, reshaping retirement and investment outcomes, and unlocking real health and well-being. Mercer’s more than 25,000 employees are based in 44 countries and the firm operates in over 130 countries. THE POSITION: Health Consulting Actuarial Analyst Mercer’s 2,500 US Health consultants deliver disciplined, consistent approaches, to benchmarking, data analytics, financial ma…",
-      "url": "https://www.adzuna.com/details/5850939970?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Health Consulting Actuarial Analyst- DC- College Program 2027",
-      "company": "Marsh McLennan",
-      "location": "US",
-      "market": "Health",
-      "posted": "2026-08-21",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Company: Mercer Description: Mercer a Marsh business – we believe in building brighter futures by redefining the world of work, reshaping retirement and investment outcomes, and unlocking real health and well-being. Mercer’s more than 25,000 employees are based in 44 countries and the firm operates in over 130 countries. THE POSITION: Health Consulting Actuarial Analyst Mercer’s 2,500 US Health consultants deliver disciplined, consistent approaches, to benchmarking, data analytics, financial ma…",
-      "url": "https://www.adzuna.com/details/5851003479?utm_medium=api&utm_source=75b5032a"
+      "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual…",
+      "url": "https://www.adzuna.com/details/5851821074?utm_medium=api&utm_source=75b5032a"
     },
     {
       "source": "Adzuna",
@@ -473,14 +668,14 @@
       "location": "Alpharetta, Fulton County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Access"
       ],
       "summary": "Alpharetta, GA Full time R0000003061 The position is described below. If you want to apply, click the Apply button at the top or bottom of this page. You'll be required to create an account or sign in to an existing one. _If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to_ Accessibility (careers@crcgroup.com?subject=Accommodation%20request) _(accommodation requests only; other inquiries won't receive a response)._ Regu…",
-      "url": "https://www.adzuna.com/land/ad/5847733722?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=4ECDDED7E2BB7D4C1537D7F85F3E83F545EE28DB"
+      "url": "https://www.adzuna.com/land/ad/5847733722?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=4ECDDED7E2BB7D4C1537D7F85F3E83F545EE28DB"
     },
     {
       "source": "Adzuna",
@@ -489,7 +684,7 @@
       "location": "Lathrup Village, Oakland County",
       "market": "Actuarial",
       "posted": "2026-08-19",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -505,14 +700,14 @@
       "location": "Detroit, Wayne County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
         "R"
       ],
       "summary": "Description Calling all mathematics and statistics majors and seeking candidates who are not interested in writing future actuarial exams Do you want to be part of a strategic team focused on innovation and excellence? Are you looking to develop your skills with opportunities for career growth? Do you want to be part of a diverse team where everyone is heard, respected, and valued? Look no furtherWTW is the place for you! Employment-based non-immigrant visa sponsorship and/or assistance is not …",
-      "url": "https://www.adzuna.com/land/ad/5847749297?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=BA101465FAD7F5432B27ED53D549AF921177A40B"
+      "url": "https://www.adzuna.com/land/ad/5847749297?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=BA101465FAD7F5432B27ED53D549AF921177A40B"
     },
     {
       "source": "Adzuna",
@@ -521,7 +716,7 @@
       "location": "William Penn Annex East, Philadelphia County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -537,7 +732,7 @@
       "location": "Bowling Green, Manhattan",
       "market": "Actuarial",
       "posted": "2026-08-19",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -553,14 +748,14 @@
       "location": "International, King County",
       "market": "Actuarial",
       "posted": "2026-08-19",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847862954?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=7E222572058AC46C7F30CD586B4A876C0B457471"
+      "url": "https://www.adzuna.com/land/ad/5847862954?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=7E222572058AC46C7F30CD586B4A876C0B457471"
     },
     {
       "source": "Adzuna",
@@ -569,14 +764,14 @@
       "location": "Short Hills, Essex County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847767119?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=236FA7E4F56818E17A1C0880D43D446C37DD800B"
+      "url": "https://www.adzuna.com/land/ad/5847767119?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=236FA7E4F56818E17A1C0880D43D446C37DD800B"
     },
     {
       "source": "Adzuna",
@@ -585,14 +780,14 @@
       "location": "Wellston, Saint Louis County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847766873?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=F382C2AA5FBD57CB1850394D58ABC5986203C717"
+      "url": "https://www.adzuna.com/land/ad/5847766873?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=F382C2AA5FBD57CB1850394D58ABC5986203C717"
     },
     {
       "source": "Adzuna",
@@ -601,14 +796,14 @@
       "location": "Newburgh Heights, Cuyahoga County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847751724?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=6DB46229D50B76283B25DA922F487D6A216DF166"
+      "url": "https://www.adzuna.com/land/ad/5847751724?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=6DB46229D50B76283B25DA922F487D6A216DF166"
     },
     {
       "source": "Adzuna",
@@ -617,14 +812,14 @@
       "location": "Atlanta, Fulton County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847750989?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=36C951F06780A8788B1B874582FB8024CFCEB91A"
+      "url": "https://www.adzuna.com/land/ad/5847750989?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=36C951F06780A8788B1B874582FB8024CFCEB91A"
     },
     {
       "source": "Adzuna",
@@ -633,14 +828,14 @@
       "location": "Detroit, Wayne County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847749298?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=2080BE9392F9FA7E3B88907F85AF77A6B9F53E04"
+      "url": "https://www.adzuna.com/land/ad/5847749298?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=2080BE9392F9FA7E3B88907F85AF77A6B9F53E04"
     },
     {
       "source": "Adzuna",
@@ -649,14 +844,14 @@
       "location": "Boston, Suffolk County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847748943?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=B384304014AA70AD563CF42EF8DEFE091699354A"
+      "url": "https://www.adzuna.com/land/ad/5847748943?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=B384304014AA70AD563CF42EF8DEFE091699354A"
     },
     {
       "source": "Adzuna",
@@ -665,14 +860,14 @@
       "location": "Glendale, Denver",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847748713?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=BF07361EA5404229804DCF6588EA268465F1B270"
+      "url": "https://www.adzuna.com/land/ad/5847748713?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=BF07361EA5404229804DCF6588EA268465F1B270"
     },
     {
       "source": "Adzuna",
@@ -681,14 +876,14 @@
       "location": "Minneapolis, Hennepin County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847747902?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=75307C073861823FBF9F9D4BC7E4AE2C65DC7ACF"
+      "url": "https://www.adzuna.com/land/ad/5847747902?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=75307C073861823FBF9F9D4BC7E4AE2C65DC7ACF"
     },
     {
       "source": "Adzuna",
@@ -697,14 +892,14 @@
       "location": "Grand Central, Manhattan",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847746975?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=631A1A113F749D2AF1C4B6C9CB59562216C8E946"
+      "url": "https://www.adzuna.com/land/ad/5847746975?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=631A1A113F749D2AF1C4B6C9CB59562216C8E946"
     },
     {
       "source": "Adzuna",
@@ -713,14 +908,14 @@
       "location": "Stamford, Fairfield County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "SAS"
       ],
       "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847739951?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=361CC92776801B52C4849CBC530B61893E13E531"
+      "url": "https://www.adzuna.com/land/ad/5847739951?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=361CC92776801B52C4849CBC530B61893E13E531"
     },
     {
       "source": "Adzuna",
@@ -729,7 +924,7 @@
       "location": "Pittsburgh, Allegheny County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -745,7 +940,7 @@
       "location": "William Penn Annex East, Philadelphia County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -761,7 +956,7 @@
       "location": "Fort Myer, Arlington County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -777,7 +972,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -788,44 +983,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
-      "company": "WTW",
-      "location": "SoMa, San Francisco",
-      "market": "Actuarial",
-      "posted": "2026-08-18",
-      "postedAgeDays": 7,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "SAS"
-      ],
-      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847463024?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=F08C9F5313AF9B274278E475AD5AAD957C352106"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
-      "company": "WTW",
-      "location": "Pico Heights, Los Angeles County",
-      "market": "Actuarial",
-      "posted": "2026-08-18",
-      "postedAgeDays": 7,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "SAS"
-      ],
-      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
-      "url": "https://www.adzuna.com/land/ad/5847463008?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=E4A3779840DAE27C76B7339F04EE959DFC8FD0B1"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst",
       "company": "Auto Club Group",
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -840,7 +1003,7 @@
       "location": "Columbus, Franklin County",
       "market": "Actuarial",
       "posted": "2026-08-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -850,18 +1013,35 @@
     },
     {
       "source": "Adzuna",
-      "role": "Ratabase Developer",
-      "company": "Saicon Consultants Inc.",
-      "location": "Rosemont, Cook County",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "SoMa, San Francisco",
       "market": "Actuarial",
-      "posted": "2026-08-17",
-      "postedAgeDays": 8,
+      "posted": "2026-08-18",
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
-        "R"
+        "R",
+        "SAS"
       ],
-      "summary": "Key Responsibilities Design, configure, and maintain insurance rating products within the CGI Ratabase platform. Develop and implement rating algorithms, underwriting rules, discounts, surcharges, and product configurations. Collaborate with actuaries and business analysts to translate business requirements into rating solutions. Support new product launches, state expansions, and regulatory filing implementations. Develop and maintain integrations between Ratabase and policy administration sys…",
-      "url": "https://www.adzuna.com/land/ad/5845332337?se=WoIrLkmh8RGUGs2XKmdPIg&utm_medium=api&utm_source=75b5032a&v=CF3FF33E2CE3934549798B4A4FA5F8F21630166C"
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847463024?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=F08C9F5313AF9B274278E475AD5AAD957C352106"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Early Careers: Intern Conversion only- Retirement Actuarial Analyst- 2027",
+      "company": "WTW",
+      "location": "Pico Heights, Los Angeles County",
+      "market": "Actuarial",
+      "posted": "2026-08-18",
+      "postedAgeDays": 9,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "SAS"
+      ],
+      "summary": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for…",
+      "url": "https://www.adzuna.com/land/ad/5847463008?se=2ogsgl2i8RGJ35lZBgd8oQ&utm_medium=api&utm_source=75b5032a&v=E4A3779840DAE27C76B7339F04EE959DFC8FD0B1"
     },
     {
       "source": "Adzuna",
@@ -870,7 +1050,7 @@
       "location": "US",
       "market": "Health",
       "posted": "2026-08-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -886,7 +1066,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Health",
       "posted": "2026-08-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -904,7 +1084,7 @@
       "location": "Clawson, Oakland County",
       "market": "Health",
       "posted": "2026-08-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -919,7 +1099,7 @@
       "location": "Austin, Travis County",
       "market": "Health",
       "posted": "2026-08-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -936,7 +1116,7 @@
       "location": "Houston, Harris County",
       "market": "Life",
       "posted": "2026-08-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -952,7 +1132,7 @@
       "location": "Richmond, Richmond County",
       "market": "Actuarial",
       "posted": "2026-08-17",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -967,7 +1147,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Actuarial",
       "posted": "2026-08-15",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -982,120 +1162,13 @@
       "location": "Tallahassee, Leon County",
       "market": "Actuarial",
       "posted": "2026-08-13",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Requisition No: 881642 Agency: Office of Insurance Regulation Working Title: ACTUARIAL ANALYST - 43001226 Pay Plan: Career Service Position Number: 43001226 Salary: $53,000.04 Posting Closing Date: 08/27/2026 Total Compensation Estimator Tool OPEN COMPETITIVE EMPLOYMENT OPPORTUNITY OFFICE OF INSURANCE REGULATION BUREAU: PROPERTY & CASUALTY PRODUCT REVIEW CITY: TALLAHASSEE COUNTY: LEON The Florida Office of Insurance Regulation (OIR) strives to promote a stable and competitive insurance market …",
       "url": "https://www.adzuna.com/details/5841099332?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Consultative Offerings - Government & Public Services - Analyst - Actuarial",
-      "company": "Deloitte",
-      "location": "Atlanta, Fulton County",
-      "market": "Actuarial",
-      "posted": "2026-08-12",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Join Deloitte's Government & Public Services practice as an Analyst and help organizations address complex challenges that matter. In this role, you will work alongside teams supporting transformation initiatives, improving performance, and helping clients generate measurable value. You will have opportunities to build consulting skills through hands-on experience, collaboration, and exposure across client environments. Recruiting for this role ends on 9/27/2026. Work you'll do As an Analyst in…",
-      "url": "https://www.adzuna.com/land/ad/5839294131?se=GBwKL0mh8RG8AawPaMncfg&utm_medium=api&utm_source=75b5032a&v=5B310085E480A9C17789B9E5A22AEB594A3230DD"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Consultative Offerings - Government & Public Services - Analyst - Actuarial",
-      "company": "Deloitte",
-      "location": "Talcott Village, Hartford County",
-      "market": "Actuarial",
-      "posted": "2026-08-12",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Join Deloitte's Government & Public Services practice as an Analyst and help organizations address complex challenges that matter. In this role, you will work alongside teams supporting transformation initiatives, improving performance, and helping clients generate measurable value. You will have opportunities to build consulting skills through hands-on experience, collaboration, and exposure across client environments. Recruiting for this role ends on 9/27/2026. Work you'll do As an Analyst in…",
-      "url": "https://www.adzuna.com/land/ad/5839290258?se=GBwKL0mh8RG8AawPaMncfg&utm_medium=api&utm_source=75b5032a&v=EFA78C76A211EA4BCAE8EF83EB18F68339E899E6"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Consultative Offerings - Government & Public Services - Analyst - Actuarial",
-      "company": "Deloitte",
-      "location": "Illinois Medical District, Chicago",
-      "market": "Actuarial",
-      "posted": "2026-08-12",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Join Deloitte's Government & Public Services practice as an Analyst and help organizations address complex challenges that matter. In this role, you will work alongside teams supporting transformation initiatives, improving performance, and helping clients generate measurable value. You will have opportunities to build consulting skills through hands-on experience, collaboration, and exposure across client environments. Recruiting for this role ends on 9/27/2026. Work you'll do As an Analyst in…",
-      "url": "https://www.adzuna.com/details/5839181200?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Kaiser Permanente",
-      "location": "Atlanta, Fulton County",
-      "market": "Life",
-      "posted": "2026-08-12",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "Valuation"
-      ],
-      "summary": "Job Summary: This individual contributor is primarily responsible for assisting in researching and determining the likelihood of financial risk to the organization, supporting actuarial documentation, product line evaluation, and actuarial modeling, and assisting in financial risk and opportunity analyses. Essential Responsibilities: Pursues self-development and effective relationships with others by sharing information with coworkers and customers; listening and responding to performance feed…",
-      "url": "https://www.adzuna.com/land/ad/5839303503?se=GBwKL0mh8RG8AawPaMncfg&utm_medium=api&utm_source=75b5032a&v=6669B2CA66B0FB0DE123F86511DA0CAF7F30FDFC"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Kaiser Permanente",
-      "location": "Atlanta, Fulton County",
-      "market": "Life",
-      "posted": "2026-08-12",
-      "postedAgeDays": 13,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "Valuation"
-      ],
-      "summary": "Job Summary: This individual contributor is primarily responsible for assisting in researching and determining the likelihood of financial risk to the organization, supporting actuarial documentation, product line evaluation, and actuarial modeling, and assisting in financial risk and opportunity analyses. Essential Responsibilities: Pursues self-development and effective relationships with others by sharing information with coworkers and customers; listening and responding to performance feed…",
-      "url": "https://www.adzuna.com/land/ad/5839303503?se=mGKDNUmh8RGLGvAnC0sugQ&utm_medium=api&utm_source=75b5032a&v=6669B2CA66B0FB0DE123F86511DA0CAF7F30FDFC"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Business Analyst",
-      "company": "Core Specialty Insurance Services",
-      "location": "Long Beach, Nassau County",
-      "market": "Actuarial",
-      "posted": "2026-08-12",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "- Multi-state commercial insurance carrier is seeking an individual to join our Commercial Auto Division as a Business Analyst. This individual will be responsible for development and maintenance of periodic reports, including those concerning product rates and profitability, helping to synthesize and shape key messages and to deliver action insights to stakeholders. Key Accountabilities/Deliverables: Revises rates for various programs and prepares filing memoranda to obtain insurance departmen…",
-      "url": "https://www.adzuna.com/details/5838000078?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Medica",
-      "location": "Hopkins, Hennepin County",
-      "market": "Health",
-      "posted": "2026-08-12",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Medica is a nonprofit health plan with more than a million members that serves communities in Minnesota, Nebraska, Wisconsin, Missouri, and beyond. We deliver personalized health care experiences and partner closely with providers to ensure members are genuinely cared for. We're a team that owns our work with accountability, makes data-driven decisions, embraces continuous learning, and celebrates collaboration — because success is a team sport. It's our mission to be there in the moments that …",
-      "url": "https://www.adzuna.com/details/5838208749?utm_medium=api&utm_source=75b5032a"
     }
   ],
   "jobSearchLinks": [
