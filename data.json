@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:10:35+00:00",
+  "generatedAt": "2026-10-26T17:47:23+00:00",
   "news": [
     {
       "title": "Retirement Practice Community: Longevity Linked Securities",
@@ -20,34 +20,9 @@
       "summary": "Host Danny Moore, FSA, MAAA, CERA and guests John Nolan and Marc Marion from Octaviant Financial discuss the challenges of specialized high-cost drug treatments, their efficacy, and potential vehicles to manage the unique risks involved with these treatments.",
       "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
       "url": "https://soapodcasts.libsyn.com/health-community-rebalancing-risk-in-gene-therapy-high-cost-pharmaceuticals"
-    },
-    {
-      "title": "Young Professional Advisory Council: Who I Want to Be - The Struggles, Hopes, and Dreams of a Career Changer and Experienced Actuary",
-      "source": "SOA Podcasts RSS",
-      "category": "Career",
-      "priority": "Medium",
-      "published": "2026-10-19 13:00",
-      "summary": "The Young Professional Advisory Council's Justin Le speaks with Gouri Kumaran, AVP at Kuvare , about her challenges and triumphs as a career changer into the actuarial profession and her experiences along the way.",
-      "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
-      "url": "https://soapodcasts.libsyn.com/young-professional-advisory-council-who-i-want-to-be-the-struggles-hopes-and-dreams-of-a-career-changer-and-experienced-actuary"
     }
   ],
   "jobs": [
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Assistant",
-      "company": "Farm Bureau Financial Services",
-      "location": "West Des Moines, Polk County",
-      "market": "Actuarial",
-      "posted": "2026-10-24",
-      "postedAgeDays": 0,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Assistant Will be filled at the appropriate level based on experience Would you like a career where you can develop your skills and take advantage of new opportunities? Do you have property/casualty insurance experience and are a strong data driven professional? Are you a self-starter who is detail oriented and able to prioritize multiple projects? If so, this actuarial opportunity could be a great fit for you! Who We Are: With Farm Bureau Financial Services, our client/members can fe…",
-      "url": "https://www.adzuna.com/land/ad/5940926987?se=ZmSFQobQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=8B7866F1D1296EF245602C2017B497203B5A94D9"
-    },
     {
       "source": "Adzuna",
       "role": "Insurance Actuarial Analyst 3",
@@ -55,7 +30,7 @@
       "location": "Grandview Heights, Franklin County",
       "market": "Actuarial",
       "posted": "2026-10-25",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -70,7 +45,7 @@
       "location": "Warren, Somerset County",
       "market": "Actuarial",
       "posted": "2026-10-24",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -85,7 +60,7 @@
       "location": "Kansas City, Jackson County",
       "market": "Actuarial",
       "posted": "2026-10-24",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -95,27 +70,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Risk Modeling Intern",
-      "company": "Genworth",
-      "location": "West Raleigh, Raleigh",
-      "market": "Actuarial",
-      "posted": "2026-10-24",
-      "postedAgeDays": 1,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Genworth is seeking a Risk Modeling Intern to support our finance and insurance risk teams in delivering insights that enhance long-term financial security solutions. In this role, you will assist in building and maintaining quantitative models for long-term care and other insurance products, analyze large financial and actuarial data sets, and help perform scenario and stress testing. You will collaborate with experienced analysts and actuaries, document methodologies, and present findings, ga…",
-      "url": "https://www.adzuna.com/land/ad/5940517129?se=RL86O4bQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=470956928E66F9E4D99E1883D705335F82737E4C"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst I",
       "company": "Redion",
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -131,7 +91,7 @@
       "location": "Kansas City, Jackson County",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -149,7 +109,7 @@
       "location": "New York, US",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -166,7 +126,7 @@
       "location": "Madison, Dane County",
       "market": "Actuarial",
       "posted": "2026-10-23",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -181,7 +141,7 @@
       "location": "Phoenix, Maricopa County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -198,7 +158,7 @@
       "location": "Milam Dairy, Miami-Dade County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -213,13 +173,13 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing team in San Diego, CA! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, pr…",
-      "url": "https://www.adzuna.com/land/ad/5939579524?se=RL86O4bQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
+      "url": "https://www.adzuna.com/land/ad/5939579524?se=HFbVTGXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
     },
     {
       "source": "Adzuna",
@@ -228,13 +188,13 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing team in San Diego, CA! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, pr…",
-      "url": "https://www.adzuna.com/land/ad/5939579524?se=YD8sP4bQ8RG0GownEE_3tg&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
+      "url": "https://www.adzuna.com/land/ad/5939579524?se=MKulT2XR8RGOEpOGFIgEig&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
     },
     {
       "source": "Adzuna",
@@ -243,13 +203,13 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing team in San Diego, CA! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, pr…",
-      "url": "https://www.adzuna.com/land/ad/5939579524?se=ZmSFQobQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
+      "url": "https://www.adzuna.com/land/ad/5939579524?se=fHx7UmXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
     },
     {
       "source": "Adzuna",
@@ -258,7 +218,7 @@
       "location": "Wooster, Wayne County",
       "market": "Life",
       "posted": "2026-10-22",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -273,7 +233,7 @@
       "location": "Indianapolis, Marion County",
       "market": "Life",
       "posted": "2026-10-21",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -288,7 +248,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-10-21",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -303,7 +263,7 @@
       "location": "Astoria, Queens",
       "market": "Actuarial",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -318,7 +278,7 @@
       "location": "Clearwater, Pinellas County",
       "market": "Actuarial",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -333,13 +293,13 @@
       "location": "Mc Lean, Fairfax County",
       "market": "Health",
       "posted": "2026-10-20",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Position Type : Full-time, Non-Exempt Probationary Period : First 6 months of employment About Cheiron: Cheiron is a rapidly growing employee-owned actuarial and financial consulting firm that is focused on providing health and pension actuarial consulting services to our clients (multiemployer, public sector, and some corporate). Our mission is to empower benefit plan sponsors to understand and better manage their benefit programs and their resulting financial risks through innovative technolo…",
-      "url": "https://www.adzuna.com/land/ad/5936194691?se=ZmSFQobQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=7E733C4E4C85301A9ABD1525EAED844203E2353E"
+      "url": "https://www.adzuna.com/land/ad/5936194691?se=fHx7UmXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=7E733C4E4C85301A9ABD1525EAED844203E2353E"
     },
     {
       "source": "Adzuna",
@@ -348,13 +308,13 @@
       "location": "Pimmit, Fairfax County",
       "market": "Health",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Position Type : Full-time, Non-Exempt Probationary Period : First 6 months of employment About Cheiron: Cheiron is a rapidly growing employee-owned actuarial and financial consulting firm that is focused on providing health and pension actuarial consulting services to our clients (multiemployer, public sector, and some corporate). Our mission is to empower benefit plan sponsors to understand and better manage their benefit programs and their resulting financial risks through innovative technolo…",
-      "url": "https://www.adzuna.com/land/ad/5936298048?se=ZmSFQobQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=E581CB45C2BDBFD7A8BE3233551E99F22E2450B3"
+      "url": "https://www.adzuna.com/land/ad/5936298048?se=fHx7UmXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=E581CB45C2BDBFD7A8BE3233551E99F22E2450B3"
     },
     {
       "source": "Adzuna",
@@ -363,7 +323,7 @@
       "location": "Addison, Dallas",
       "market": "Life",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -378,7 +338,7 @@
       "location": "Phoenix, Maricopa County",
       "market": "Pricing/Reserving",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -394,7 +354,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Pricing/Reserving",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -410,7 +370,7 @@
       "location": "Schaumburg, Cook County",
       "market": "Pricing/Reserving",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -426,7 +386,7 @@
       "location": "Atlantic Beach, Duval County",
       "market": "Actuarial",
       "posted": "2026-10-20",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -441,13 +401,13 @@
       "location": "Grand Central, Manhattan",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933266512?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
+      "url": "https://www.adzuna.com/land/ad/5933266512?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
     },
     {
       "source": "Adzuna",
@@ -456,7 +416,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -471,13 +431,13 @@
       "location": "Boston, Suffolk County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933232316?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
+      "url": "https://www.adzuna.com/land/ad/5933232316?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
     },
     {
       "source": "Adzuna",
@@ -486,13 +446,13 @@
       "location": "Minneapolis, Hennepin County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933224941?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
+      "url": "https://www.adzuna.com/land/ad/5933224941?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
     },
     {
       "source": "Adzuna",
@@ -501,28 +461,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933210064?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Consultative Offerings - Analyst - Actuarial",
-      "company": "Deloitte",
-      "location": "Hartford, Hartford County",
-      "market": "Actuarial",
-      "posted": "2026-10-17",
-      "postedAgeDays": 7,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/details/5932691019?utm_medium=api&utm_source=75b5032a"
+      "url": "https://www.adzuna.com/land/ad/5933210064?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
     },
     {
       "source": "Adzuna",
@@ -531,13 +476,13 @@
       "location": "Grand Central, Manhattan",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933266512?se=LErEQ4bQ8RG0GownEE_3tg&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
+      "url": "https://www.adzuna.com/land/ad/5933266512?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
     },
     {
       "source": "Adzuna",
@@ -546,13 +491,13 @@
       "location": "Boston, Suffolk County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933232316?se=LErEQ4bQ8RG0GownEE_3tg&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
+      "url": "https://www.adzuna.com/land/ad/5933232316?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
     },
     {
       "source": "Adzuna",
@@ -561,13 +506,13 @@
       "location": "Minneapolis, Hennepin County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933224941?se=LErEQ4bQ8RG0GownEE_3tg&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
+      "url": "https://www.adzuna.com/land/ad/5933224941?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
     },
     {
       "source": "Adzuna",
@@ -576,13 +521,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933210064?se=LErEQ4bQ8RG0GownEE_3tg&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
+      "url": "https://www.adzuna.com/land/ad/5933210064?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
     },
     {
       "source": "Adzuna",
@@ -591,7 +536,7 @@
       "location": "Newport Beach, Orange County",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -606,7 +551,7 @@
       "location": "Addison, Dallas",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -621,7 +566,7 @@
       "location": "New York, US",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely <=3 years based on description",
       "skills": [
         "Python",
@@ -629,7 +574,7 @@
         "Rate Filing"
       ],
       "summary": "Actuarial Analyst Work for a company where your time is valued so your life can be as rewarding as your career. Over a century old insurance company is seeking an Actuarial Analyst who will perform ratemaking process for state rate filings by using AI & programming skills for commercial lines of business. (58955) Requirements: Bachelor's Degree Student Actuary 2 years of actuarial experience 3 or more CAS exams completed Able to learn new programming and AI applications Proficient in Python, SQ…",
-      "url": "https://www.adzuna.com/land/ad/5932978291?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=E9AB0E8E4EE807F7413E89377A7DEA58086EF716"
+      "url": "https://www.adzuna.com/land/ad/5932978291?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=E9AB0E8E4EE807F7413E89377A7DEA58086EF716"
     },
     {
       "source": "Adzuna",
@@ -638,7 +583,7 @@
       "location": "Grand Central, Manhattan",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely <=3 years based on description",
       "skills": [
         "Python",
@@ -646,7 +591,7 @@
         "Rate Filing"
       ],
       "summary": "Actuarial Analyst Work for a company where your time is valued so your life can be as rewarding as your career. Over a century old insurance company is seeking an Actuarial Analyst who will perform ratemaking process for state rate filings by using AI & programming skills for commercial lines of business. (58955) Requirements: Bachelor's Degree Student Actuary 2 years of actuarial experience 3 or more CAS exams completed Able to learn new programming and AI applications Proficient in Python, SQ…",
-      "url": "https://www.adzuna.com/land/ad/5933006957?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=6AF8410CA9C6D57BF8A6A439606DAF7E21E96163"
+      "url": "https://www.adzuna.com/land/ad/5933006957?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=6AF8410CA9C6D57BF8A6A439606DAF7E21E96163"
     },
     {
       "source": "Adzuna",
@@ -655,13 +600,13 @@
       "location": "Pittsburgh, Allegheny County",
       "market": "Actuarial",
       "posted": "2026-10-17",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Role Summary: Gathers and analyzes data and assets of defined benefit plans. Reconciles discrepancies. Determines eligibility and prepares contribution calculations to produce client reports and government filings. Checks work and maintains data integrity. Reviews, interprets and applies provisions of existing and new plan documents. Researches existing and new regulations and procedures. Operates independently on routine matters involving own client work while seeking daily guidance on complex…",
-      "url": "https://www.adzuna.com/land/ad/5932228833?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=97979EFA71EA7B8B4BB3EE4C88D8E2306725A61C"
+      "url": "https://www.adzuna.com/land/ad/5932228833?se=poz_TWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=97979EFA71EA7B8B4BB3EE4C88D8E2306725A61C"
     },
     {
       "source": "Adzuna",
@@ -670,13 +615,13 @@
       "location": "Bloomfield, Allegheny County",
       "market": "Actuarial",
       "posted": "2026-10-17",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Role Summary: Gathers and analyzes data and assets of defined benefit plans. Reconciles discrepancies. Determines eligibility and prepares contribution calculations to produce client reports and government filings. Checks work and maintains data integrity. Reviews, interprets and applies provisions of existing and new plan documents. Researches existing and new regulations and procedures. Operates independently on routine matters involving own client work while seeking daily guidance on complex…",
-      "url": "https://www.adzuna.com/land/ad/5932530881?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=28BEE5AD28464ED0B183B19E10EDB4C67C6B80C9"
+      "url": "https://www.adzuna.com/land/ad/5932530881?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=28BEE5AD28464ED0B183B19E10EDB4C67C6B80C9"
     },
     {
       "source": "Adzuna",
@@ -685,7 +630,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Health",
       "posted": "2026-10-17",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -696,762 +641,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Ny State Campus, Albany County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930560472?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=1852A11B7EAA149253C1E14F643AE2807FB47D2F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Five Points, Wake County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930520370?se=lAQTPIbQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=522FE6CADD8390C1AC3D613EAADA04C194A6D0D7"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Grandview Heights, Franklin County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930519798?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=32244CFECE2616EAF9360959ACE622C15A7AC77F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Capitol, Richmond",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/details/5930518680?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Springfield, Sangamon County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/details/5930518646?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Penbrook, Dauphin County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/details/5930504069?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Nashville, Davidson County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930500719?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=4B44FF60D0D0974A728A330747555CDBCA3D6F6D"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Atlanta, Fulton County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930497908?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=D529FCCF73EA76833D5F01517D205EA4DB5AB5D6"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Tumwater, Thurston County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930491779?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=2ADC90BB8D8D54CA4C2776A8341993865F658B15"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Tallahassee, Leon County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/details/5930490923?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Trenton, Mercer County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930487055?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=A0CA69DD896E514573228D5A191DA3D2782443E9"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Edgewood, Richland County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930484726?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=0CF2BF5B2850C209B743A4FF4A150E53B649C36B"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Cedar, Cole County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930477022?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=D546E736ECE36B57028937C8AA6D7404408ABD2A"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Lansing, Ingham County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930476409?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=4CF7F6EC5CD37E4C354D1D18017CBAF6B0ABEB68"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Phoenix, Maricopa County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930472853?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=E654AA680141871C02134A3111F4DA09D5FD7DE9"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Boston, Suffolk County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930472237?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=D9517759D2E4AD57135149DCE9957D246F299372"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Uptown, Marion County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930470184?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=FAD3CC0199DEC3AD94B7D4FA1BEA055EE7FA6CB0"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Madison, Dane County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930469550?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=5CBD83C529CBBEF959AF1C23A143FF0F679C9DCD"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Chisolm, Montgomery County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930468786?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=24AB1463EF37569AE59B61AF2A33A2043E7A2AF7"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Frankfort, Franklin County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930458537?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=A4BF30136CC621D197852FD948EA97E45322F44F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Salem, Marion County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930454394?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=1B99F45B656EF42E79FCD45198A95C4CA2772429"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Oklahoma City, Oklahoma County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930454226?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=82CE2B439AD75651277A903F04A4B0F11AB0958F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Talcott Village, Hartford County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930446400?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=64E0E7D73993BA9CDC75B66D0E9721E5A3DF6A4A"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Saint Paul, Ramsey County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930446144?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=9AFF74EC8220FA122B1DD149E17E44A5EBB26319"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Des Moines, Polk County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930445297?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=4A1396B6FFAFB9D8773376B0A5BE94F1C8E06CE6"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Annapolis, Anne Arundel County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930442041?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=467DE6CC91C6B7EBC52AE51D2FAA8C1EFE4785D6"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Cammack Village, Pulaski County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930430002?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=9838CBC3C510FC8252444FC83E7D05D44209E00F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Charleston, Kanawha County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930428988?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=C1426569CAFEE6B0F0B86523F35478175F74D546"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Jackson, Hinds County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930429020?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=A19AF35F8FE7B9E76FC963CA61209B4E4E25D90B"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Baton Rouge, East Baton Rouge Parish",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930428545?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=13890891B4569F7A542B663AEF73C7DF6D078592"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Bonnie, Utah County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930427789?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=5598F411FA44D53F782F4C917AC1D01D5E35AEEF"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Topeka, Shawnee County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930426228?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=4BCB2E2F64986273DFE8B32633C76BB45EE481C0"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "State House, Lancaster County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930424065?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=29B1489B615776D0115527247334E9BCE718619F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Carson Mall, Carson City",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930423939?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=5507F781B7D456FB3C5D877547DFF7EED43D3B89"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Glendale, Denver",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930423820?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=316870F5E7CFA65CBB8C2C7FD55B0E5CFB27122D"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "La Cienga, Santa Fe County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930422243?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=1AC8DEE85554B9F62C7A408B1F2D5B94BE43AE3F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Washington, D.C., US",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930417719?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=811C956160CFD3C320D9C6B94B2B81A6D0681602"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Boise, Ada County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930417165?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=2798F8FD55AE3F81CCCB1E2713611D918344E89F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Sacramento, Sacramento County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930396269?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=33B9EE3F19A685D738F974E26885C86C4E51AA76"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Montpelier, Washington County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5930041418?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=8F0BEB6773E1A0C7AE4BE8641750193224EA5814"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Providence, Providence County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929965990?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=6026CB0F1EA9D2466D00718DC22F676BABF035C3"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Pierre, Hughes County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929965843?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=5BCCA9119A8E18D38008F9AA85E35E6BDD280829"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Archer, Laramie County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929964267?se=Zta0PIbQ8RG17O__M5KguQ&utm_medium=api&utm_source=75b5032a&v=A67272F2900D2ECF8468203F9D39DD365DE111E1"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Douglas, Juneau",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/details/5929964253?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Wyoming, Kent County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929964166?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=C52D6C4CF5E9A61738F98CF7C42268C6A4EA7DCF"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Bismarck, Burleigh County",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929964120?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=CBA70C54508D29C947F10FF500FA02174FB682B4"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Urbanización El Vedado, San Juan",
-      "market": "Actuarial",
-      "posted": "2026-10-16",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929962188?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=1ADC3F9B056261490D6CB56D1C3D88A3E0903F9C"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Wake Island, Honolulu",
-      "market": "Actuarial",
-      "posted": "2026-10-15",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929777104?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=7047EDDCDFD9AAD2D43B2EEA3624B16AADF34C88"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Augusta, Kennebec County",
-      "market": "Actuarial",
-      "posted": "2026-10-15",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929776563?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=E4D8029EF61F17BCEA2ECC90A385BB802ED07B35"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Helena, Lewis and Clark County",
-      "market": "Actuarial",
-      "posted": "2026-10-15",
-      "postedAgeDays": 9,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929776557?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=B23CE43AB64B8A8E1749898519819DE5144E8A90"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst - Commercial P&C Insurance",
       "company": "EPIC Brokers",
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-10-16",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1466,7 +661,7 @@
       "location": "Bethesda, Montgomery County",
       "market": "Actuarial",
       "posted": "2026-10-16",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1481,7 +676,7 @@
       "location": "La Jolla, San Diego County",
       "market": "Actuarial",
       "posted": "2026-10-16",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -1497,7 +692,7 @@
       "location": "La Jolla, San Diego County",
       "market": "Actuarial",
       "posted": "2026-10-15",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1512,7 +707,7 @@
       "location": "Edina, Hennepin County",
       "market": "Actuarial",
       "posted": "2026-10-15",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1527,7 +722,7 @@
       "location": "Arlington, Arlington County",
       "market": "Life",
       "posted": "2026-10-16",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1541,56 +736,11 @@
     {
       "source": "Adzuna",
       "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Tarrytown, Travis County",
-      "market": "Actuarial",
-      "posted": "2026-10-15",
-      "postedAgeDays": 10,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/details/5929161445?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Concord, Merrimack County",
-      "market": "Actuarial",
-      "posted": "2026-10-15",
-      "postedAgeDays": 10,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/land/ad/5929143701?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=8D81631D3C52F45B5C14DE2F1EC23167674E669B"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "US",
-      "market": "Actuarial",
-      "posted": "2026-10-15",
-      "postedAgeDays": 10,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting analyzes and forecasts financial, economic, and other data to provide accurate and timely information for strategic and operational decisions. You will establish metrics, provide data analyses, and work directly to support business intelligence. You will evaluate industry, economic, financial, and market trends to forecast the organization's short, medium and long-term financial and competitive position. The Ac…",
-      "url": "https://www.adzuna.com/details/5928545068?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
       "company": "Arch Capital Group",
       "location": "Latham, Albany County",
       "market": "Life",
       "posted": "2026-10-15",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1606,7 +756,7 @@
       "location": "Holmdel, Monmouth County",
       "market": "Life",
       "posted": "2026-10-15",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1622,7 +772,7 @@
       "location": "Holmdel, Monmouth County",
       "market": "Life",
       "posted": "2026-10-15",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1638,7 +788,7 @@
       "location": "Bala Cynwyd, Montgomery County",
       "market": "Actuarial",
       "posted": "2026-10-14",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1653,7 +803,7 @@
       "location": "Brooklyn, Cuyahoga County",
       "market": "Health",
       "posted": "2026-10-14",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1668,7 +818,7 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-14",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1676,7 +826,7 @@
         "Reserving"
       ],
       "summary": "Embark on a Journey That Makes a Difference. At Redion, every day is an opportunity to help people explore the world with confidence. We’re not just in the business of protection—we’re in the business of adventure and peace of mind. Whether it’s a backpacker trekking through the Andes, a family cruising the Mediterranean, or a solo traveler chasing the Northern Lights, we’re there to ensure their journey is safe and supported. From assisting with emergency medical claims to guiding customers th…",
-      "url": "https://www.adzuna.com/land/ad/5927892406?se=ZFhSPYbQ8RGSXIvfObdgVQ&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
+      "url": "https://www.adzuna.com/land/ad/5927892406?se=poz_TWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
     },
     {
       "source": "Adzuna",
@@ -1685,7 +835,7 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-14",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1693,7 +843,7 @@
         "Reserving"
       ],
       "summary": "Embark on a Journey That Makes a Difference. At Redion, every day is an opportunity to help people explore the world with confidence. We’re not just in the business of protection—we’re in the business of adventure and peace of mind. Whether it’s a backpacker trekking through the Andes, a family cruising the Mediterranean, or a solo traveler chasing the Northern Lights, we’re there to ensure their journey is safe and supported. From assisting with emergency medical claims to guiding customers th…",
-      "url": "https://www.adzuna.com/land/ad/5927892406?se=BokwQYbQ8RG0GownEE_3tg&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
+      "url": "https://www.adzuna.com/land/ad/5927892406?se=YohJUWXR8RGaLvZ41xPXIA&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
     },
     {
       "source": "Adzuna",
@@ -1702,7 +852,7 @@
       "location": "Jersey City, Hudson County",
       "market": "Pricing/Reserving",
       "posted": "2026-10-14",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1710,156 +860,6 @@
       ],
       "summary": "hackajob is collaborating with Verisk to connect them with exceptional professionals for this role. Description Verisk is seeking an actuarial professional to join our Actuarial Initiatives team within Personal Lines, where you’ll help shape the products, insights, and analytics insurers rely on to make smarter pricing, underwriting, and risk decisions. This team supports a diverse portfolio spanning Personal Auto, Motorcycles, Personal Umbrella, Homeowners, Dwelling Property, and Pet Insurance…",
       "url": "https://www.adzuna.com/details/5927643042?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Capitol, Richmond",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/details/5923249441?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Norfolk, Norfolk City",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/details/5923249399?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Mason, Warren County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5923246417?se=SkEFQ4bQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=0064F7C30289164F03A8A971E964A81AA7142844"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Uptown, Marion County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5923225192?se=SkEFQ4bQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=D7420EC76242718790056C9ED9C140274C27FE80"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Atlanta, Fulton County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5923223789?se=SkEFQ4bQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=2E2D6BA0C5ADE563FBABDF4B2EBBCEF3BE8F2551"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Wellston, Saint Louis County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5923212006?se=SkEFQ4bQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=3FAF1DFBE5D7EC62A3D8F656A5633EEFDC1B5AF9"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Strathmoor Manor, Jefferson County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5923205844?se=SkEFQ4bQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=299793E61B4DE6FD9CAEA6B6D2AD53F93B1BD4FC"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Waukesha, Waukesha County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5923190050?se=SkEFQ4bQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=EABCCEDD5615DB16B4D36C0EBCDA8177B2D115A0"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Pico Heights, Los Angeles County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
-      "url": "https://www.adzuna.com/land/ad/5923111296?se=SkEFQ4bQ8RGrV9qPojDs1w&utm_medium=api&utm_source=75b5032a&v=B3BA5662A1FB94077C8123FB46FAE2DC646ABE38"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst I",
-      "company": "Elevance Health",
-      "location": "Atlanta, Fulton County",
-      "market": "Life",
-      "posted": "2026-10-11",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Anticipated End Date: 2026-11-06 Position Title: Actuarial Analyst I Job Description: Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a…",
-      "url": "https://www.adzuna.com/details/5922925695?utm_medium=api&utm_source=75b5032a"
     }
   ],
   "jobSearchLinks": [
