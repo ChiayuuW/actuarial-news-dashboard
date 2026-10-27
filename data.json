@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T17:47:23+00:00",
+  "generatedAt": "2026-10-27T16:57:56+00:00",
   "news": [
     {
       "title": "Retirement Practice Community: Longevity Linked Securities",
@@ -10,6 +10,16 @@
       "summary": "Mark Shemtob, FSA, MAAA, CFP®, sits down with Dario Fusato, Co-Founder of Savvly. Savvly has registered its new security offering with the Securities Exchange Commission. Mark and Dario's conversation includes a description of the security, why it was developed, where it will be available and future related securities.",
       "whyItMatters": "Relevant to mortality/longevity assumptions, experience studies, pricing, and reserves.",
       "url": "https://soapodcasts.libsyn.com/longevity-linked-securities"
+    },
+    {
+      "title": "HSA investing gap creates retirement planning risk for clients - InvestmentNews",
+      "source": "Google News: health insurance claims trend actuary Medi",
+      "category": "Health",
+      "priority": "Medium",
+      "published": "2026-10-27 10:34",
+      "summary": "HSA investing gap creates retirement planning risk for clients InvestmentNews",
+      "whyItMatters": "Relevant to claims trend, pricing, reserving, loss ratio analysis, and forecast assumptions.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzB1VnlpUml0VFFlajB3QlJxTGhJY0ZfUm8wV1p6ODlMaC1uaXlEVWtOOUFWZl9mRWREaWNpUzI0RXRfRHJSX28wQlAtdmU5MURKdThITUhneWFuRmZDcGFXek5aV292b3o1S1p4aXJyT1hNSm9oLXk4Y2ZMQ0pqZ003c1F6N2dNMDZqaDJhSi15R0ZKWG54cDIzb1d3bTFaVkhNa0hfZDNKajN3MTBFNm1UZlc5VFJ1NENqbQ?oc=5"
     },
     {
       "title": "Health Community: Rebalancing Risk in Gene Therapy & High-Cost Pharmaceuticals",
@@ -25,12 +35,27 @@
   "jobs": [
     {
       "source": "Adzuna",
+      "role": "Actuarial Assistant",
+      "company": "Farm Bureau Financial Services",
+      "location": "West Des Moines, Polk County",
+      "market": "Actuarial",
+      "posted": "2026-10-26",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Actuarial Assistant Will be filled at the appropriate level based on experience Would you like a career where you can develop your skills and take advantage of new opportunities? Do you have property/casualty insurance experience and are a strong data driven professional? Are you a self-starter who is detail oriented and able to prioritize multiple projects? If so, this actuarial opportunity could be a great fit for you! Who We Are: With Farm Bureau Financial Services, our client/members can fe…",
+      "url": "https://www.adzuna.com/land/ad/5942878772?se=IhzulSfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=EEB11A8ED71C6189E7DDA506199D3C5B7D8E6F58"
+    },
+    {
+      "source": "Adzuna",
       "role": "Insurance Actuarial Analyst 3",
       "company": "State of Ohio",
       "location": "Grandview Heights, Franklin County",
       "market": "Actuarial",
       "posted": "2026-10-25",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -45,7 +70,7 @@
       "location": "Warren, Somerset County",
       "market": "Actuarial",
       "posted": "2026-10-24",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -60,7 +85,7 @@
       "location": "Kansas City, Jackson County",
       "market": "Actuarial",
       "posted": "2026-10-24",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -75,7 +100,7 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -91,7 +116,7 @@
       "location": "Kansas City, Jackson County",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -109,7 +134,7 @@
       "location": "New York, US",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -126,7 +151,7 @@
       "location": "Madison, Dane County",
       "market": "Actuarial",
       "posted": "2026-10-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -141,7 +166,7 @@
       "location": "Phoenix, Maricopa County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -158,7 +183,7 @@
       "location": "Milam Dairy, Miami-Dade County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -173,13 +198,13 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing team in San Diego, CA! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, pr…",
-      "url": "https://www.adzuna.com/land/ad/5939579524?se=HFbVTGXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
+      "url": "https://www.adzuna.com/land/ad/5939579524?se=JEKvjifS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
     },
     {
       "source": "Adzuna",
@@ -188,13 +213,13 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing team in San Diego, CA! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, pr…",
-      "url": "https://www.adzuna.com/land/ad/5939579524?se=MKulT2XR8RGOEpOGFIgEig&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
+      "url": "https://www.adzuna.com/land/ad/5939579524?se=iMJykSfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
     },
     {
       "source": "Adzuna",
@@ -203,13 +228,13 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing team in San Diego, CA! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, pr…",
-      "url": "https://www.adzuna.com/land/ad/5939579524?se=fHx7UmXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
+      "url": "https://www.adzuna.com/land/ad/5939579524?se=IhzulSfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=864A2D1FB08CA3AB49316AAAC60C5F1F7020CA3C"
     },
     {
       "source": "Adzuna",
@@ -218,7 +243,7 @@
       "location": "Wooster, Wayne County",
       "market": "Life",
       "posted": "2026-10-22",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -233,7 +258,7 @@
       "location": "Indianapolis, Marion County",
       "market": "Life",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -248,7 +273,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-10-21",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -259,26 +284,11 @@
     {
       "source": "Adzuna",
       "role": "Actuarial Analyst",
-      "company": "HEREFORD INSURANCE COMPANY",
-      "location": "Astoria, Queens",
-      "market": "Actuarial",
-      "posted": "2026-10-21",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "We are looking for a self-driven candidate who is excited to uncover insights and make key strategic decisions to shape HIC’s fiscal year and future trajectory. Ideal candidates are self-starters, asking questions on their own and sharing insights and recommendations with the team. The actuarial analyst will be pivotal in shaping our company’s underwriting, developing an understanding where we are and where we are going. They will assist in the review and publication of internal rate studies an…",
-      "url": "https://www.adzuna.com/details/5936554639?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
       "company": "Frank Winston Crum Insurance",
       "location": "Clearwater, Pinellas County",
       "market": "Actuarial",
       "posted": "2026-10-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -288,18 +298,36 @@
     },
     {
       "source": "Adzuna",
+      "role": "Actuarial Analyst II (Medicare Part D)",
+      "company": "Independence Blue Cross",
+      "location": "Philadelphia, Philadelphia County",
+      "market": "Health",
+      "posted": "2026-10-21",
+      "postedAgeDays": 6,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "Excel",
+        "R",
+        "Pricing",
+        "Medicare"
+      ],
+      "summary": "Bring your drive for excellence, teamwork, and customer commitment to Independence. Join us as we renew and reimagine the future of health care. Together, we will achieve our mission to enhance the health and well-being of the people and communities we serve. We are seeking an actuarial professional with a background in Medicare Part D pricing to join our Government Markets team. This role will have meaningful responsibility for the development and ongoing enhancement of Part D pricing models, …",
+      "url": "https://www.adzuna.com/details/5936766616?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
       "role": "Administrative Assistant",
       "company": "Cheiron",
       "location": "Mc Lean, Fairfax County",
       "market": "Health",
       "posted": "2026-10-20",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Position Type : Full-time, Non-Exempt Probationary Period : First 6 months of employment About Cheiron: Cheiron is a rapidly growing employee-owned actuarial and financial consulting firm that is focused on providing health and pension actuarial consulting services to our clients (multiemployer, public sector, and some corporate). Our mission is to empower benefit plan sponsors to understand and better manage their benefit programs and their resulting financial risks through innovative technolo…",
-      "url": "https://www.adzuna.com/land/ad/5936194691?se=fHx7UmXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=7E733C4E4C85301A9ABD1525EAED844203E2353E"
+      "url": "https://www.adzuna.com/land/ad/5936194691?se=IhzulSfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=7E733C4E4C85301A9ABD1525EAED844203E2353E"
     },
     {
       "source": "Adzuna",
@@ -308,13 +336,13 @@
       "location": "Pimmit, Fairfax County",
       "market": "Health",
       "posted": "2026-10-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Position Type : Full-time, Non-Exempt Probationary Period : First 6 months of employment About Cheiron: Cheiron is a rapidly growing employee-owned actuarial and financial consulting firm that is focused on providing health and pension actuarial consulting services to our clients (multiemployer, public sector, and some corporate). Our mission is to empower benefit plan sponsors to understand and better manage their benefit programs and their resulting financial risks through innovative technolo…",
-      "url": "https://www.adzuna.com/land/ad/5936298048?se=fHx7UmXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=E581CB45C2BDBFD7A8BE3233551E99F22E2450B3"
+      "url": "https://www.adzuna.com/land/ad/5936298048?se=IhzulSfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=E581CB45C2BDBFD7A8BE3233551E99F22E2450B3"
     },
     {
       "source": "Adzuna",
@@ -323,7 +351,7 @@
       "location": "Addison, Dallas",
       "market": "Life",
       "posted": "2026-10-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -338,7 +366,7 @@
       "location": "Phoenix, Maricopa County",
       "market": "Pricing/Reserving",
       "posted": "2026-10-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -354,7 +382,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Pricing/Reserving",
       "posted": "2026-10-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -370,7 +398,7 @@
       "location": "Schaumburg, Cook County",
       "market": "Pricing/Reserving",
       "posted": "2026-10-21",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -386,7 +414,7 @@
       "location": "Atlantic Beach, Duval County",
       "market": "Actuarial",
       "posted": "2026-10-20",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -401,13 +429,13 @@
       "location": "Grand Central, Manhattan",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933266512?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
+      "url": "https://www.adzuna.com/land/ad/5933266512?se=HtY0jyfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
     },
     {
       "source": "Adzuna",
@@ -416,7 +444,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -431,13 +459,13 @@
       "location": "Boston, Suffolk County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933232316?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
+      "url": "https://www.adzuna.com/land/ad/5933232316?se=HtY0jyfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
     },
     {
       "source": "Adzuna",
@@ -446,13 +474,13 @@
       "location": "Minneapolis, Hennepin County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933224941?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
+      "url": "https://www.adzuna.com/land/ad/5933224941?se=HtY0jyfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
     },
     {
       "source": "Adzuna",
@@ -461,13 +489,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933210064?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
+      "url": "https://www.adzuna.com/land/ad/5933210064?se=HtY0jyfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
     },
     {
       "source": "Adzuna",
@@ -476,13 +504,13 @@
       "location": "Grand Central, Manhattan",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933266512?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
+      "url": "https://www.adzuna.com/land/ad/5933266512?se=dlVGlyfS8RGlzdqFMFvmRA&utm_medium=api&utm_source=75b5032a&v=8CF601095C8764167DA7F9A2155EE0607A858D93"
     },
     {
       "source": "Adzuna",
@@ -491,13 +519,13 @@
       "location": "Boston, Suffolk County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933232316?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
+      "url": "https://www.adzuna.com/land/ad/5933232316?se=dlVGlyfS8RGlzdqFMFvmRA&utm_medium=api&utm_source=75b5032a&v=5F6CF326DC2930FE0D484512CD7369AB33B7C44B"
     },
     {
       "source": "Adzuna",
@@ -506,13 +534,13 @@
       "location": "Minneapolis, Hennepin County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933224941?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
+      "url": "https://www.adzuna.com/land/ad/5933224941?se=dlVGlyfS8RGlzdqFMFvmRA&utm_medium=api&utm_source=75b5032a&v=57A738E05975B4C1D4EECB2854701B39D1A56309"
     },
     {
       "source": "Adzuna",
@@ -521,13 +549,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth-we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don't just build a career-you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your …",
-      "url": "https://www.adzuna.com/land/ad/5933210064?se=oAWlU2XR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
+      "url": "https://www.adzuna.com/land/ad/5933210064?se=dlVGlyfS8RGlzdqFMFvmRA&utm_medium=api&utm_source=75b5032a&v=059DC8AA6992FF022F79E5C004251DC0038E4745"
     },
     {
       "source": "Adzuna",
@@ -536,7 +564,7 @@
       "location": "Newport Beach, Orange County",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -551,7 +579,7 @@
       "location": "Addison, Dallas",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -566,7 +594,7 @@
       "location": "New York, US",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely <=3 years based on description",
       "skills": [
         "Python",
@@ -574,7 +602,7 @@
         "Rate Filing"
       ],
       "summary": "Actuarial Analyst Work for a company where your time is valued so your life can be as rewarding as your career. Over a century old insurance company is seeking an Actuarial Analyst who will perform ratemaking process for state rate filings by using AI & programming skills for commercial lines of business. (58955) Requirements: Bachelor's Degree Student Actuary 2 years of actuarial experience 3 or more CAS exams completed Able to learn new programming and AI applications Proficient in Python, SQ…",
-      "url": "https://www.adzuna.com/land/ad/5932978291?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=E9AB0E8E4EE807F7413E89377A7DEA58086EF716"
+      "url": "https://www.adzuna.com/land/ad/5932978291?se=HtY0jyfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=E9AB0E8E4EE807F7413E89377A7DEA58086EF716"
     },
     {
       "source": "Adzuna",
@@ -583,7 +611,7 @@
       "location": "Grand Central, Manhattan",
       "market": "Life",
       "posted": "2026-10-18",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely <=3 years based on description",
       "skills": [
         "Python",
@@ -591,7 +619,7 @@
         "Rate Filing"
       ],
       "summary": "Actuarial Analyst Work for a company where your time is valued so your life can be as rewarding as your career. Over a century old insurance company is seeking an Actuarial Analyst who will perform ratemaking process for state rate filings by using AI & programming skills for commercial lines of business. (58955) Requirements: Bachelor's Degree Student Actuary 2 years of actuarial experience 3 or more CAS exams completed Able to learn new programming and AI applications Proficient in Python, SQ…",
-      "url": "https://www.adzuna.com/land/ad/5933006957?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=6AF8410CA9C6D57BF8A6A439606DAF7E21E96163"
+      "url": "https://www.adzuna.com/land/ad/5933006957?se=HtY0jyfS8RGMGu9yML21tA&utm_medium=api&utm_source=75b5032a&v=6AF8410CA9C6D57BF8A6A439606DAF7E21E96163"
     },
     {
       "source": "Adzuna",
@@ -600,13 +628,13 @@
       "location": "Pittsburgh, Allegheny County",
       "market": "Actuarial",
       "posted": "2026-10-17",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Role Summary: Gathers and analyzes data and assets of defined benefit plans. Reconciles discrepancies. Determines eligibility and prepares contribution calculations to produce client reports and government filings. Checks work and maintains data integrity. Reviews, interprets and applies provisions of existing and new plan documents. Researches existing and new regulations and procedures. Operates independently on routine matters involving own client work while seeking daily guidance on complex…",
-      "url": "https://www.adzuna.com/land/ad/5932228833?se=poz_TWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=97979EFA71EA7B8B4BB3EE4C88D8E2306725A61C"
+      "url": "https://www.adzuna.com/land/ad/5932228833?se=xm7GjyfS8RGnNKlqPo-d_w&utm_medium=api&utm_source=75b5032a&v=97979EFA71EA7B8B4BB3EE4C88D8E2306725A61C"
     },
     {
       "source": "Adzuna",
@@ -615,13 +643,13 @@
       "location": "Bloomfield, Allegheny County",
       "market": "Actuarial",
       "posted": "2026-10-17",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Role Summary: Gathers and analyzes data and assets of defined benefit plans. Reconciles discrepancies. Determines eligibility and prepares contribution calculations to produce client reports and government filings. Checks work and maintains data integrity. Reviews, interprets and applies provisions of existing and new plan documents. Researches existing and new regulations and procedures. Operates independently on routine matters involving own client work while seeking daily guidance on complex…",
-      "url": "https://www.adzuna.com/land/ad/5932530881?se=OvhkTWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=28BEE5AD28464ED0B183B19E10EDB4C67C6B80C9"
+      "url": "https://www.adzuna.com/land/ad/5932530881?se=xm7GjyfS8RGnNKlqPo-d_w&utm_medium=api&utm_source=75b5032a&v=28BEE5AD28464ED0B183B19E10EDB4C67C6B80C9"
     },
     {
       "source": "Adzuna",
@@ -630,7 +658,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Health",
       "posted": "2026-10-17",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -646,7 +674,7 @@
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-10-16",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -661,7 +689,7 @@
       "location": "Bethesda, Montgomery County",
       "market": "Actuarial",
       "posted": "2026-10-16",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -676,7 +704,7 @@
       "location": "La Jolla, San Diego County",
       "market": "Actuarial",
       "posted": "2026-10-16",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -692,7 +720,7 @@
       "location": "La Jolla, San Diego County",
       "market": "Actuarial",
       "posted": "2026-10-15",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -707,7 +735,7 @@
       "location": "Edina, Hennepin County",
       "market": "Actuarial",
       "posted": "2026-10-15",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -722,7 +750,7 @@
       "location": "Arlington, Arlington County",
       "market": "Life",
       "posted": "2026-10-16",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -740,7 +768,7 @@
       "location": "Latham, Albany County",
       "market": "Life",
       "posted": "2026-10-15",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -756,7 +784,7 @@
       "location": "Holmdel, Monmouth County",
       "market": "Life",
       "posted": "2026-10-15",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -772,7 +800,7 @@
       "location": "Holmdel, Monmouth County",
       "market": "Life",
       "posted": "2026-10-15",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -788,7 +816,7 @@
       "location": "Bala Cynwyd, Montgomery County",
       "market": "Actuarial",
       "posted": "2026-10-14",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -803,7 +831,7 @@
       "location": "Brooklyn, Cuyahoga County",
       "market": "Health",
       "posted": "2026-10-14",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -818,7 +846,7 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-14",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -826,7 +854,7 @@
         "Reserving"
       ],
       "summary": "Embark on a Journey That Makes a Difference. At Redion, every day is an opportunity to help people explore the world with confidence. We’re not just in the business of protection—we’re in the business of adventure and peace of mind. Whether it’s a backpacker trekking through the Andes, a family cruising the Mediterranean, or a solo traveler chasing the Northern Lights, we’re there to ensure their journey is safe and supported. From assisting with emergency medical claims to guiding customers th…",
-      "url": "https://www.adzuna.com/land/ad/5927892406?se=poz_TWXR8RGh_oyDYnSS7w&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
+      "url": "https://www.adzuna.com/land/ad/5927892406?se=xm7GjyfS8RGnNKlqPo-d_w&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
     },
     {
       "source": "Adzuna",
@@ -835,7 +863,7 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-14",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -843,7 +871,7 @@
         "Reserving"
       ],
       "summary": "Embark on a Journey That Makes a Difference. At Redion, every day is an opportunity to help people explore the world with confidence. We’re not just in the business of protection—we’re in the business of adventure and peace of mind. Whether it’s a backpacker trekking through the Andes, a family cruising the Mediterranean, or a solo traveler chasing the Northern Lights, we’re there to ensure their journey is safe and supported. From assisting with emergency medical claims to guiding customers th…",
-      "url": "https://www.adzuna.com/land/ad/5927892406?se=YohJUWXR8RGaLvZ41xPXIA&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
+      "url": "https://www.adzuna.com/land/ad/5927892406?se=ZCd6lCfS8RGnNKlqPo-d_w&utm_medium=api&utm_source=75b5032a&v=3A3C7D34310CFAE59D757BA12DA2160E2313ADC7"
     },
     {
       "source": "Adzuna",
@@ -852,7 +880,7 @@
       "location": "Jersey City, Hudson County",
       "market": "Pricing/Reserving",
       "posted": "2026-10-14",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
