@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:58:30+00:00",
+  "generatedAt": "2026-11-05T19:10:08+00:00",
   "news": [
     {
       "title": "NAIC adopts AG 55 guidance for reinsurance reserve reporting - InsuranceNewsNet",
@@ -10,9 +10,130 @@
       "summary": "NAIC adopts AG 55 guidance for reinsurance reserve reporting InsuranceNewsNet",
       "whyItMatters": "Relevant to life valuation, asset adequacy testing, capital, reserve risk, and reinsurance governance.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbXhoZDVpNUNNcVJ0U0Z0WVJEWWM4a01iLXRoa1JVckpHNU9DTV9scXZFdkg5eFRNX211cHg1UFl5VnJQYlBiR2pBNDRLUFUzQm9OS3hWX1E3OTBjQ1d3WUVURkFCT3I4eUF6SUtNbVB6UW96QW9vY0paNlBmZnFON09OWUl2WkRKTHVjNENkWnNCWlZXWWctWUlkci1ybUNOcEE?oc=5"
+    },
+    {
+      "title": "Better Together",
+      "source": "The Actuary Magazine",
+      "category": "Career",
+      "priority": "Medium",
+      "published": "2026-11-01 19:57",
+      "summary": "As this report shows, the retirement landscape in Canada has been transforming over the last few decades. Shifting demographics and a challenging economic environment mean that Canadians are living longer, working in more varied ways, and taking on more of the responsibility and complexity of planning for retirement. Against this backdrop, as I’ve observed, pension […] The post Better Together appeared first on The A",
+      "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
+      "url": "https://www.theactuarymagazine.org/better-together/"
+    },
+    {
+      "title": "From Hours to Minutes",
+      "source": "The Actuary Magazine",
+      "category": "Career",
+      "priority": "Medium",
+      "published": "2026-11-01 20:04",
+      "summary": "As part of The Actuary Canada’s ongoing focus on AI and technology, I connected with Mike Wang, FCIA, Director of Shared Actuarial Operations at Sun Life in Toronto. Our discussion traced a series of technological transformations and reinforced the idea that companies may benefit from adaptable systems and close collaboration with technical experts. I’ve always […] The post From Hours to Minutes appeared first on The",
+      "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
+      "url": "https://www.theactuarymagazine.org/from-hours-to-minutes/"
+    },
+    {
+      "title": "With Patients in Mind …",
+      "source": "The Actuary Magazine",
+      "category": "Career",
+      "priority": "Medium",
+      "published": "2026-11-01 21:28",
+      "summary": "Leading health systems are implementing artificial Intelligence (AI) to increase operational efficiencies, lower costs and improve outcomes. In fact, generative AI (GenAI) is already changing how healthcare organizations analyze data, manage care and streamline administrative tasks. As healthcare systems implement more AI technology to improve operations, outcomes and patient experience, actuaries are serving as stra",
+      "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
+      "url": "https://www.theactuarymagazine.org/with-patients-in-mind/"
     }
   ],
   "jobs": [
+    {
+      "source": "Adzuna",
+      "role": "ACTUARIAL ANALYST - 43000657",
+      "company": "State of Florida",
+      "location": "Tallahassee, Leon County",
+      "market": "Actuarial",
+      "posted": "2026-11-04",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Requisition No: 886948 Agency: Office of Insurance Regulation Working Title: ACTUARIAL ANALYST - 43000657 Pay Plan: Career Service Position Number: 43000657 Salary: $53,000.04 Posting Closing Date: 11/18/2026 Total Compensation Estimator Tool OPEN COMPETITIVE EMPLOYMENT OPPORTUNITY OFFICE OF INSURANCE REGULATION BUREAU: PROPERTY & CASUALTY PRODUCT REVIEW CITY: TALLAHASSEE COUNTY: LEON The Florida Office of Insurance Regulation (OIR) strives to promote a stable and competitive insurance market …",
+      "url": "https://www.adzuna.com/details/5953649933?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Delos Insurance Solutions",
+      "location": "Tenderloin, San Francisco",
+      "market": "Actuarial",
+      "posted": "2026-11-04",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "Excel",
+        "R"
+      ],
+      "summary": "About Delos Insurance Solutions Delos Insurance Solutions is a technology-driven insurance company specializing in the Excess & Surplus (E&S) market. By leveraging innovative technology, automation, and data-driven insights, we’re transforming how complex property risks are evaluated and underwritten. As we continue to grow and expand into new markets, we remain committed to operational excellence, regulatory compliance, and delivering innovative insurance solutions. Position Overview Delos is …",
+      "url": "https://www.adzuna.com/details/5953745666?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Elevance Health",
+      "location": "Indianapolis, Marion County",
+      "market": "Life",
+      "posted": "2026-11-04",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Actuarial Analyst Anticipated job Posting End Date: 11/07/2026 Location: Woodland Hills, CA; Denver, CO; Wallingford, CT; Tampa, FL; Atlanta, GA; Chicago, IL; Indianapolis, IN; Louisville, KY; St. Louis, MO; Mason, OH; Norfolk, VA; Richmond, VA; Waukesha, WI This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with…",
+      "url": "https://www.adzuna.com/details/5953670610?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst I",
+      "company": "Elevance Health",
+      "location": "Atlanta, Fulton County",
+      "market": "Life",
+      "posted": "2026-11-04",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
+      "url": "https://www.adzuna.com/details/5953670583?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst II",
+      "company": "Elevance Health",
+      "location": "Indianapolis, Marion County",
+      "market": "Life",
+      "posted": "2026-11-05",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Anticipated End Date: 2026-11-16 Position Title: Actuarial Analyst II Job Description: Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a…",
+      "url": "https://www.adzuna.com/details/5954341030?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst II",
+      "company": "Elevance Health",
+      "location": "Indianapolis, Marion County",
+      "market": "Life",
+      "posted": "2026-11-04",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Actuarial Analyst II Location: This role requires associates to be in-office 1-2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual w…",
+      "url": "https://www.adzuna.com/details/5953670558?utm_medium=api&utm_source=75b5032a"
+    },
     {
       "source": "Adzuna",
       "role": "Actuarial Analyst",
@@ -20,7 +141,7 @@
       "location": "Jersey City, Hudson County",
       "market": "Actuarial",
       "posted": "2026-11-04",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -35,7 +156,7 @@
       "location": "Madison, Dane County",
       "market": "Actuarial",
       "posted": "2026-11-04",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -51,7 +172,7 @@
       "location": "Eden Prairie, Hennepin County",
       "market": "Health",
       "posted": "2026-11-04",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -66,7 +187,7 @@
       "location": "Saint Petersburg, Pinellas County",
       "market": "Pricing/Reserving",
       "posted": "2026-11-04",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -82,13 +203,13 @@
       "location": "San Antonio, Bexar County",
       "market": "Actuarial",
       "posted": "2026-11-02",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5950305033?se=3r8suoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=1CCA6DCF0BDE8B1718C99E7FE267096DC2E98B92"
+      "url": "https://www.adzuna.com/land/ad/5950305033?se=4oRahEzZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=75b5032a&v=1CCA6DCF0BDE8B1718C99E7FE267096DC2E98B92"
     },
     {
       "source": "Adzuna",
@@ -97,13 +218,13 @@
       "location": "San Antonio, Bexar County",
       "market": "Life",
       "posted": "2026-11-02",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5950304813?se=3r8suoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=7C99F5FF00AA93473EFDCD2AB03803B9199775FD"
+      "url": "https://www.adzuna.com/land/ad/5950304813?se=4oRahEzZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=75b5032a&v=7C99F5FF00AA93473EFDCD2AB03803B9199775FD"
     },
     {
       "source": "Adzuna",
@@ -112,13 +233,13 @@
       "location": "San Antonio, Bexar County",
       "market": "Life",
       "posted": "2026-11-02",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5950304813?se=2i2wvYHY8RGCm8pNBtrhDA&utm_medium=api&utm_source=75b5032a&v=7C99F5FF00AA93473EFDCD2AB03803B9199775FD"
+      "url": "https://www.adzuna.com/land/ad/5950304813?se=uIz7h0zZ8RGbcMICoEvUuw&utm_medium=api&utm_source=75b5032a&v=7C99F5FF00AA93473EFDCD2AB03803B9199775FD"
     },
     {
       "source": "Adzuna",
@@ -127,7 +248,7 @@
       "location": "Lansing, Ingham County",
       "market": "Actuarial",
       "posted": "2026-11-01",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -142,7 +263,7 @@
       "location": "Guaynabo, Puerto Rico",
       "market": "Actuarial",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -157,13 +278,13 @@
       "location": "Mason, Warren County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5948005307?se=3r8suoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=0F8735408F2AEEBF9B76853194ECAE0F6EC2B06C"
+      "url": "https://www.adzuna.com/land/ad/5948005307?se=4oRahEzZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=75b5032a&v=0F8735408F2AEEBF9B76853194ECAE0F6EC2B06C"
     },
     {
       "source": "Adzuna",
@@ -172,7 +293,7 @@
       "location": "Tampa, Hillsborough County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -187,13 +308,13 @@
       "location": "Uptown, Marion County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5947989943?se=3r8suoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=FEE8BC23CB0125431A4DF2CABB3D6095181BEF87"
+      "url": "https://www.adzuna.com/land/ad/5947989943?se=shv9hEzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=75b5032a&v=FEE8BC23CB0125431A4DF2CABB3D6095181BEF87"
     },
     {
       "source": "Adzuna",
@@ -202,13 +323,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5947984803?se=3r8suoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=2AC23861D542EB359003743A93EA7A4B5D85C069"
+      "url": "https://www.adzuna.com/land/ad/5947984803?se=shv9hEzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=75b5032a&v=2AC23861D542EB359003743A93EA7A4B5D85C069"
     },
     {
       "source": "Adzuna",
@@ -217,13 +338,13 @@
       "location": "Wellston, Saint Louis County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5947979172?se=3r8suoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=58B010AF57A9E5634AA427DDEC5719304516C8D3"
+      "url": "https://www.adzuna.com/land/ad/5947979172?se=shv9hEzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=75b5032a&v=58B010AF57A9E5634AA427DDEC5719304516C8D3"
     },
     {
       "source": "Adzuna",
@@ -232,7 +353,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -247,7 +368,7 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-10-30",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -262,13 +383,13 @@
       "location": "Mason, Warren County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5948005307?se=Dlqov4HY8RG2ba2xaTjwAg&utm_medium=api&utm_source=75b5032a&v=0F8735408F2AEEBF9B76853194ECAE0F6EC2B06C"
+      "url": "https://www.adzuna.com/land/ad/5948005307?se=mJaciUzZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=75b5032a&v=0F8735408F2AEEBF9B76853194ECAE0F6EC2B06C"
     },
     {
       "source": "Adzuna",
@@ -277,13 +398,13 @@
       "location": "Uptown, Marion County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5947989943?se=Dlqov4HY8RG2ba2xaTjwAg&utm_medium=api&utm_source=75b5032a&v=FEE8BC23CB0125431A4DF2CABB3D6095181BEF87"
+      "url": "https://www.adzuna.com/land/ad/5947989943?se=mJaciUzZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=75b5032a&v=FEE8BC23CB0125431A4DF2CABB3D6095181BEF87"
     },
     {
       "source": "Adzuna",
@@ -292,13 +413,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5947984803?se=Dlqov4HY8RG2ba2xaTjwAg&utm_medium=api&utm_source=75b5032a&v=2AC23861D542EB359003743A93EA7A4B5D85C069"
+      "url": "https://www.adzuna.com/land/ad/5947984803?se=mJaciUzZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=75b5032a&v=2AC23861D542EB359003743A93EA7A4B5D85C069"
     },
     {
       "source": "Adzuna",
@@ -307,13 +428,13 @@
       "location": "Wellston, Saint Louis County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst III Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtua…",
-      "url": "https://www.adzuna.com/land/ad/5947979172?se=Dlqov4HY8RG2ba2xaTjwAg&utm_medium=api&utm_source=75b5032a&v=58B010AF57A9E5634AA427DDEC5719304516C8D3"
+      "url": "https://www.adzuna.com/land/ad/5947979172?se=mJaciUzZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=75b5032a&v=58B010AF57A9E5634AA427DDEC5719304516C8D3"
     },
     {
       "source": "Adzuna",
@@ -322,13 +443,13 @@
       "location": "Charlotte, Mecklenburg County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "San Antonio Home Office I Charlotte, NC - CENTS Plano Legacy Full time R0120736 Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values - honesty, integrity, loyalty and service - define how we treat each other and our members. Be part of what truly makes us…",
-      "url": "https://www.adzuna.com/land/ad/5948016286?se=3r8suoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=5388847EFDCBA394A1A2249B6806B61BE9A50BFF"
+      "url": "https://www.adzuna.com/land/ad/5948016286?se=4oRahEzZ8RGiyLcWFRyVsw&utm_medium=api&utm_source=75b5032a&v=5388847EFDCBA394A1A2249B6806B61BE9A50BFF"
     },
     {
       "source": "Adzuna",
@@ -337,13 +458,13 @@
       "location": "Charlotte, Mecklenburg County",
       "market": "Life",
       "posted": "2026-10-31",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "San Antonio Home Office I Charlotte, NC - CENTS Plano Legacy Full time R0120736 Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values - honesty, integrity, loyalty and service - define how we treat each other and our members. Be part of what truly makes us…",
-      "url": "https://www.adzuna.com/land/ad/5948016286?se=2i2wvYHY8RGCm8pNBtrhDA&utm_medium=api&utm_source=75b5032a&v=5388847EFDCBA394A1A2249B6806B61BE9A50BFF"
+      "url": "https://www.adzuna.com/land/ad/5948016286?se=uIz7h0zZ8RGbcMICoEvUuw&utm_medium=api&utm_source=75b5032a&v=5388847EFDCBA394A1A2249B6806B61BE9A50BFF"
     },
     {
       "source": "Adzuna",
@@ -352,7 +473,7 @@
       "location": "Oklahoma City, Oklahoma County",
       "market": "Actuarial",
       "posted": "2026-10-30",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -367,7 +488,7 @@
       "location": "Cedar Rapids, Linn County",
       "market": "Actuarial",
       "posted": "2026-10-30",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -377,27 +498,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Humana",
-      "location": "Capitol, Richmond",
-      "market": "Health",
-      "posted": "2026-10-30",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/details/5946885018?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Production Analyst",
       "company": "EXL",
       "location": "US",
       "market": "Life",
       "posted": "2026-10-30",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -408,79 +514,19 @@
     },
     {
       "source": "Adzuna",
-      "role": "Life Actuarial Analyst",
-      "company": "USAA",
-      "location": "Charlotte, Mecklenburg County",
-      "market": "Life",
-      "posted": "2026-10-30",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5946634137?se=Jn-nuoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=D56E12713AB3A4524B1CA627EB856CDB2DE08C5F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Life Actuarial Analyst",
-      "company": "USAA",
-      "location": "Plano, Collin County",
-      "market": "Life",
-      "posted": "2026-10-30",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5946634135?se=Jn-nuoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=E2192D1CA4EFE5BCB6DB1DC099352F928967B609"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Life Actuarial Analyst",
-      "company": "USAA",
-      "location": "Charlotte, Mecklenburg County",
-      "market": "Life",
-      "posted": "2026-10-30",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5946634137?se=2i2wvYHY8RGCm8pNBtrhDA&utm_medium=api&utm_source=75b5032a&v=D56E12713AB3A4524B1CA627EB856CDB2DE08C5F"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Life Actuarial Analyst",
-      "company": "USAA",
-      "location": "Plano, Collin County",
-      "market": "Life",
-      "posted": "2026-10-30",
-      "postedAgeDays": 5,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5946634135?se=2i2wvYHY8RGCm8pNBtrhDA&utm_medium=api&utm_source=75b5032a&v=E2192D1CA4EFE5BCB6DB1DC099352F928967B609"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst II - Pricing (Remote)",
       "company": "CareFirst",
       "location": "Druid, Baltimore",
       "market": "Pricing/Reserving",
       "posted": "2026-10-30",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Pricing"
       ],
       "summary": "Resp & Qualifications PURPOSE: The Actuarial Analyst II will perform individual project tasks as requested, execute calculations of moderate complexity, and understand concepts of actuarial analysis that are of varying complexity. The incumbent is responsible for utilizing various sources to procure data and then turning that data into meaningful information, as well as fulfilling ad hoc requests ESSENTIAL FUNCTIONS: Reviews and organizes actuarial and operational data for .use in a variety of…",
-      "url": "https://www.adzuna.com/land/ad/5946801815?se=Jn-nuoHY8RGYkYko2GiSyg&utm_medium=api&utm_source=75b5032a&v=BED1C0CA418A4C7B0E39AD777517BF1CFEA7DA56"
+      "url": "https://www.adzuna.com/land/ad/5946801815?se=shv9hEzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=75b5032a&v=BED1C0CA418A4C7B0E39AD777517BF1CFEA7DA56"
     },
     {
       "source": "Adzuna",
@@ -489,7 +535,7 @@
       "location": "Highlandtown, Baltimore",
       "market": "Pricing/Reserving",
       "posted": "2026-10-30",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -505,14 +551,14 @@
       "location": "Druid, Baltimore",
       "market": "Pricing/Reserving",
       "posted": "2026-10-30",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
         "Pricing"
       ],
       "summary": "Resp & Qualifications PURPOSE: The Actuarial Analyst II will perform individual project tasks as requested, execute calculations of moderate complexity, and understand concepts of actuarial analysis that are of varying complexity. The incumbent is responsible for utilizing various sources to procure data and then turning that data into meaningful information, as well as fulfilling ad hoc requests ESSENTIAL FUNCTIONS: Reviews and organizes actuarial and operational data for .use in a variety of…",
-      "url": "https://www.adzuna.com/land/ad/5946801815?se=csskvoHY8RGCm8pNBtrhDA&utm_medium=api&utm_source=75b5032a&v=BED1C0CA418A4C7B0E39AD777517BF1CFEA7DA56"
+      "url": "https://www.adzuna.com/land/ad/5946801815?se=lLJOiEzZ8RG4vr3URdSNKw&utm_medium=api&utm_source=75b5032a&v=BED1C0CA418A4C7B0E39AD777517BF1CFEA7DA56"
     },
     {
       "source": "Adzuna",
@@ -521,7 +567,7 @@
       "location": "Edina, Hennepin County",
       "market": "Pricing/Reserving",
       "posted": "2026-10-28",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -539,7 +585,7 @@
       "location": "Grandview Heights, Franklin County",
       "market": "Actuarial",
       "posted": "2026-10-25",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -554,7 +600,7 @@
       "location": "Warren, Somerset County",
       "market": "Actuarial",
       "posted": "2026-10-24",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -569,7 +615,7 @@
       "location": "Kansas City, Jackson County",
       "market": "Actuarial",
       "posted": "2026-10-24",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -584,7 +630,7 @@
       "location": "San Diego, San Diego County",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -600,7 +646,7 @@
       "location": "Kansas City, Jackson County",
       "market": "Health",
       "posted": "2026-10-24",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -613,12 +659,29 @@
     },
     {
       "source": "Adzuna",
+      "role": "Actuarial Analyst, Valuation",
+      "company": "Oscar Health",
+      "location": "New York, US",
+      "market": "Health",
+      "posted": "2026-10-24",
+      "postedAgeDays": 12,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Valuation",
+        "ACA"
+      ],
+      "summary": "Hi, we're Oscar. We're hiring a Actuarial Analyst II - Valuation to join our Actuarial team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Analyst II, Actuarial maintains Oscar's valuation processes for a number of Affordable Care Act (ACA) m…",
+      "url": "https://www.adzuna.com/details/5940083898?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
       "role": "Assistant Professor in Actuarial Science",
       "company": "University of Wisconsin Madison",
       "location": "Madison, Dane County",
       "market": "Actuarial",
       "posted": "2026-10-23",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -633,7 +696,7 @@
       "location": "Phoenix, Maricopa County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -650,7 +713,7 @@
       "location": "Milam Dairy, Miami-Dade County",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -662,46 +725,16 @@
       "source": "Adzuna",
       "role": "Health Actuarial Analyst",
       "company": "Brown & Brown",
-      "location": "San Diego, San Diego County",
+      "location": "US",
       "market": "Health",
       "posted": "2026-10-23",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing San Diego, CA team! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, provi…",
-      "url": "https://www.adzuna.com/land/ad/5938939918?se=QKzDu4HY8RG2ba2xaTjwAg&utm_medium=api&utm_source=75b5032a&v=403FA921C65CB12DDEDE77774020737B5E1E8EA1"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Health Actuarial Analyst",
-      "company": "Brown & Brown",
-      "location": "San Diego, San Diego County",
-      "market": "Health",
-      "posted": "2026-10-23",
-      "postedAgeDays": 12,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing San Diego, CA team! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, provi…",
-      "url": "https://www.adzuna.com/land/ad/5938939918?se=lJYzvYHY8RGC6fwCFn8E0A&utm_medium=api&utm_source=75b5032a&v=403FA921C65CB12DDEDE77774020737B5E1E8EA1"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Health Actuarial Analyst",
-      "company": "Brown & Brown",
-      "location": "San Diego, San Diego County",
-      "market": "Health",
-      "posted": "2026-10-23",
-      "postedAgeDays": 12,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Health Actuarial Analyst to join our growing San Diego, CA team! The Health Actuarial Analyst will manage financial analyses for actuarial projects, assist in strategy development for various benefit programs, while ensuring compliance with regulations and corporate policies. Additionally, they will research industry trends, provi…",
-      "url": "https://www.adzuna.com/land/ad/5938939918?se=Dlqov4HY8RG2ba2xaTjwAg&utm_medium=api&utm_source=75b5032a&v=403FA921C65CB12DDEDE77774020737B5E1E8EA1"
+      "url": "https://www.adzuna.com/details/5938939918?utm_medium=api&utm_source=75b5032a"
     },
     {
       "source": "Adzuna",
@@ -710,76 +743,13 @@
       "location": "Wooster, Wayne County",
       "market": "Life",
       "posted": "2026-10-22",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "The Actuarial Analyst provides complete and accurate information for use by management in determining rate levels and/or adequate loss and loss adjustment expense reserves. The Actuarial Analyst will assist in implementing rate change decisions. While this position is posted at the entry level, candidates with additional experience and qualifications may be considered for a higher-level position and corresponding salary. Salary Grade (11) 63,994 - 81,592 - 99,191 ESSENTIAL DUTIES AND RESPONSIBI…",
       "url": "https://www.adzuna.com/details/5937583822?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Frank Winston Crum Insurance",
-      "location": "Clearwater, Pinellas County",
-      "market": "Actuarial",
-      "posted": "2026-10-21",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "FrankCrum is a Top Workplace! Frank Winston Crum Insurance (FWCI) issues Workers’ Compensation and General Liability policies by offering flexible coverage and payment options to meet the varied needs of businesses. Over the years, FWCI has grown from a single-state insurance carrier to one that is licensed in 37 states and continues to expand. In addition to regional and product line growth, FWCI has enhanced its value-added services. What has not changed though is the firm’s commitment – echo…",
-      "url": "https://www.adzuna.com/details/5936339759?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst",
-      "company": "Beyond Risk Management",
-      "location": "Phoenix, Maricopa County",
-      "market": "Pricing/Reserving",
-      "posted": "2026-10-21",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "Reserving"
-      ],
-      "summary": "Most early-career actuarial roles give you a narrow view of the business. At GPW and Associates, Inc. (GPW), you'll gain exposure to the bigger picture and work directly with experienced actuaries to serve clients across a variety of industries and insurance programs. As an Actuarial Analyst, you will gain hands-on experience with reviewing and compiling large quantities of client data in support of actuarial reserving analyses. As a Property and Casualty (P&C) consulting firm, GPW specializes …",
-      "url": "https://www.adzuna.com/details/5936490442?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst - Reserving Transformation",
-      "company": "Zurich NA",
-      "location": "Illinois Medical District, Chicago",
-      "market": "Pricing/Reserving",
-      "posted": "2026-10-21",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "Reserving"
-      ],
-      "summary": "Actuarial Analyst - Reserving Transformation 137568 Zurich North America is currently looking for an Actuarial Analyst to join our Actuarial Reserving Transformation team. This role is a hybrid in-office role based in our Schaumburg, IL office. In this role, you will be responsible for the following: Support actuarial transformation initiatives, including process simplification and modernization, Group tool adoption, automation, and continuous improvement Help shape and implement Agentic AI o…",
-      "url": "https://www.adzuna.com/details/5936649231?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
-      "role": "Actuarial Analyst - Reserving Transformation",
-      "company": "Zurich NA",
-      "location": "Schaumburg, Cook County",
-      "market": "Pricing/Reserving",
-      "posted": "2026-10-21",
-      "postedAgeDays": 14,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "Reserving"
-      ],
-      "summary": "Actuarial Analyst - Reserving Transformation 137568 Zurich North America is currently looking for an Actuarial Analyst to join our Actuarial Reserving Transformation team. This role is a hybrid in-office role based in our Schaumburg, IL office. In this role, you will be responsible for the following: Support actuarial transformation initiatives, including process simplification and modernization, Group tool adoption, automation, and continuous improvement Help shape and implement Agentic AI o…",
-      "url": "https://www.adzuna.com/details/5936649230?utm_medium=api&utm_source=75b5032a"
     }
   ],
   "jobSearchLinks": [
