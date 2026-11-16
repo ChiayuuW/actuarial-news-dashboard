@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:06:09+00:00",
+  "generatedAt": "2026-11-16T21:21:34+00:00",
   "news": [
     {
       "title": "Designing Stable Income",
@@ -35,12 +35,42 @@
   "jobs": [
     {
       "source": "Adzuna",
+      "role": "Actuarial Analyst II",
+      "company": "USAA",
+      "location": "San Antonio, Bexar County",
+      "market": "Actuarial",
+      "posted": "2026-11-16",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
+      "url": "https://www.adzuna.com/land/ad/5967534545?se=WipxswPi8RGkFs9JnLiCSw&utm_medium=api&utm_source=75b5032a&v=219CCB19E01F6938B97999B03624710C6AA2EA54"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Assistant",
+      "company": "Farm Bureau Financial Services",
+      "location": "West Des Moines, Polk County",
+      "market": "Actuarial",
+      "posted": "2026-11-15",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Actuarial Assistant Will be filled at the appropriate level based on experience Would you like a career where you can develop your skills and take advantage of new opportunities? Do you have property/casualty insurance experience and are a strong data driven professional? Are you a self-starter who is detail oriented and able to prioritize multiple projects? If so, this actuarial opportunity could be a great fit for you! Who We Are: With Farm Bureau Financial Services, our client/members can fe…",
+      "url": "https://www.adzuna.com/land/ad/5967252578?se=rtACuQPi8RGKIvC2vXf4Dw&utm_medium=api&utm_source=75b5032a&v=3316D16C06DD4ED8F3F2CE110B83770A592A124F"
+    },
+    {
+      "source": "Adzuna",
       "role": "Actuarial Analyst IV",
       "company": "Univera Healthcare",
       "location": "Rochester, Monroe County",
       "market": "Health",
       "posted": "2026-11-15",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -55,7 +85,7 @@
       "location": "Rochester, Monroe County",
       "market": "Health",
       "posted": "2026-11-15",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -70,7 +100,7 @@
       "location": "Meadows, Hudson County",
       "market": "Pricing/Reserving",
       "posted": "2026-11-14",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -87,7 +117,7 @@
       "location": "Morristown, Morris County",
       "market": "Health",
       "posted": "2026-11-13",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -103,7 +133,7 @@
       "location": "Sprinkle, Travis County",
       "market": "Health",
       "posted": "2026-11-11",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -118,7 +148,7 @@
       "location": "Latham, Albany County",
       "market": "Life",
       "posted": "2026-11-11",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -134,7 +164,7 @@
       "location": "Tallahassee, Leon County",
       "market": "Health",
       "posted": "2026-11-09",
-      "postedAgeDays": 5,
+      "postedAgeDays": 6,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -149,7 +179,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -164,7 +194,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -179,13 +209,13 @@
       "location": "Nashville, Davidson County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex TX - Richardson TN - Nashville IL - Chicago Full time R0056287 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a purpose-driven company that will invest in your professional development. Job Summary This position is responsible for participating in implementation, maintenance and basic analysis of models, st…",
-      "url": "https://www.adzuna.com/land/ad/5958203111?se=prXNPB_h8RG3UKJUaLg__w&utm_medium=api&utm_source=75b5032a&v=8895FED1B3DAB2913BA6117955BC08B04D49FBBD"
+      "url": "https://www.adzuna.com/land/ad/5958203111?se=WipxswPi8RGkFs9JnLiCSw&utm_medium=api&utm_source=75b5032a&v=8895FED1B3DAB2913BA6117955BC08B04D49FBBD"
     },
     {
       "source": "Adzuna",
@@ -194,13 +224,13 @@
       "location": "Nashville, Davidson County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5958203042?se=prXNPB_h8RG3UKJUaLg__w&utm_medium=api&utm_source=75b5032a&v=13E4D69EEDE447D134C833698A510FAEC09DF765"
+      "url": "https://www.adzuna.com/land/ad/5958203042?se=WipxswPi8RGkFs9JnLiCSw&utm_medium=api&utm_source=75b5032a&v=13E4D69EEDE447D134C833698A510FAEC09DF765"
     },
     {
       "source": "Adzuna",
@@ -209,13 +239,13 @@
       "location": "Williams, Tulsa County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5958177906?se=prXNPB_h8RG3UKJUaLg__w&utm_medium=api&utm_source=75b5032a&v=8C1760DD592F84B0003FE5564CA4098A884F7DBE"
+      "url": "https://www.adzuna.com/land/ad/5958177906?se=zE4HtAPi8RGoBo_phxaFfw&utm_medium=api&utm_source=75b5032a&v=8C1760DD592F84B0003FE5564CA4098A884F7DBE"
     },
     {
       "source": "Adzuna",
@@ -224,13 +254,13 @@
       "location": "Village of Los Ranchos, Bernalillo County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5958145902?se=TJNWPx_h8RG3UKJUaLg__w&utm_medium=api&utm_source=75b5032a&v=38209198AC484775412EF7987F19A4013F622F0D"
+      "url": "https://www.adzuna.com/land/ad/5958145902?se=zE4HtAPi8RGoBo_phxaFfw&utm_medium=api&utm_source=75b5032a&v=38209198AC484775412EF7987F19A4013F622F0D"
     },
     {
       "source": "Adzuna",
@@ -239,7 +269,7 @@
       "location": "Chicago, Cook County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -254,7 +284,7 @@
       "location": "Richardson, Dallas",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -269,13 +299,13 @@
       "location": "Helena, Lewis and Clark County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5957703084?se=TJNWPx_h8RG3UKJUaLg__w&utm_medium=api&utm_source=75b5032a&v=F5A3BC62FBE0EE40D7F35937D4AC63950A57A85B"
+      "url": "https://www.adzuna.com/land/ad/5957703084?se=zE4HtAPi8RGoBo_phxaFfw&utm_medium=api&utm_source=75b5032a&v=F5A3BC62FBE0EE40D7F35937D4AC63950A57A85B"
     },
     {
       "source": "Adzuna",
@@ -284,13 +314,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst - AS08CE We're determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals - and to help others accomplish theirs, too. Join our team as we help shape the future. This position plays a key role for the General Liability LOB Actuarial team and will be supporting the Loss Ratio Planning and Trend monitoring for GL, Umbrella, and Excess lines. The candidate…",
-      "url": "https://www.adzuna.com/land/ad/5958173581?se=prXNPB_h8RG3UKJUaLg__w&utm_medium=api&utm_source=75b5032a&v=DC527FE4D4CEC31F76291C46697818FCA64D1A02"
+      "url": "https://www.adzuna.com/land/ad/5958173581?se=zE4HtAPi8RGoBo_phxaFfw&utm_medium=api&utm_source=75b5032a&v=DC527FE4D4CEC31F76291C46697818FCA64D1A02"
     },
     {
       "source": "Adzuna",
@@ -299,7 +329,7 @@
       "location": "Hartford, Hartford County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -314,7 +344,7 @@
       "location": "Albany, Albany County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 7,
+      "postedAgeDays": 8,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -324,28 +354,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Actuarial Assistant",
-      "company": "BlueCross BlueShield of Tennessee",
-      "location": "Ridgeside, Hamilton County",
-      "market": "Life",
-      "posted": "2026-11-08",
-      "postedAgeDays": 7,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R",
-        "Risk Adjustment"
-      ],
-      "summary": "Remote USA, TN, Chattanooga, Remote Full time R\\-51993 We are hiring an entry\\-level actuarial student to join the Actuarial Division at BCBST\\ In this role, you'll work with various actuarial models to set reserves, estimate and review risk adjustment, produce monthly forecasts, and develop premiums for our lines of business\\. You'll have the opportunity to help shape how AI is used within Actuarial, working with the latest AI models and development tools to build new applications, automate wo…",
-      "url": "https://www.adzuna.com/land/ad/5958210777?se=zMZdTR_h8RGNl561rfNY_A&utm_medium=api&utm_source=75b5032a&v=7CC867979CA073F230BD6698CF6BC3E785D3DD52"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst",
       "company": "HCSC",
       "location": "Buckingham, Dallas",
       "market": "Actuarial",
       "posted": "2026-11-07",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -360,7 +374,7 @@
       "location": "Buckingham, Dallas",
       "market": "Actuarial",
       "posted": "2026-11-07",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -375,7 +389,7 @@
       "location": "Jersey City, Hudson County",
       "market": "Pricing/Reserving",
       "posted": "2026-11-06",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -391,7 +405,7 @@
       "location": "Sheboygan, Sheboygan County",
       "market": "Pricing/Reserving",
       "posted": "2026-11-06",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -407,7 +421,7 @@
       "location": "Tallahassee, Leon County",
       "market": "Actuarial",
       "posted": "2026-11-04",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -422,7 +436,7 @@
       "location": "Tenderloin, San Francisco",
       "market": "Actuarial",
       "posted": "2026-11-04",
-      "postedAgeDays": 10,
+      "postedAgeDays": 11,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "Excel",
@@ -438,7 +452,7 @@
       "location": "Jersey City, Hudson County",
       "market": "Actuarial",
       "posted": "2026-11-04",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -453,7 +467,7 @@
       "location": "Saint Petersburg, Pinellas County",
       "market": "Pricing/Reserving",
       "posted": "2026-11-04",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
