@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:41:42+00:00",
+  "generatedAt": "2026-11-20T19:20:37+00:00",
   "news": [
     {
       "title": "10 High-Demand Careers Young South Africans Should Consider - Youth Village",
@@ -30,39 +30,56 @@
       "summary": "Host Ankit Nanda, FSA, MAAA, FCA, speaks with Eric Berg, Chief Operating Officer at HM Insurance Group, about what happens to a policy after the rate is set. Drawing on a career spanning legal practice, reinsurance claims, and carrier operations, the conversation ranges across site of care and method of delivery, pharmacy, cost volatility, balance billing, COVID's operational aftermath, and the blind spots actuaries ",
       "whyItMatters": "Relevant to claims trend, pricing, reserving, loss ratio analysis, and forecast assumptions.",
       "url": "https://soapodcasts.libsyn.com/health-community-after-the-rate-is-set-an-operations-and-claims-perspective-for-health-actuaries"
-    },
-    {
-      "title": "Designing Stable Income",
-      "source": "The Actuary Magazine",
-      "category": "Career",
-      "priority": "Medium",
-      "published": "2026-11-13 14:24",
-      "summary": "Retirement systems in Canada and the United States have been moving away from traditional defined-benefit pensions and toward arrangements in which individuals bear responsibility for managing their retirement savings.1 Many retirees now reach retirement with accumulated balances in defined contribution plans or similar vehicles, but without a clear path for turning those assets into reliable […] The post Designing S",
-      "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
-      "url": "https://www.theactuarymagazine.org/designing-stable-income/"
-    },
-    {
-      "title": "Outside the Traditional Lane",
-      "source": "The Actuary Magazine",
-      "category": "Career",
-      "priority": "Medium",
-      "published": "2026-11-13 14:23",
-      "summary": "Throughout my career, I’ve found it surprisingly difficult to define what an actuary does because the profession’s skills apply across such a wide range of problems. Traditionally, the profession has been defined by its role in the insurance industry. Actuaries use their skills in mathematics, statistics, and finance to price insurance products, value liabilities, and […] The post Outside the Traditional Lane appeare",
-      "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
-      "url": "https://www.theactuarymagazine.org/outside-the-traditional-lane/"
-    },
-    {
-      "title": "Risk, Reimagined",
-      "source": "The Actuary Magazine",
-      "category": "Career",
-      "priority": "Medium",
-      "published": "2026-11-13 14:22",
-      "summary": "For The Actuary Asia’s November issue, we’re pleased to share the story of Taik Ki (TK) Lee, FSA, Managing Director and APAC Head of Aon Life Advisory and Solutions. For TK, actuarial science has always been a bridge between analytical rigor and strategic business decision-making. In this Q&A, he details how his work experience and […] The post Risk, Reimagined appeared first on The Actuary Magazine .",
-      "whyItMatters": "Relevant to actuarial career awareness, market terminology, analytics skills, and interview talking points.",
-      "url": "https://www.theactuarymagazine.org/risk-reimagined/"
     }
   ],
   "jobs": [
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst II",
+      "company": "KAISER",
+      "location": "Pasadena, Los Angeles County",
+      "market": "Health",
+      "posted": "2026-11-20",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Valuation",
+        "ACA"
+      ],
+      "summary": "Candidates must have passed at least 4 actuarial exams toward an ASA or ACAS certification to be considered. Job Summary: This individual contributor is primarily responsible for providing support for researching and determining the likelihood of financial risk to the organization, reviewing actuarial documentation for accuracy, supporting product line evaluation and actuarial modeling, and supporting financial risk and opportunity analyses. Essential Responsibilities: Pursues self-development …",
+      "url": "https://www.adzuna.com/details/5972772716?utm_medium=api&utm_source=75b5032a"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst I",
+      "company": "Elevance Health",
+      "location": "Northlake, DeKalb County",
+      "market": "Life",
+      "posted": "2026-11-20",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
+      "url": "https://www.adzuna.com/land/ad/5972666208?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=38120C44046A7B2E63EDE7904D8324182FC83B4D"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst I",
+      "company": "Elevance Health",
+      "location": "Northlake, DeKalb County",
+      "market": "Life",
+      "posted": "2026-11-20",
+      "postedAgeDays": 0,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Actuarial Analyst I Location: This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our policy on hybrid/virtual w…",
+      "url": "https://www.adzuna.com/land/ad/5972666208?se=3uIUgBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=38120C44046A7B2E63EDE7904D8324182FC83B4D"
+    },
     {
       "source": "Adzuna",
       "role": "Actuarial Analyst",
@@ -70,13 +87,13 @@
       "location": "Ny State Campus, Albany County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971700465?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=183A7CC054BA70E145B4EEA41DE25A019B008842"
+      "url": "https://www.adzuna.com/land/ad/5971700465?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=183A7CC054BA70E145B4EEA41DE25A019B008842"
     },
     {
       "source": "Adzuna",
@@ -85,7 +102,7 @@
       "location": "Springfield, Sangamon County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -100,13 +117,13 @@
       "location": "Grandview Heights, Franklin County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971688868?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=5B8152B6F6C62CF58A21B6A7C5818028EC546C72"
+      "url": "https://www.adzuna.com/land/ad/5971688868?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=5B8152B6F6C62CF58A21B6A7C5818028EC546C72"
     },
     {
       "source": "Adzuna",
@@ -115,13 +132,13 @@
       "location": "Five Points, Wake County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971687103?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=76CA103E9B9744F082BAE1A372ECB89D8FD59681"
+      "url": "https://www.adzuna.com/land/ad/5971687103?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=76CA103E9B9744F082BAE1A372ECB89D8FD59681"
     },
     {
       "source": "Adzuna",
@@ -130,13 +147,13 @@
       "location": "Atlanta, Fulton County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971686017?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=7205C31445E4641A82FD03E436334A371F17EBDB"
+      "url": "https://www.adzuna.com/land/ad/5971686017?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=7205C31445E4641A82FD03E436334A371F17EBDB"
     },
     {
       "source": "Adzuna",
@@ -145,13 +162,13 @@
       "location": "Nashville, Davidson County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971681204?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=97E175CFF83A54DBE1A8F80DC9710BA27176FCE0"
+      "url": "https://www.adzuna.com/land/ad/5971681204?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=97E175CFF83A54DBE1A8F80DC9710BA27176FCE0"
     },
     {
       "source": "Adzuna",
@@ -160,13 +177,13 @@
       "location": "Cedar, Cole County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971674916?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=C089C83DFD2B2BBD11A484AEFCFB46AE9A4AC6CF"
+      "url": "https://www.adzuna.com/land/ad/5971674916?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=C089C83DFD2B2BBD11A484AEFCFB46AE9A4AC6CF"
     },
     {
       "source": "Adzuna",
@@ -175,13 +192,13 @@
       "location": "Boston, Suffolk County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971674290?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=DEFDD1360E46DCCFEAD82C961EF60E6459788B00"
+      "url": "https://www.adzuna.com/land/ad/5971674290?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=DEFDD1360E46DCCFEAD82C961EF60E6459788B00"
     },
     {
       "source": "Adzuna",
@@ -190,13 +207,28 @@
       "location": "Lansing, Ingham County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971673151?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=375F2DF5187E0903076AFFC63CF6FD08CD3117BF"
+      "url": "https://www.adzuna.com/land/ad/5971673151?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=375F2DF5187E0903076AFFC63CF6FD08CD3117BF"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Humana",
+      "location": "Uptown, Marion County",
+      "market": "Health",
+      "posted": "2026-11-19",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
+      "url": "https://www.adzuna.com/land/ad/5971672982?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=38AA35A4D950A34F6072B2EDC262C79E3D2CDB0F"
     },
     {
       "source": "Adzuna",
@@ -205,13 +237,13 @@
       "location": "Trenton, Mercer County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971672481?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=AB3B0E41E7975BC29A0632AB7A4D07758C8A43F3"
+      "url": "https://www.adzuna.com/land/ad/5971672481?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=AB3B0E41E7975BC29A0632AB7A4D07758C8A43F3"
     },
     {
       "source": "Adzuna",
@@ -220,13 +252,13 @@
       "location": "Tumwater, Thurston County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971671625?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=6E48170F4E2323B375D7B9B1C1E88D89EDC13E21"
+      "url": "https://www.adzuna.com/land/ad/5971671625?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=6E48170F4E2323B375D7B9B1C1E88D89EDC13E21"
     },
     {
       "source": "Adzuna",
@@ -235,13 +267,13 @@
       "location": "Edgewood, Richland County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971670041?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=FE5422DA23ADC51AF0374B69AF3A504604FB9F90"
+      "url": "https://www.adzuna.com/land/ad/5971670041?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=FE5422DA23ADC51AF0374B69AF3A504604FB9F90"
     },
     {
       "source": "Adzuna",
@@ -250,13 +282,13 @@
       "location": "Phoenix, Maricopa County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971665324?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=09F67BD6D26452E6AF66FE6F1A656ED88FA6BF94"
+      "url": "https://www.adzuna.com/land/ad/5971665324?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=09F67BD6D26452E6AF66FE6F1A656ED88FA6BF94"
     },
     {
       "source": "Adzuna",
@@ -265,13 +297,28 @@
       "location": "Saint Paul, Ramsey County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971665021?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=958AB8B925B87907D76DFDE808081A2FD1615A95"
+      "url": "https://www.adzuna.com/land/ad/5971665021?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=958AB8B925B87907D76DFDE808081A2FD1615A95"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Humana",
+      "location": "Oklahoma City, Oklahoma County",
+      "market": "Health",
+      "posted": "2026-11-19",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
+      "url": "https://www.adzuna.com/land/ad/5971661584?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=7C3CA0BF59C31EEE70C384A43B679A1A968BB31F"
     },
     {
       "source": "Adzuna",
@@ -280,13 +327,28 @@
       "location": "Chisolm, Montgomery County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971660486?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=7D7EC8DF7061480D843DD405DF401EC9F6E40A16"
+      "url": "https://www.adzuna.com/land/ad/5971660486?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=7D7EC8DF7061480D843DD405DF401EC9F6E40A16"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Humana",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "market": "Health",
+      "posted": "2026-11-19",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
+      "url": "https://www.adzuna.com/land/ad/5971658697?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=7B96CEE2006F943A1DF85CD5CD34BF609CF157C1"
     },
     {
       "source": "Adzuna",
@@ -295,13 +357,28 @@
       "location": "Annapolis, Anne Arundel County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971653247?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=FDB54ED82BE389F473B67F645B6C81DAAFCA9DCD"
+      "url": "https://www.adzuna.com/land/ad/5971653247?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=FDB54ED82BE389F473B67F645B6C81DAAFCA9DCD"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Humana",
+      "location": "Salem, Marion County",
+      "market": "Health",
+      "posted": "2026-11-19",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
+      "url": "https://www.adzuna.com/land/ad/5971652352?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=A6085544863EF634D595BA96F9290E4FC0AC9E88"
     },
     {
       "source": "Adzuna",
@@ -310,13 +387,13 @@
       "location": "Frankfort, Franklin County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971651853?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=827600C03D34F44022F90D2DE9C930807C03BE34"
+      "url": "https://www.adzuna.com/land/ad/5971651853?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=827600C03D34F44022F90D2DE9C930807C03BE34"
     },
     {
       "source": "Adzuna",
@@ -325,13 +402,13 @@
       "location": "Madison, Dane County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971651405?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=E586669EB86CE798BDBC6FC40F89AE68B4F82662"
+      "url": "https://www.adzuna.com/land/ad/5971651405?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=E586669EB86CE798BDBC6FC40F89AE68B4F82662"
     },
     {
       "source": "Adzuna",
@@ -340,7 +417,7 @@
       "location": "Penbrook, Dauphin County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -355,13 +432,28 @@
       "location": "Topeka, Shawnee County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971649782?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=21DA042FF22F6342D98DF3C7C9150723258C400E"
+      "url": "https://www.adzuna.com/land/ad/5971649782?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=21DA042FF22F6342D98DF3C7C9150723258C400E"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Humana",
+      "location": "Jackson, Hinds County",
+      "market": "Health",
+      "posted": "2026-11-19",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R"
+      ],
+      "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
+      "url": "https://www.adzuna.com/land/ad/5971648063?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=2C738D838E83F52EBB5009BBA1402F44F0A647E8"
     },
     {
       "source": "Adzuna",
@@ -370,13 +462,13 @@
       "location": "Cammack Village, Pulaski County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971645077?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=976C453E15BE3E48FF0279A7859E8AED52F63777"
+      "url": "https://www.adzuna.com/land/ad/5971645077?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=976C453E15BE3E48FF0279A7859E8AED52F63777"
     },
     {
       "source": "Adzuna",
@@ -385,13 +477,13 @@
       "location": "Des Moines, Polk County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971644908?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=AADB7BBE15295A42B0DEC1AE64588C9ED51DF99C"
+      "url": "https://www.adzuna.com/land/ad/5971644908?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=AADB7BBE15295A42B0DEC1AE64588C9ED51DF99C"
     },
     {
       "source": "Adzuna",
@@ -400,13 +492,13 @@
       "location": "Carson Mall, Carson City",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971640926?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=13E8BEB1A380C4BCFC4BFA21426DFCA85B346563"
+      "url": "https://www.adzuna.com/land/ad/5971640926?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=13E8BEB1A380C4BCFC4BFA21426DFCA85B346563"
     },
     {
       "source": "Adzuna",
@@ -415,13 +507,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971639773?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=F172F87159D90FCCBE61A863AA59568F034B6DD1"
+      "url": "https://www.adzuna.com/land/ad/5971639773?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=F172F87159D90FCCBE61A863AA59568F034B6DD1"
     },
     {
       "source": "Adzuna",
@@ -430,13 +522,13 @@
       "location": "La Cienga, Santa Fe County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971637687?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=7EB56B988C9CD0761A80DAC59647A472387E7A8E"
+      "url": "https://www.adzuna.com/land/ad/5971637687?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=7EB56B988C9CD0761A80DAC59647A472387E7A8E"
     },
     {
       "source": "Adzuna",
@@ -445,13 +537,13 @@
       "location": "State House, Lancaster County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971631905?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=EDA80A35EE1B1F11FB04B74B77CBC240B3C7864B"
+      "url": "https://www.adzuna.com/land/ad/5971631905?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=EDA80A35EE1B1F11FB04B74B77CBC240B3C7864B"
     },
     {
       "source": "Adzuna",
@@ -460,13 +552,13 @@
       "location": "Bonnie, Utah County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971631916?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=58DB074CF854F4E36F8AF645E8ED0A686C3E0177"
+      "url": "https://www.adzuna.com/land/ad/5971631916?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=58DB074CF854F4E36F8AF645E8ED0A686C3E0177"
     },
     {
       "source": "Adzuna",
@@ -475,13 +567,13 @@
       "location": "Charleston, Kanawha County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971631559?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=42D2175FB27E488AD22D1310C2ECB82246A6B4A5"
+      "url": "https://www.adzuna.com/land/ad/5971631559?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=42D2175FB27E488AD22D1310C2ECB82246A6B4A5"
     },
     {
       "source": "Adzuna",
@@ -490,13 +582,13 @@
       "location": "Boise, Ada County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971631330?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=A4D88FC99203E126E9280328E844927C28A5B340"
+      "url": "https://www.adzuna.com/land/ad/5971631330?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=A4D88FC99203E126E9280328E844927C28A5B340"
     },
     {
       "source": "Adzuna",
@@ -505,13 +597,13 @@
       "location": "Washington, D.C., US",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971627265?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=DCD6E8FF8AE101441C252624A7AD9C88630DE7EA"
+      "url": "https://www.adzuna.com/land/ad/5971627265?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=DCD6E8FF8AE101441C252624A7AD9C88630DE7EA"
     },
     {
       "source": "Adzuna",
@@ -520,13 +612,13 @@
       "location": "Glendale, Denver",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971619241?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=8D4A3DD78E144FDF5FEFD46F1C71FF42299B78E1"
+      "url": "https://www.adzuna.com/land/ad/5971619241?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=8D4A3DD78E144FDF5FEFD46F1C71FF42299B78E1"
     },
     {
       "source": "Adzuna",
@@ -535,13 +627,13 @@
       "location": "Sacramento, Sacramento County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971599543?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=C1231E4E1BAC31B70BFA1EFF72A3E9A56BAAFE0B"
+      "url": "https://www.adzuna.com/land/ad/5971599543?se=-ia9dxfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=C1231E4E1BAC31B70BFA1EFF72A3E9A56BAAFE0B"
     },
     {
       "source": "Adzuna",
@@ -550,7 +642,7 @@
       "location": "Capitol, Richmond",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -565,7 +657,7 @@
       "location": "US",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -580,7 +672,7 @@
       "location": "Hopkins, Hennepin County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -595,13 +687,13 @@
       "location": "Montpelier, Washington County",
       "market": "Health",
       "posted": "2026-11-19",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971206467?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=A9E5602B87FABD5A83E2DC447AA6E8EBDF478840"
+      "url": "https://www.adzuna.com/land/ad/5971206467?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=A9E5602B87FABD5A83E2DC447AA6E8EBDF478840"
     },
     {
       "source": "Adzuna",
@@ -610,13 +702,13 @@
       "location": "Pierre, Hughes County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971093811?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=7BAEDB1B9C5CE6A1E03590019D366A4B561E1324"
+      "url": "https://www.adzuna.com/land/ad/5971093811?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=7BAEDB1B9C5CE6A1E03590019D366A4B561E1324"
     },
     {
       "source": "Adzuna",
@@ -625,13 +717,13 @@
       "location": "Bismarck, Burleigh County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971093513?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=607F3ECD857087AF5C5CE51BF67422FDF4E1AD35"
+      "url": "https://www.adzuna.com/land/ad/5971093513?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=607F3ECD857087AF5C5CE51BF67422FDF4E1AD35"
     },
     {
       "source": "Adzuna",
@@ -640,13 +732,13 @@
       "location": "Providence, Providence County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971093354?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=04E9FB4A61B90C8DAF3523B27C9C614A67EC976A"
+      "url": "https://www.adzuna.com/land/ad/5971093354?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=04E9FB4A61B90C8DAF3523B27C9C614A67EC976A"
     },
     {
       "source": "Adzuna",
@@ -655,13 +747,13 @@
       "location": "Wyoming, Kent County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971093332?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=D79C67DF48EFDF98BABEF6E7895A58B6A00D5B96"
+      "url": "https://www.adzuna.com/land/ad/5971093332?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=D79C67DF48EFDF98BABEF6E7895A58B6A00D5B96"
     },
     {
       "source": "Adzuna",
@@ -670,7 +762,7 @@
       "location": "Douglas, Juneau",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -685,13 +777,13 @@
       "location": "Archer, Laramie County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971092896?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=2CB9D1B7E81E54BFF7494032F9C5674E442EDF01"
+      "url": "https://www.adzuna.com/land/ad/5971092896?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=2CB9D1B7E81E54BFF7494032F9C5674E442EDF01"
     },
     {
       "source": "Adzuna",
@@ -700,13 +792,13 @@
       "location": "Urbanización El Vedado, San Juan",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971092334?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=D31FE9A5A447361E5CF1C8D0D8715CA40F4E5912"
+      "url": "https://www.adzuna.com/land/ad/5971092334?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=D31FE9A5A447361E5CF1C8D0D8715CA40F4E5912"
     },
     {
       "source": "Adzuna",
@@ -715,13 +807,13 @@
       "location": "Augusta, Kennebec County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971045676?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=754102D3E9F04A0F8B2DCA82159148919507F3D2"
+      "url": "https://www.adzuna.com/land/ad/5971045676?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=754102D3E9F04A0F8B2DCA82159148919507F3D2"
     },
     {
       "source": "Adzuna",
@@ -730,13 +822,13 @@
       "location": "Wake Island, Honolulu",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971044312?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=AC3EAD5C20470E6B945FBEFCCAB7E4627C6DCCEA"
+      "url": "https://www.adzuna.com/land/ad/5971044312?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=AC3EAD5C20470E6B945FBEFCCAB7E4627C6DCCEA"
     },
     {
       "source": "Adzuna",
@@ -745,13 +837,29 @@
       "location": "Helena, Lewis and Clark County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 0,
+      "postedAgeDays": 1,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5971044173?se=tPQ0P1Hk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=733D869278206521BA254B53F5C683CD22D60995"
+      "url": "https://www.adzuna.com/land/ad/5971044173?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=733D869278206521BA254B53F5C683CD22D60995"
+    },
+    {
+      "source": "Adzuna",
+      "role": "Actuarial Analyst",
+      "company": "Oklahoma Farm Bureau Insurance Company",
+      "location": "Oklahoma City, Oklahoma County",
+      "market": "Pricing/Reserving",
+      "posted": "2026-11-19",
+      "postedAgeDays": 1,
+      "experienceFit": "Likely early-career based on title/keywords",
+      "skills": [
+        "R",
+        "Pricing"
+      ],
+      "summary": "Primary Purpose: We are seeking a curious, collaborative, and business-minded Actuarial Analyst to join our Actuarial Pricing and Product Development team. This position will use data, technology, and actuarial methods to help guide pricing, product, and risk management decisions across our property and casualty insurance business. The ideal candidate enjoys solving complex problems, explaining analytical findings in clear business language, and working with people across the organization. This…",
+      "url": "https://www.adzuna.com/details/5972086709?utm_medium=api&utm_source=75b5032a"
     },
     {
       "source": "Adzuna",
@@ -760,7 +868,7 @@
       "location": "Tarrytown, Travis County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -775,13 +883,13 @@
       "location": "Concord, Merrimack County",
       "market": "Health",
       "posted": "2026-11-18",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Become a part of our caring community The Actuarial Analyst 2, Analytics/Forecasting supports value-based initiatives within the HealthCare Economics team, partnering across actuarial, finance, analytics, and business teams to develop actionable financial insights and forecasting solutions. This role will play a key part in the design and development of a holistic modeling solution, building new methodologies and frameworks from the ground up to support performance measurement, financial reconc…",
-      "url": "https://www.adzuna.com/land/ad/5970520334?se=Qq_cP1Hk8RGzJOoV2dqqBw&utm_medium=api&utm_source=75b5032a&v=A82BB800D722D52397DC219E3FD41B935DC23ECB"
+      "url": "https://www.adzuna.com/land/ad/5970520334?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=A82BB800D722D52397DC219E3FD41B935DC23ECB"
     },
     {
       "source": "Adzuna",
@@ -790,7 +898,7 @@
       "location": "US",
       "market": "Pricing/Reserving",
       "posted": "2026-11-18",
-      "postedAgeDays": 1,
+      "postedAgeDays": 2,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -805,7 +913,7 @@
       "location": "Hartford, Hartford County",
       "market": "Actuarial",
       "posted": "2026-11-16",
-      "postedAgeDays": 2,
+      "postedAgeDays": 3,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -820,13 +928,13 @@
       "location": "San Antonio, Bexar County",
       "market": "Actuarial",
       "posted": "2026-11-16",
-      "postedAgeDays": 3,
+      "postedAgeDays": 4,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. We are proud to support active-duty military spouses. US…",
-      "url": "https://www.adzuna.com/land/ad/5967534545?se=Qq_cP1Hk8RGzJOoV2dqqBw&utm_medium=api&utm_source=75b5032a&v=219CCB19E01F6938B97999B03624710C6AA2EA54"
+      "url": "https://www.adzuna.com/land/ad/5967534545?se=RnWLeBfl8RG5w56ygLr02g&utm_medium=api&utm_source=75b5032a&v=219CCB19E01F6938B97999B03624710C6AA2EA54"
     },
     {
       "source": "Adzuna",
@@ -835,7 +943,7 @@
       "location": "US",
       "market": "Actuarial",
       "posted": "2026-11-15",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -850,7 +958,7 @@
       "location": "Rochester, Monroe County",
       "market": "Health",
       "posted": "2026-11-15",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -865,7 +973,7 @@
       "location": "Rochester, Monroe County",
       "market": "Health",
       "posted": "2026-11-15",
-      "postedAgeDays": 4,
+      "postedAgeDays": 5,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -880,7 +988,7 @@
       "location": "Morristown, Morris County",
       "market": "Health",
       "posted": "2026-11-13",
-      "postedAgeDays": 6,
+      "postedAgeDays": 7,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -891,27 +999,12 @@
     },
     {
       "source": "Adzuna",
-      "role": "Health Data Integrity Analyst",
-      "company": "Teacher Retirement System of Texas",
-      "location": "Sprinkle, Travis County",
-      "market": "Health",
-      "posted": "2026-11-11",
-      "postedAgeDays": 8,
-      "experienceFit": "Likely early-career based on title/keywords",
-      "skills": [
-        "R"
-      ],
-      "summary": "Health Data Integrity Analyst Requisition ID: req1477 Employment Type: Unclassified Regular Full-Time (URF) Division: Health Compensation: Dependent on qualifications Job Closing: 11/18/2026, 11:59PM CT Location: TRS Headquarters Building 2 1900 Aldrich Street Austin, Texas, 78723 United States WHO WE ARE: With the Health Division, you’ll be joining a passionate team of self-motivated change agents united by our mission: driving to design the delivery of high-quality healthcare for nearly three…",
-      "url": "https://www.adzuna.com/details/5961124200?utm_medium=api&utm_source=75b5032a"
-    },
-    {
-      "source": "Adzuna",
       "role": "Actuarial Analyst",
       "company": "Arch Capital Group",
       "location": "Latham, Albany County",
       "market": "Life",
       "posted": "2026-11-11",
-      "postedAgeDays": 8,
+      "postedAgeDays": 9,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -927,7 +1020,7 @@
       "location": "Tallahassee, Leon County",
       "market": "Health",
       "posted": "2026-11-09",
-      "postedAgeDays": 9,
+      "postedAgeDays": 10,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -942,7 +1035,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -957,7 +1050,7 @@
       "location": "Illinois Medical District, Chicago",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -972,13 +1065,13 @@
       "location": "Nashville, Davidson County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex TX - Richardson TN - Nashville IL - Chicago Full time R0056287 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a purpose-driven company that will invest in your professional development. Job Summary This position is responsible for participating in implementation, maintenance and basic analysis of models, st…",
-      "url": "https://www.adzuna.com/land/ad/5958203111?se=mhBfQFHk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=8895FED1B3DAB2913BA6117955BC08B04D49FBBD"
+      "url": "https://www.adzuna.com/land/ad/5958203111?se=eBVPeRfl8RGK1Jozpv_WtA&utm_medium=api&utm_source=75b5032a&v=8895FED1B3DAB2913BA6117955BC08B04D49FBBD"
     },
     {
       "source": "Adzuna",
@@ -987,13 +1080,13 @@
       "location": "Nashville, Davidson County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5958203042?se=mhBfQFHk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=13E4D69EEDE447D134C833698A510FAEC09DF765"
+      "url": "https://www.adzuna.com/land/ad/5958203042?se=eBVPeRfl8RGK1Jozpv_WtA&utm_medium=api&utm_source=75b5032a&v=13E4D69EEDE447D134C833698A510FAEC09DF765"
     },
     {
       "source": "Adzuna",
@@ -1002,13 +1095,13 @@
       "location": "Williams, Tulsa County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5958177906?se=mhBfQFHk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=8C1760DD592F84B0003FE5564CA4098A884F7DBE"
+      "url": "https://www.adzuna.com/land/ad/5958177906?se=eBVPeRfl8RGK1Jozpv_WtA&utm_medium=api&utm_source=75b5032a&v=8C1760DD592F84B0003FE5564CA4098A884F7DBE"
     },
     {
       "source": "Adzuna",
@@ -1017,13 +1110,13 @@
       "location": "Village of Los Ranchos, Bernalillo County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5958145902?se=mhBfQFHk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=38209198AC484775412EF7987F19A4013F622F0D"
+      "url": "https://www.adzuna.com/land/ad/5958145902?se=eBVPeRfl8RGK1Jozpv_WtA&utm_medium=api&utm_source=75b5032a&v=38209198AC484775412EF7987F19A4013F622F0D"
     },
     {
       "source": "Adzuna",
@@ -1032,7 +1125,7 @@
       "location": "Chicago, Cook County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1047,7 +1140,7 @@
       "location": "Richardson, Dallas",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1062,13 +1155,13 @@
       "location": "Helena, Lewis and Clark County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Flex IL - Chicago Tulsa Oklahoma HQ (1400 S. Boston Avenue) Helena Montana HQ (3645 Alice Street) Richardson Texas HQ (1001 E. Lookout Drive) Albuquerque New Mexico HQ (5701 Balloon Fiesta Parkway) Nashville Tennessee HQ (500 Great Circle Road) Full time R0056296 At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a …",
-      "url": "https://www.adzuna.com/land/ad/5957703084?se=mhBfQFHk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=F5A3BC62FBE0EE40D7F35937D4AC63950A57A85B"
+      "url": "https://www.adzuna.com/land/ad/5957703084?se=eBVPeRfl8RGK1Jozpv_WtA&utm_medium=api&utm_source=75b5032a&v=F5A3BC62FBE0EE40D7F35937D4AC63950A57A85B"
     },
     {
       "source": "Adzuna",
@@ -1077,13 +1170,13 @@
       "location": "Talcott Village, Hartford County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
       ],
       "summary": "Actuarial Analyst - AS08CE We're determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals - and to help others accomplish theirs, too. Join our team as we help shape the future. This position plays a key role for the General Liability LOB Actuarial team and will be supporting the Loss Ratio Planning and Trend monitoring for GL, Umbrella, and Excess lines. The candidate…",
-      "url": "https://www.adzuna.com/land/ad/5958173581?se=mhBfQFHk8RGQV8pfq4KZCg&utm_medium=api&utm_source=75b5032a&v=DC527FE4D4CEC31F76291C46697818FCA64D1A02"
+      "url": "https://www.adzuna.com/land/ad/5958173581?se=eBVPeRfl8RGK1Jozpv_WtA&utm_medium=api&utm_source=75b5032a&v=DC527FE4D4CEC31F76291C46697818FCA64D1A02"
     },
     {
       "source": "Adzuna",
@@ -1092,7 +1185,7 @@
       "location": "Hartford, Hartford County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1107,7 +1200,7 @@
       "location": "Albany, Albany County",
       "market": "Actuarial",
       "posted": "2026-11-08",
-      "postedAgeDays": 11,
+      "postedAgeDays": 12,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1122,7 +1215,7 @@
       "location": "Buckingham, Dallas",
       "market": "Actuarial",
       "posted": "2026-11-07",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1137,7 +1230,7 @@
       "location": "Buckingham, Dallas",
       "market": "Actuarial",
       "posted": "2026-11-07",
-      "postedAgeDays": 12,
+      "postedAgeDays": 13,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R"
@@ -1152,7 +1245,7 @@
       "location": "Jersey City, Hudson County",
       "market": "Pricing/Reserving",
       "posted": "2026-11-06",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
@@ -1168,7 +1261,7 @@
       "location": "Sheboygan, Sheboygan County",
       "market": "Pricing/Reserving",
       "posted": "2026-11-06",
-      "postedAgeDays": 13,
+      "postedAgeDays": 14,
       "experienceFit": "Likely early-career based on title/keywords",
       "skills": [
         "R",
